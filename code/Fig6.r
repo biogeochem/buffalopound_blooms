@@ -9,7 +9,7 @@ library(ggrepel)
 library(patchwork)
 
 ## 2018 ####
-phytos_2018 <- read_csv(here("data/processed_data/", "BP_PhytoTax_2018_KP.csv"))
+phytos_2018 <- read_csv(here("data/clean_data/", "BP_PhytoTax_2018_KP.csv"))
 
 cyanos_18 <- phytos_2018 %>% filter(Group == "Cyanophyte")
 
@@ -123,7 +123,7 @@ vec_plot18 <- cyano_nmdsplot_18_2 +
   geom_text_repel(data = sig_sqrt_toxscores_18, aes(x=NMDS1, y=NMDS2, label = toxs), size = 3, bg.colour = "white", bg.r = 0.15, colour = "black", fontface = "bold", direction = "both", segment.size = NA, segment.angle = 180) #add labels for toxins
 
 ## 2019 ####
-phytos_2019 <- read_csv(here("data/processed_data/", "BP_PhytoTax_2019_KP.csv"))
+phytos_2019 <- read_csv(here("data/clean_data/", "BP_PhytoTax_2019_KP.csv"))
 
 cyanos_19 <- phytos_2019 %>% filter(Group == "Cyanophyte")
 

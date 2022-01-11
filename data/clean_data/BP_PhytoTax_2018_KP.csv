@@ -1,0 +1,818 @@
+Sample_ID,Location,Depth,DOY,Species_Code,Species_Name,Cell_Density_L,Biomass_mg_m3,Length_um,Width_um,Cell_Volume_um3,Group,Description_Code,Phylum,Family,Genus,Species,name_code
+16832,Buffalo Pound,0.8,149,P1028,Merismopedia glauca (Ehrenberg) Kutzing,143680,2.59,0,0,18,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Merismopedia,glauca,Mer.gla
+16832,Buffalo Pound,0.8,149,P1054,Planktolyngbya limnetica,16600,4.51,240,1.2,271.4,Cyanophyte,PHYT,Cyanophyta,Oscillatotiaceae,Planktolyngbya,limnetica,Pla.lim
+16832,Buffalo Pound,0.8,149,P1076,Woronichinia compacta (Lemmermann) Komarek and Hindak,400,0.2,0,0,500,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Woronichinia,compacta,Wor.com
+16832,Buffalo Pound,0.8,149,P1078,Planktothrix agardhii (Gom.) Anagnostidis and Komarek,600,1.66,220,4,2764.6,Cyanophyte,PHYT,Cyanophyta,Oscillatotiaceae,Planktothrix,agardhii,Pla.aga
+16832,Buffalo Pound,0.8,149,P1088,Anabaena solitaria Klebs,200,1.23,215,7.4,6164.5,Cyanophyte,PHYT,Cyanophyta,Nostocaceae,Anabaena,solitaria,Ana.sol
+16832,Buffalo Pound,0.8,149,P1133,Anabaena flos-aquae (Lyngb.) Breb. & Bornet,200,1.41,310,6.6,7070.5,Cyanophyte,PHYT,Cyanophyta,Nostocaceae,Anabaena,flos-aquae,Ana.flo
+16832,Buffalo Pound,0.8,149,P2105,Chlamydomonas spp.,114944,5.78,6,4,50.3,Chlorophyte,PHYT,Chlorophyta,Chlamydomonadaceae,Chlamydomonas,spp.,Chl.spp
+16832,Buffalo Pound,0.8,149,P2113,Pediastrum duplex Meyen,400,0.84,0,0,2100,Chlorophyte,PHYT,Chlorophyta,Hydrodictyaceae,Pediastrum,duplex,Ped.dup
+16832,Buffalo Pound,0.8,149,P2121,Oocystis lacustris Chodat,122128,3.22,5.6,3,26.4,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Oocystis,lacustris,Ooc.lac
+16832,Buffalo Pound,0.8,149,P2136,Dictyosphaerium pulchellum Wood,395120,44.69,6,6,113.1,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Dictyosphaerium,pulchellum,Dic.pul
+16832,Buffalo Pound,0.8,149,P2141,Monoraphidium contortum (Thur.) Komarkova-Legnerova,50288,0.94,21,1.5,18.6,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Monoraphidium,contortum,Mon.con
+16832,Buffalo Pound,0.8,149,P2143,Monoraphidium minutum (Nag.) Komarkova-Legnerova,172416,9.31,8.6,4,54,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Monoraphidium,minutum,Mon.min
+16832,Buffalo Pound,0.8,149,P2215,Tetraedron caudatum (Corda) Hansgrig,150864,0.71,3,3,4.7,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Tetraedron,caudatum,Tet.cau
+16832,Buffalo Pound,0.8,149,P2215,Tetraedron caudatum (Corda) Hansgrig,64656,0.3,3,3,4.7,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Tetraedron,caudatum,Tet.cau
+16832,Buffalo Pound,0.8,149,P2256,Actinastrum sp. Lagerheim,186784,2.65,4,2.6,14.2,Chlorophyte,PHYT,NA,NA,NA,NA,NA.NA
+16832,Buffalo Pound,0.8,149,P4351,Small chrysophyceae,438224,4.51,2.7,2.7,10.3,Chrysophyte,PHYT,Chrysophyta,.,Small chrysophyceae,.,Sma..
+16832,Buffalo Pound,0.8,149,P4352,Large chrysophyceae,179600,32.26,7,7,179.6,Chrysophyte,PHYT,Chrysophyta,.,Large chrysophyceae,.,Lar..
+16832,Buffalo Pound,0.8,149,P4355,Chrysochromulina parva Lackey,1293120,84.57,5,5,65.4,Chrysophyte,PHYT,Chrysophyta,Prymnesiaceae,Chrysochromulina,parva,Chr.par
+16832,Buffalo Pound,0.8,149,P4358,Chrysostephanosphaera globulifera Scherffel,50288,16.75,8.6,8.6,333,Chrysophyte,PHYT,Chrysophyta,Rhizochrysidaceae,Chrysostephanospaera,globulifera,Chr.glo
+16832,Buffalo Pound,0.8,149,P4362,Kephyrion sp.,172416,3.24,3.3,3.3,18.8,Chrysophyte,PHYT,Chrysophyta,Chromulineae,Kephyrion,sp.,Kep.sp.
+16832,Buffalo Pound,0.8,149,P4369,Mallomonas pseudocoronata Prescott,400,0.46,22,10,1151.9,Chrysophyte,PHYT,Chrysophyta,Synuraceae,Mallomonas,pseudocoronata,Mal.pse
+16832,Buffalo Pound,0.8,149,P4388,Dinobryon sertularia Ehrenberg,1523008,344.5,12,6,226.2,Chrysophyte,PHYT,Chrysophyta,Dinobryoaceae,Dinobryon,sertularia,Din.ser
+16832,Buffalo Pound,0.8,149,P4388,Dinobryon sertularia Ehrenberg,800,1,0,0,1250,Chrysophyte,PHYT,Chrysophyta,Dinobryoaceae,Dinobryon,sertularia,Din.ser
+16832,Buffalo Pound,0.8,149,P4401,Uroglena volvox Ehrenberg,251440,28.44,6,6,113.1,Chrysophyte,PHYT,Chrysophyta,Ochromonadaceae,Uroglena,volvox,Uro.vol
+16832,Buffalo Pound,0.8,149,P4413,Chrysochromulina laurentiana Kling,86208,52.25,10.5,10.5,606.1,Chrysophyte,PHYT,Chrysophyta,Prymnesiaceae,Chrysochromulina,laurentiana,Chr.lau
+16832,Buffalo Pound,0.8,149,P4418,Salpingoeca frequentissima (Zach.) Lemmermann,21552,0.61,6,3,28.3,Chrysophyte,PHYT,Chrysophyta,Craspedomonadaceae,Salpingoeca,frequentissima,Sal.fre
+16832,Buffalo Pound,0.8,149,P5507,Cyclotella stelligera Cleve and Grunow,400,0.73,10.5,21,1818.4,Diatom,PHYT,Chrysophyta,Coscinodiscoideae,Cyclotella,stelligera,Cyc.ste
+16832,Buffalo Pound,0.8,149,P5515,Fragilaria crotonensis Kitton,37600,12.13,77,4,322.5,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,crotonensis,Fra.cro
+16832,Buffalo Pound,0.8,149,P5524,Asterionella formosa Hassall,2000,0.21,99,2,103.7,Diatom,PHYT,Chrysophyta,Fragilarioideae,Asterionella,formosa,Ast.for
+16832,Buffalo Pound,0.8,149,P5551,Cyclotella michiganiana Skvortzow,93392,2.29,2.5,5,24.5,Diatom,PHYT,Chrysophyta,Coscinodiscoideae,Cyclotella,michiganiana,Cyc.mic
+16832,Buffalo Pound,0.8,149,P6554,Rhodomonas minuta Skuja,237072,20.7,10,5,87.3,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Rhodomonas,minuta,Rho.min
+16832,Buffalo Pound,0.8,149,P6558,Cryptomonas erosa Ehrenberg,1200,2.13,26,14,1778.8,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Cryptomonas,erosa,Cry.ero
+16832,Buffalo Pound,0.8,149,P6568,Katablepharis ovalis Skuja,251440,11.79,8.2,4,46.9,Cryptophyte,PHYT,Pyrrhophyta,Katablepharidaceae,Katablepharis,ovalis,Kat.ova
+16832,Buffalo Pound,0.8,149,P7632,Gymnodinium sp.,400,3.68,26,26,9202.8,Dinoflagellate,PHYT,Pyrrhophyta,Gymnodinaceae,Gymnodinium,sp.,Gym.sp.
+16832,Buffalo Pound,0.8,149,P7639,Peridinium pusillum (Penard) Lemmermann,1600,6.02,19.3,19.3,3764.2,Dinoflagellate,PHYT,Pyrrhophyta,Peridiniaceae,Peridinium,pusillum,Per.pus
+16832,Buffalo Pound,0.8,149,P7640,Peridinium goslaviense Woloszynska,200,6.7,40,40,33510.3,Dinoflagellate,PHYT,Pyrrhophyta,Peridiniaceae,Peridinium,goslaviense,Per.gos
+16832,Buffalo Pound,0.8,149,P7641,Peridinium aciculiferum Lemmermann,200,1.81,30,24,9047.8,Dinoflagellate,PHYT,Pyrrhophyta,Peridiniaceae,Peridinium,aciculiferum,Per.aci
+16835,Buffalo Pound,0.8,158,P1028,Merismopedia glauca (Ehrenberg) Kutzing,28736,0.52,0,0,18,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Merismopedia,glauca,Mer.gla
+16835,Buffalo Pound,0.8,158,P1054,Planktolyngbya limnetica,9200,2.24,215,1.2,243.2,Cyanophyte,PHYT,Cyanophyta,Oscillatotiaceae,Planktolyngbya,limnetica,Pla.lim
+16835,Buffalo Pound,0.8,158,P1133,Anabaena flos-aquae (Lyngb.) Breb. & Bornet,4400,30.86,360,6.1,7013.9,Cyanophyte,PHYT,Cyanophyta,Nostocaceae,Anabaena,flos-aquae,Ana.flo
+16835,Buffalo Pound,0.8,158,P2105,Chlamydomonas spp.,21552,1.08,6,4,50.3,Chlorophyte,PHYT,Chlorophyta,Chlamydomonadaceae,Chlamydomonas,spp.,Chl.spp
+16835,Buffalo Pound,0.8,158,P2121,Oocystis lacustris Chodat,93392,2.64,6,3,28.3,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Oocystis,lacustris,Ooc.lac
+16835,Buffalo Pound,0.8,158,P2130,Scenedesmus quadricauda (Turp.) Brebisson,28736,1.38,8.6,4,48,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,quadricauda,Sce.qua
+16835,Buffalo Pound,0.8,158,P2132,Scenedesmus denticulatus Lagerhiem,114944,5.33,8.3,4,46.4,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,denticulatus,Sce.den
+16835,Buffalo Pound,0.8,158,P2141,Monoraphidium contortum (Thur.) Komarkova-Legnerova,100576,1.78,20,1.5,17.7,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Monoraphidium,contortum,Mon.con
+16835,Buffalo Pound,0.8,158,P2143,Monoraphidium minutum (Nag.) Komarkova-Legnerova,804608,38.94,7.7,4,48.4,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Monoraphidium,minutum,Mon.min
+16835,Buffalo Pound,0.8,158,P2145,Crucigenia quadrata Morr.,229888,1.08,3,3,4.7,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Crucigeniella,quadrata,Cru.qua
+16835,Buffalo Pound,0.8,158,P2235,Ankistrodesmus spiralis Lemmermann,114944,7.37,37,2.1,64.1,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Ankistrodesmus,spiralis,Ank.spi
+16835,Buffalo Pound,0.8,158,P2255,Selenastrum copricornutum Printz,86208,0.94,7.2,1.7,10.9,Chlorophyte,PHYT,Chlorophyta,Selenastraceae,Selenastrum,copricornutum,Sel.cop
+16835,Buffalo Pound,0.8,158,P2256,Actinastrum sp. Lagerheim,114944,1.89,5,2.5,16.4,Chlorophyte,PHYT,NA,NA,NA,NA,NA.NA
+16835,Buffalo Pound,0.8,158,P4351,Small chrysophyceae,545984,6.99,2.9,2.9,12.8,Chrysophyte,PHYT,Chrysophyta,.,Small chrysophyceae,.,Sma..
+16835,Buffalo Pound,0.8,158,P4352,Large chrysophyceae,7184,1.29,7,7,179.6,Chrysophyte,PHYT,Chrysophyta,.,Large chrysophyceae,.,Lar..
+16835,Buffalo Pound,0.8,158,P4355,Chrysochromulina parva Lackey,244256,15.97,5,5,65.4,Chrysophyte,PHYT,Chrysophyta,Prymnesiaceae,Chrysochromulina,parva,Chr.par
+16835,Buffalo Pound,0.8,158,P4388,Dinobryon sertularia Ehrenberg,193968,43.88,12,6,226.2,Chrysophyte,PHYT,Chrysophyta,Dinobryoaceae,Dinobryon,sertularia,Din.ser
+16835,Buffalo Pound,0.8,158,P4401,Uroglena volvox Ehrenberg,122128,13.81,6,6,113.1,Chrysophyte,PHYT,Chrysophyta,Ochromonadaceae,Uroglena,volvox,Uro.vol
+16835,Buffalo Pound,0.8,158,P4414,Stichogloea spp.,43104,2.17,6,4,50.3,Chrysophyte,PHYT,Chrysophyta,Stichogloeaceae,Stichogloea,spp.,Sti.spp
+16835,Buffalo Pound,0.8,158,P4418,Salpingoeca frequentissima (Zach.) Lemmermann,43104,1.47,6,3.3,34.2,Chrysophyte,PHYT,Chrysophyta,Craspedomonadaceae,Salpingoeca,frequentissima,Sal.fre
+16835,Buffalo Pound,0.8,158,P5515,Fragilaria crotonensis Kitton,1200,0.37,73,4,305.8,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,crotonensis,Fra.cro
+16835,Buffalo Pound,0.8,158,P5523,Synedra ulna (Nitzsch) Ehrenberg,200,0.41,220,6,2073.5,Diatom,PHYT,Chrysophyta,Fragilarioideae,Synedra,ulna,Syn.uln
+16835,Buffalo Pound,0.8,158,P6568,Katablepharis ovalis Skuja,21552,0.96,8,4,44.7,Cryptophyte,PHYT,Pyrrhophyta,Katablepharidaceae,Katablepharis,ovalis,Kat.ova
+16838,Buffalo Pound,0.8,164,P1014,Chroococcus limneticus Lemmermann,28736,2.24,5.3,5.3,78,Cyanophyte,PHYT,Cyanophyta,Chroococcaceae,Chroococcus,limneticus,Chr.lim
+16838,Buffalo Pound,0.8,164,P1028,Merismopedia glauca (Ehrenberg) Kutzing,114944,2.07,0,0,18,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Merismopedia,glauca,Mer.gla
+16838,Buffalo Pound,0.8,164,P1054,Planktolyngbya limnetica,125800,32.72,230,1.2,260.1,Cyanophyte,PHYT,Cyanophyta,Oscillatotiaceae,Planktolyngbya,limnetica,Pla.lim
+16838,Buffalo Pound,0.8,164,P1076,Woronichinia compacta (Lemmermann) Komarek and Hindak,800,0.4,0,0,500,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Woronichinia,compacta,Wor.com
+16838,Buffalo Pound,0.8,164,P1078,Planktothrix agardhii (Gom.) Anagnostidis and Komarek,1800,5.86,235,4.2,3255.8,Cyanophyte,PHYT,Cyanophyta,Oscillatotiaceae,Planktothrix,agardhii,Pla.aga
+16838,Buffalo Pound,0.8,164,P1088,Anabaena solitaria Klebs,8200,41.18,180,7.3,5022.5,Cyanophyte,PHYT,Cyanophyta,Nostocaceae,Anabaena,solitaria,Ana.sol
+16838,Buffalo Pound,0.8,164,P1133,Anabaena flos-aquae (Lyngb.) Breb. & Bornet,32800,253.57,372,6.3,7730.8,Cyanophyte,PHYT,Cyanophyta,Nostocaceae,Anabaena,flos-aquae,Ana.flo
+16838,Buffalo Pound,0.8,164,P2105,Chlamydomonas spp.,79024,1.94,5.2,3,24.5,Chlorophyte,PHYT,Chlorophyta,Chlamydomonadaceae,Chlamydomonas,spp.,Chl.spp
+16838,Buffalo Pound,0.8,164,P2105,Chlamydomonas spp.,14368,2.17,8,6,150.8,Chlorophyte,PHYT,Chlorophyta,Chlamydomonadaceae,Chlamydomonas,spp.,Chl.spp
+16838,Buffalo Pound,0.8,164,P2113,Pediastrum duplex Meyen,400,1.24,0,0,3100,Chlorophyte,PHYT,Chlorophyta,Hydrodictyaceae,Pediastrum,duplex,Ped.dup
+16838,Buffalo Pound,0.8,164,P2121,Oocystis lacustris Chodat,150864,7.59,6,4,50.3,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Oocystis,lacustris,Ooc.lac
+16838,Buffalo Pound,0.8,164,P2130,Scenedesmus quadricauda (Turp.) Brebisson,186784,8.44,8.1,4,45.2,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,quadricauda,Sce.qua
+16838,Buffalo Pound,0.8,164,P2132,Scenedesmus denticulatus Lagerhiem,201152,9.33,8.3,4,46.4,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,denticulatus,Sce.den
+16838,Buffalo Pound,0.8,164,P2136,Dictyosphaerium pulchellum Wood,955472,108.06,6,6,113.1,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Dictyosphaerium,pulchellum,Dic.pul
+16838,Buffalo Pound,0.8,164,P2141,Monoraphidium contortum (Thur.) Komarkova-Legnerova,215520,4.01,21,1.5,18.6,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Monoraphidium,contortum,Mon.con
+16838,Buffalo Pound,0.8,164,P2145,Crucigenia quadrata Morr.,172416,0.81,3,3,4.7,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Crucigeniella,quadrata,Cru.qua
+16838,Buffalo Pound,0.8,164,P2235,Ankistrodesmus spiralis Lemmermann,100576,5.23,30,2.1,52,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Ankistrodesmus,spiralis,Ank.spi
+16838,Buffalo Pound,0.8,164,P2255,Selenastrum copricornutum Printz,732768,7.99,7.2,1.7,10.9,Chlorophyte,PHYT,Chlorophyta,Selenastraceae,Selenastrum,copricornutum,Sel.cop
+16838,Buffalo Pound,0.8,164,P2256,Actinastrum sp. Lagerheim,28736,0.47,5,2.5,16.4,Chlorophyte,PHYT,NA,NA,NA,NA,NA.NA
+16838,Buffalo Pound,0.8,164,P3304,Phacus sp.,400,3.6,43,20,9005.9,Euglenophyte,PHYT,Euglenophyta,Euglenaceae,Phacus,sp.,Pha.sp.
+16838,Buffalo Pound,0.8,164,P4351,Small chrysophyceae,258624,2.38,2.6,2.6,9.2,Chrysophyte,PHYT,Chrysophyta,.,Small chrysophyceae,.,Sma..
+16838,Buffalo Pound,0.8,164,P4352,Large chrysophyceae,79024,14.19,7,7,179.6,Chrysophyte,PHYT,Chrysophyta,.,Large chrysophyceae,.,Lar..
+16838,Buffalo Pound,0.8,164,P4355,Chrysochromulina parva Lackey,71840,4.7,5,5,65.4,Chrysophyte,PHYT,Chrysophyta,Prymnesiaceae,Chrysochromulina,parva,Chr.par
+16838,Buffalo Pound,0.8,164,P4358,Chrysostephanosphaera globulifera Scherffel,14368,5.67,9.1,9.1,394.6,Chrysophyte,PHYT,Chrysophyta,Rhizochrysidaceae,Chrysostephanospaera,globulifera,Chr.glo
+16838,Buffalo Pound,0.8,164,P4388,Dinobryon sertularia Ehrenberg,71840,16.25,12,6,226.2,Chrysophyte,PHYT,Chrysophyta,Dinobryoaceae,Dinobryon,sertularia,Din.ser
+16838,Buffalo Pound,0.8,164,P4414,Stichogloea spp.,14368,0.72,6,4,50.3,Chrysophyte,PHYT,Chrysophyta,Stichogloeaceae,Stichogloea,spp.,Sti.spp
+16838,Buffalo Pound,0.8,164,P4418,Salpingoeca frequentissima (Zach.) Lemmermann,57472,2.21,6,3.5,38.5,Chrysophyte,PHYT,Chrysophyta,Craspedomonadaceae,Salpingoeca,frequentissima,Sal.fre
+16838,Buffalo Pound,0.8,164,P5509,Cyclotella ocellata Pant.,7184,1.03,4.5,9,143.1,Diatom,PHYT,Chrysophyta,Coscinodiscoideae,Cyclotella,ocellata,Cyc.oce
+16838,Buffalo Pound,0.8,164,P5515,Fragilaria crotonensis Kitton,800,0.24,71,4,297.4,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,crotonensis,Fra.cro
+16838,Buffalo Pound,0.8,164,P5550,Fragilaria capucina v. rumpens (Kutzing) Lange-Bertalot,7184,1.23,41,4,171.7,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,capucina,Fra.cap
+16838,Buffalo Pound,0.8,164,P5551,Cyclotella michiganiana Skvortzow,474144,11.62,2.5,5,24.5,Diatom,PHYT,Chrysophyta,Coscinodiscoideae,Cyclotella,michiganiana,Cyc.mic
+16838,Buffalo Pound,0.8,164,P6554,Rhodomonas minuta Skuja,93392,7.42,9.1,5,79.4,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Rhodomonas,minuta,Rho.min
+16838,Buffalo Pound,0.8,164,P6558,Cryptomonas erosa Ehrenberg,400,0.71,26,14,1778.8,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Cryptomonas,erosa,Cry.ero
+16838,Buffalo Pound,0.8,164,P6568,Katablepharis ovalis Skuja,14368,0.66,8.1,4,45.8,Cryptophyte,PHYT,Pyrrhophyta,Katablepharidaceae,Katablepharis,ovalis,Kat.ova
+16838,Buffalo Pound,0.8,164,P7632,Gymnodinium sp.,200,1.84,26,26,9202.8,Dinoflagellate,PHYT,Pyrrhophyta,Gymnodinaceae,Gymnodinium,sp.,Gym.sp.
+16838,Buffalo Pound,0.8,164,P7635,Peridinium willei Huitfeldt-Kaas,200,4.89,36,36,24429,Dinoflagellate,PHYT,Pyrrhophyta,Peridiniaceae,Peridinium,willei,Per.wil
+16838,Buffalo Pound,0.8,164,P7639,Peridinium pusillum (Penard) Lemmermann,600,2.51,20,20,4188.8,Dinoflagellate,PHYT,Pyrrhophyta,Peridiniaceae,Peridinium,pusillum,Per.pus
+16838,Buffalo Pound,0.8,164,P7640,Peridinium goslaviense Woloszynska,3400,113.94,40,40,33510.3,Dinoflagellate,PHYT,Pyrrhophyta,Peridiniaceae,Peridinium,goslaviense,Per.gos
+16841,Buffalo Pound,0.8,170,P1028,Merismopedia glauca (Ehrenberg) Kutzing,172416,3.1,0,0,18,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Merismopedia,glauca,Mer.gla
+16841,Buffalo Pound,0.8,170,P1078,Planktothrix agardhii (Gom.) Anagnostidis and Komarek,26800,290.31,491,5.3,10832.4,Cyanophyte,PHYT,Cyanophyta,Oscillatotiaceae,Planktothrix,agardhii,Pla.aga
+16841,Buffalo Pound,0.8,170,P1132,Anabaena crassa (Lemm.) Kom-Legn. & Crongerg,40200,799.85,380,10,19896.8,Cyanophyte,PHYT,Cyanophyta,Nostocaceae,Anabaena,crassa,Ana.cra
+16841,Buffalo Pound,0.8,170,P1133,Anabaena flos-aquae (Lyngb.) Breb. & Bornet,234000,1624.87,345,6.2,6943.9,Cyanophyte,PHYT,Cyanophyta,Nostocaceae,Anabaena,flos-aquae,Ana.flo
+16841,Buffalo Pound,0.8,170,P2121,Oocystis lacustris Chodat,222704,11.2,6,4,50.3,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Oocystis,lacustris,Ooc.lac
+16841,Buffalo Pound,0.8,170,P2130,Scenedesmus quadricauda (Turp.) Brebisson,423856,23.52,8.6,4.3,55.5,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,quadricauda,Sce.qua
+16841,Buffalo Pound,0.8,170,P2132,Scenedesmus denticulatus Lagerhiem,617824,28.67,8.3,4,46.4,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,denticulatus,Sce.den
+16841,Buffalo Pound,0.8,170,P2141,Monoraphidium contortum (Thur.) Komarkova-Legnerova,222704,3.94,20,1.5,17.7,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Monoraphidium,contortum,Mon.con
+16841,Buffalo Pound,0.8,170,P2255,Selenastrum copricornutum Printz,122128,1.29,7,1.7,10.6,Chlorophyte,PHYT,Chlorophyta,Selenastraceae,Selenastrum,copricornutum,Sel.cop
+16841,Buffalo Pound,0.8,170,P3301,Euglena acus Ehrenberg,200,1.6,106,12,7992.2,Euglenophyte,PHYT,Euglenophyta,Euglenaceae,Euglena,acus,Eug.acu
+16841,Buffalo Pound,0.8,170,P4355,Chrysochromulina parva Lackey,1975600,129.2,5,5,65.4,Chrysophyte,PHYT,Chrysophyta,Prymnesiaceae,Chrysochromulina,parva,Chr.par
+16841,Buffalo Pound,0.8,170,P4388,Dinobryon sertularia Ehrenberg,122128,27.63,12,6,226.2,Chrysophyte,PHYT,Chrysophyta,Dinobryoaceae,Dinobryon,sertularia,Din.ser
+16841,Buffalo Pound,0.8,170,P4401,Uroglena volvox Ehrenberg,1932496,218.57,6,6,113.1,Chrysophyte,PHYT,Chrysophyta,Ochromonadaceae,Uroglena,volvox,Uro.vol
+16841,Buffalo Pound,0.8,170,P4418,Salpingoeca frequentissima (Zach.) Lemmermann,64656,2.21,6,3.3,34.2,Chrysophyte,PHYT,Chrysophyta,Craspedomonadaceae,Salpingoeca,frequentissima,Sal.fre
+16841,Buffalo Pound,0.8,170,P5515,Fragilaria crotonensis Kitton,3200,0.95,71,4,297.4,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,crotonensis,Fra.cro
+16841,Buffalo Pound,0.8,170,P5550,Fragilaria capucina v. rumpens (Kutzing) Lange-Bertalot,2198304,377.45,41,4,171.7,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,capucina,Fra.cap
+16841,Buffalo Pound,0.8,170,P5551,Cyclotella michiganiana Skvortzow,725584,17.78,2.5,5,24.5,Diatom,PHYT,Chrysophyta,Coscinodiscoideae,Cyclotella,michiganiana,Cyc.mic
+16841,Buffalo Pound,0.8,170,P6554,Rhodomonas minuta Skuja,7184,0.47,9.2,4.5,65,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Rhodomonas,minuta,Rho.min
+16841,Buffalo Pound,0.8,170,P7632,Gymnodinium sp.,2200,15.92,24,24,7238.2,Dinoflagellate,PHYT,Pyrrhophyta,Gymnodinaceae,Gymnodinium,sp.,Gym.sp.
+16841,Buffalo Pound,0.8,170,P7639,Peridinium pusillum (Penard) Lemmermann,12400,46.68,19.3,19.3,3764.2,Dinoflagellate,PHYT,Pyrrhophyta,Peridiniaceae,Peridinium,pusillum,Per.pus
+16841,Buffalo Pound,0.8,170,P7640,Peridinium goslaviense Woloszynska,6000,201.06,40,40,33510.3,Dinoflagellate,PHYT,Pyrrhophyta,Peridiniaceae,Peridinium,goslaviense,Per.gos
+16845,Buffalo Pound,0.8,172,P1028,Merismopedia glauca (Ehrenberg) Kutzing,150864,2.72,0,0,18,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Merismopedia,glauca,Mer.gla
+16845,Buffalo Pound,0.8,172,P1054,Planktolyngbya limnetica,3600,0.69,169,1.2,191.1,Cyanophyte,PHYT,Cyanophyta,Oscillatotiaceae,Planktolyngbya,limnetica,Pla.lim
+16845,Buffalo Pound,0.8,172,P1078,Planktothrix agardhii (Gom.) Anagnostidis and Komarek,3000,21.66,340,5.2,7220.6,Cyanophyte,PHYT,Cyanophyta,Oscillatotiaceae,Planktothrix,agardhii,Pla.aga
+16845,Buffalo Pound,0.8,172,P1088,Anabaena solitaria Klebs,400,1.49,141,7.1,3721.6,Cyanophyte,PHYT,Cyanophyta,Nostocaceae,Anabaena,solitaria,Ana.sol
+16845,Buffalo Pound,0.8,172,P1132,Anabaena crassa (Lemm.) Kom-Legn. & Crongerg,27000,303.95,215,10,11257.4,Cyanophyte,PHYT,Cyanophyta,Nostocaceae,Anabaena,crassa,Ana.cra
+16845,Buffalo Pound,0.8,172,P1133,Anabaena flos-aquae (Lyngb.) Breb. & Bornet,87600,643.54,365,6.2,7346.4,Cyanophyte,PHYT,Cyanophyta,Nostocaceae,Anabaena,flos-aquae,Ana.flo
+16845,Buffalo Pound,0.8,172,P2121,Oocystis lacustris Chodat,93392,4.7,6,4,50.3,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Oocystis,lacustris,Ooc.lac
+16845,Buffalo Pound,0.8,172,P2130,Scenedesmus quadricauda (Turp.) Brebisson,395120,18.33,8.3,4,46.4,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,quadricauda,Sce.qua
+16845,Buffalo Pound,0.8,172,P2132,Scenedesmus denticulatus Lagerhiem,28736,1.33,8.3,4,46.4,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,denticulatus,Sce.den
+16845,Buffalo Pound,0.8,172,P2136,Dictyosphaerium pulchellum Wood,244256,27.63,6,6,113.1,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Dictyosphaerium,pulchellum,Dic.pul
+16845,Buffalo Pound,0.8,172,P2141,Monoraphidium contortum (Thur.) Komarkova-Legnerova,294544,5.21,20,1.5,17.7,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Monoraphidium,contortum,Mon.con
+16845,Buffalo Pound,0.8,172,P2145,Crucigenia quadrata Morr.,172416,0.81,3,3,4.7,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Crucigeniella,quadrata,Cru.qua
+16845,Buffalo Pound,0.8,172,P2256,Actinastrum sp. Lagerheim,28736,0.7,5.2,3,24.5,Chlorophyte,PHYT,NA,NA,NA,NA,NA.NA
+16845,Buffalo Pound,0.8,172,P4351,Small chrysophyceae,488512,5.03,2.7,2.7,10.3,Chrysophyte,PHYT,Chrysophyta,.,Small chrysophyceae,.,Sma..
+16845,Buffalo Pound,0.8,172,P4355,Chrysochromulina parva Lackey,244256,15.97,5,5,65.4,Chrysophyte,PHYT,Chrysophyta,Prymnesiaceae,Chrysochromulina,parva,Chr.par
+16845,Buffalo Pound,0.8,172,P4388,Dinobryon sertularia Ehrenberg,136496,30.88,12,6,226.2,Chrysophyte,PHYT,Chrysophyta,Dinobryoaceae,Dinobryon,sertularia,Din.ser
+16845,Buffalo Pound,0.8,172,P4413,Chrysochromulina laurentiana Kling,28736,15.05,10,10,523.6,Chrysophyte,PHYT,Chrysophyta,Prymnesiaceae,Chrysochromulina,laurentiana,Chr.lau
+16845,Buffalo Pound,0.8,172,P4418,Salpingoeca frequentissima (Zach.) Lemmermann,308912,9.85,5.6,3.3,31.9,Chrysophyte,PHYT,Chrysophyta,Craspedomonadaceae,Salpingoeca,frequentissima,Sal.fre
+16845,Buffalo Pound,0.8,172,P5515,Fragilaria crotonensis Kitton,1600,0.48,72,4,301.6,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,crotonensis,Fra.cro
+16845,Buffalo Pound,0.8,172,P5550,Fragilaria capucina v. rumpens (Kutzing) Lange-Bertalot,1573296,259.59,39.4,4,165,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,capucina,Fra.cap
+16845,Buffalo Pound,0.8,172,P5551,Cyclotella michiganiana Skvortzow,2119280,51.92,2.5,5,24.5,Diatom,PHYT,Chrysophyta,Coscinodiscoideae,Cyclotella,michiganiana,Cyc.mic
+16845,Buffalo Pound,0.8,172,P6554,Rhodomonas minuta Skuja,438224,32.38,10,4.6,73.9,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Rhodomonas,minuta,Rho.min
+16845,Buffalo Pound,0.8,172,P6568,Katablepharis ovalis Skuja,50288,2.03,7.6,4,40.3,Cryptophyte,PHYT,Pyrrhophyta,Katablepharidaceae,Katablepharis,ovalis,Kat.ova
+16845,Buffalo Pound,0.8,172,P7639,Peridinium pusillum (Penard) Lemmermann,400,1.68,20,20,4188.8,Dinoflagellate,PHYT,Pyrrhophyta,Peridiniaceae,Peridinium,pusillum,Per.pus
+16845,Buffalo Pound,0.8,172,P7640,Peridinium goslaviense Woloszynska,200,6.7,40,40,33510.3,Dinoflagellate,PHYT,Pyrrhophyta,Peridiniaceae,Peridinium,goslaviense,Per.gos
+16848,Buffalo Pound,0.8,176,P1075,Microcystis aeruginosa (Kutzing) Kutzing,400,1.24,0,0,3100,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Microcystis,aeruginosa,Mic.aer
+16848,Buffalo Pound,0.8,176,P1076,Woronichinia compacta (Lemmermann) Komarek and Hindak,600,0.3,0,0,500,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Woronichinia,compacta,Wor.com
+16848,Buffalo Pound,0.8,176,P1078,Planktothrix agardhii (Gom.) Anagnostidis and Komarek,29400,303.3,505,5.1,10316.2,Cyanophyte,PHYT,Cyanophyta,Oscillatotiaceae,Planktothrix,agardhii,Pla.aga
+16848,Buffalo Pound,0.8,176,P1132,Anabaena crassa (Lemm.) Kom-Legn. & Crongerg,9000,97.07,206,10,10786.1,Cyanophyte,PHYT,Cyanophyta,Nostocaceae,Anabaena,crassa,Ana.cra
+16848,Buffalo Pound,0.8,176,P1133,Anabaena flos-aquae (Lyngb.) Breb. & Bornet,63000,291.64,230,6.2,4629.2,Cyanophyte,PHYT,Cyanophyta,Nostocaceae,Anabaena,flos-aquae,Ana.flo
+16848,Buffalo Pound,0.8,176,P2101,Carteria spp.,7184,7,12.3,12.3,974.3,Chlorophyte,PHYT,Chlorophyta,Chlamydomonadaceae,Carteria,spp.,Car.spp
+16848,Buffalo Pound,0.8,176,P2105,Chlamydomonas spp.,114944,5.78,6,4,50.3,Chlorophyte,PHYT,Chlorophyta,Chlamydomonadaceae,Chlamydomonas,spp.,Chl.spp
+16848,Buffalo Pound,0.8,176,P2113,Pediastrum duplex Meyen,800,1.4,0,0,1750,Chlorophyte,PHYT,Chlorophyta,Hydrodictyaceae,Pediastrum,duplex,Ped.dup
+16848,Buffalo Pound,0.8,176,P2121,Oocystis lacustris Chodat,488512,24.57,6,4,50.3,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Oocystis,lacustris,Ooc.lac
+16848,Buffalo Pound,0.8,176,P2132,Scenedesmus denticulatus Lagerhiem,251440,11.09,7.9,4,44.1,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,denticulatus,Sce.den
+16848,Buffalo Pound,0.8,176,P2136,Dictyosphaerium pulchellum Wood,1824736,206.38,6,6,113.1,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Dictyosphaerium,pulchellum,Dic.pul
+16848,Buffalo Pound,0.8,176,P2141,Monoraphidium contortum (Thur.) Komarkova-Legnerova,294544,5.21,20,1.5,17.7,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Monoraphidium,contortum,Mon.con
+16848,Buffalo Pound,0.8,176,P2145,Crucigenia quadrata Morr.,50288,0.24,3,3,4.7,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Crucigeniella,quadrata,Cru.qua
+16848,Buffalo Pound,0.8,176,P2199,Spondylosium planum (Wolle) W. and G.S. West,7184,0.27,6,6,37.7,Chlorophyte,PHYT,Chlorophyta,Desmidiaceae,Spondylosium,planum,Spo.pla
+16848,Buffalo Pound,0.8,176,P2255,Selenastrum copricornutum Printz,395120,4.19,7,1.7,10.6,Chlorophyte,PHYT,Chlorophyta,Selenastraceae,Selenastrum,copricornutum,Sel.cop
+16848,Buffalo Pound,0.8,176,P4388,Dinobryon sertularia Ehrenberg,14368,3.25,12,6,226.2,Chrysophyte,PHYT,Chrysophyta,Dinobryoaceae,Dinobryon,sertularia,Din.ser
+16848,Buffalo Pound,0.8,176,P4401,Uroglena volvox Ehrenberg,1673872,189.31,6,6,113.1,Chrysophyte,PHYT,Chrysophyta,Ochromonadaceae,Uroglena,volvox,Uro.vol
+16848,Buffalo Pound,0.8,176,P4418,Salpingoeca frequentissima (Zach.) Lemmermann,7184,0.25,6,3.3,34.2,Chrysophyte,PHYT,Chrysophyta,Craspedomonadaceae,Salpingoeca,frequentissima,Sal.fre
+16848,Buffalo Pound,0.8,176,P5515,Fragilaria crotonensis Kitton,6600,1.91,69,4,289,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,crotonensis,Fra.cro
+16848,Buffalo Pound,0.8,176,P5550,Fragilaria capucina v. rumpens (Kutzing) Lange-Bertalot,545984,91.51,40,4,167.6,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,capucina,Fra.cap
+16848,Buffalo Pound,0.8,176,P6554,Rhodomonas minuta Skuja,2564688,153.11,9.7,4.2,59.7,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Rhodomonas,minuta,Rho.min
+16848,Buffalo Pound,0.8,176,P6558,Cryptomonas erosa Ehrenberg,21800,38.33,25.7,14,1758.3,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Cryptomonas,erosa,Cry.ero
+16848,Buffalo Pound,0.8,176,P6565,Cryptomonas rostratiformis Skuja,1000,2.39,35,14,2394.6,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Cryptomonas,rostratiformis,Cry.ros
+16848,Buffalo Pound,0.8,176,P6568,Katablepharis ovalis Skuja,114944,5.14,8,4,44.7,Cryptophyte,PHYT,Pyrrhophyta,Katablepharidaceae,Katablepharis,ovalis,Kat.ova
+16848,Buffalo Pound,0.8,176,P7632,Gymnodinium sp.,2200,20.25,26,26,9202.8,Dinoflagellate,PHYT,Pyrrhophyta,Gymnodinaceae,Gymnodinium,sp.,Gym.sp.
+16848,Buffalo Pound,0.8,176,P7639,Peridinium pusillum (Penard) Lemmermann,3600,15.08,20,20,4188.8,Dinoflagellate,PHYT,Pyrrhophyta,Peridiniaceae,Peridinium,pusillum,Per.pus
+16848,Buffalo Pound,0.8,176,P7640,Peridinium goslaviense Woloszynska,21400,717.12,40,40,33510.3,Dinoflagellate,PHYT,Pyrrhophyta,Peridiniaceae,Peridinium,goslaviense,Per.gos
+16851,Buffalo Pound,0.8,184,P1028,Merismopedia glauca (Ehrenberg) Kutzing,5079424,91.43,0,0,18,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Merismopedia,glauca,Mer.gla
+16851,Buffalo Pound,0.8,184,P1054,Planktolyngbya limnetica,90000,17.81,175,1.2,197.9,Cyanophyte,PHYT,Cyanophyta,Oscillatotiaceae,Planktolyngbya,limnetica,Pla.lim
+16851,Buffalo Pound,0.8,184,P1075,Microcystis aeruginosa (Kutzing) Kutzing,1000,5,0,0,5000,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Microcystis,aeruginosa,Mic.aer
+16851,Buffalo Pound,0.8,184,P1078,Planktothrix agardhii (Gom.) Anagnostidis and Komarek,67000,605.15,460,5,9032.1,Cyanophyte,PHYT,Cyanophyta,Oscillatotiaceae,Planktothrix,agardhii,Pla.aga
+16851,Buffalo Pound,0.8,184,P1132,Anabaena crassa (Lemm.) Kom-Legn. & Crongerg,113000,1059.08,179,10,9372.4,Cyanophyte,PHYT,Cyanophyta,Nostocaceae,Anabaena,crassa,Ana.cra
+16851,Buffalo Pound,0.8,184,P1133,Anabaena flos-aquae (Lyngb.) Breb. & Bornet,201000,1079.79,285,6,5372.1,Cyanophyte,PHYT,Cyanophyta,Nostocaceae,Anabaena,flos-aquae,Ana.flo
+16851,Buffalo Pound,0.8,184,P2101,Carteria spp.,39683,27.66,11,11,696.9,Chlorophyte,PHYT,Chlorophyta,Chlamydomonadaceae,Carteria,spp.,Car.spp
+16851,Buffalo Pound,0.8,184,P2105,Chlamydomonas spp.,753977,37.93,6,4,50.3,Chlorophyte,PHYT,Chlorophyta,Chlamydomonadaceae,Chlamydomonas,spp.,Chl.spp
+16851,Buffalo Pound,0.8,184,P2121,Oocystis lacustris Chodat,1031758,51.9,6,4,50.3,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Oocystis,lacustris,Ooc.lac
+16851,Buffalo Pound,0.8,184,P2130,Scenedesmus quadricauda (Turp.) Brebisson,1587320,71.75,8.1,4,45.2,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,quadricauda,Sce.qua
+16851,Buffalo Pound,0.8,184,P2132,Scenedesmus denticulatus Lagerhiem,119049,5.71,8.6,4,48,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,denticulatus,Sce.den
+16851,Buffalo Pound,0.8,184,P2136,Dictyosphaerium pulchellum Wood,1349222,152.6,6,6,113.1,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Dictyosphaerium,pulchellum,Dic.pul
+16851,Buffalo Pound,0.8,184,P2141,Monoraphidium contortum (Thur.) Komarkova-Legnerova,436513,8.12,21,1.5,18.6,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Monoraphidium,contortum,Mon.con
+16851,Buffalo Pound,0.8,184,P2235,Ankistrodesmus spiralis Lemmermann,436513,23.44,31,2.1,53.7,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Ankistrodesmus,spiralis,Ank.spi
+16851,Buffalo Pound,0.8,184,P2255,Selenastrum copricornutum Printz,595245,6.49,7.2,1.7,10.9,Chlorophyte,PHYT,Chlorophyta,Selenastraceae,Selenastrum,copricornutum,Sel.cop
+16851,Buffalo Pound,0.8,184,P2256,Actinastrum sp. Lagerheim,198415,4.68,5,3,23.6,Chlorophyte,PHYT,NA,NA,NA,NA,NA.NA
+16851,Buffalo Pound,0.8,184,P3301,Euglena acus Ehrenberg,2000,10.16,97,10,5078.9,Euglenophyte,PHYT,Euglenophyta,Euglenaceae,Euglena,acus,Eug.acu
+16851,Buffalo Pound,0.8,184,P4351,Small chrysophyceae,317464,2.6,2.5,2.5,8.2,Chrysophyte,PHYT,Chrysophyta,.,Small chrysophyceae,.,Sma..
+16851,Buffalo Pound,0.8,184,P4355,Chrysochromulina parva Lackey,277781,18.17,5,5,65.4,Chrysophyte,PHYT,Chrysophyta,Prymnesiaceae,Chrysochromulina,parva,Chr.par
+16851,Buffalo Pound,0.8,184,P4388,Dinobryon sertularia Ehrenberg,119049,26.93,12,6,226.2,Chrysophyte,PHYT,Chrysophyta,Dinobryoaceae,Dinobryon,sertularia,Din.ser
+16851,Buffalo Pound,0.8,184,P4401,Uroglena volvox Ehrenberg,277781,31.42,6,6,113.1,Chrysophyte,PHYT,Chrysophyta,Ochromonadaceae,Uroglena,volvox,Uro.vol
+16851,Buffalo Pound,0.8,184,P4418,Salpingoeca frequentissima (Zach.) Lemmermann,119049,4.07,6,3.3,34.2,Chrysophyte,PHYT,Chrysophyta,Craspedomonadaceae,Salpingoeca,frequentissima,Sal.fre
+16851,Buffalo Pound,0.8,184,P5509,Cyclotella ocellata Pant.,277781,27.92,4,8,100.5,Diatom,PHYT,Chrysophyta,Coscinodiscoideae,Cyclotella,ocellata,Cyc.oce
+16851,Buffalo Pound,0.8,184,P5515,Fragilaria crotonensis Kitton,27000,8.03,71,4,297.4,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,crotonensis,Fra.cro
+16851,Buffalo Pound,0.8,184,P5550,Fragilaria capucina v. rumpens (Kutzing) Lange-Bertalot,833343,132.67,38,4,159.2,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,capucina,Fra.cap
+16851,Buffalo Pound,0.8,184,P5551,Cyclotella michiganiana Skvortzow,1309539,32.08,2.5,5,24.5,Diatom,PHYT,Chrysophyta,Coscinodiscoideae,Cyclotella,michiganiana,Cyc.mic
+16851,Buffalo Pound,0.8,184,P6554,Rhodomonas minuta Skuja,1587320,117.3,10,4.6,73.9,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Rhodomonas,minuta,Rho.min
+16851,Buffalo Pound,0.8,184,P6558,Cryptomonas erosa Ehrenberg,60000,106.73,26,14,1778.8,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Cryptomonas,erosa,Cry.ero
+16851,Buffalo Pound,0.8,184,P6565,Cryptomonas rostratiformis Skuja,11000,24.84,33,14,2257.8,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Cryptomonas,rostratiformis,Cry.ros
+16851,Buffalo Pound,0.8,184,P6568,Katablepharis ovalis Skuja,595245,26.61,8,4,44.7,Cryptophyte,PHYT,Pyrrhophyta,Katablepharidaceae,Katablepharis,ovalis,Kat.ova
+16851,Buffalo Pound,0.8,184,P7640,Peridinium goslaviense Woloszynska,9000,301.59,40,40,33510.3,Dinoflagellate,PHYT,Pyrrhophyta,Peridiniaceae,Peridinium,goslaviense,Per.gos
+16854,Buffalo Pound,0.8,187,P1014,Chroococcus limneticus Lemmermann,158732,23.89,6.6,6.6,150.5,Cyanophyte,PHYT,Cyanophyta,Chroococcaceae,Chroococcus,limneticus,Chr.lim
+16854,Buffalo Pound,0.8,187,P1028,Merismopedia glauca (Ehrenberg) Kutzing,6150865,110.72,0,0,18,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Merismopedia,glauca,Mer.gla
+16854,Buffalo Pound,0.8,187,P1054,Planktolyngbya limnetica,11000,2.05,165,1.2,186.6,Cyanophyte,PHYT,Cyanophyta,Oscillatotiaceae,Planktolyngbya,limnetica,Pla.lim
+16854,Buffalo Pound,0.8,187,P1076,Woronichinia compacta (Lemmermann) Komarek and Hindak,1000,0.5,0,0,500,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Woronichinia,compacta,Wor.com
+16854,Buffalo Pound,0.8,187,P1076,Woronichinia compacta (Lemmermann) Komarek and Hindak,2000,6.2,0,0,3100,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Woronichinia,compacta,Wor.com
+16854,Buffalo Pound,0.8,187,P1078,Planktothrix agardhii (Gom.) Anagnostidis and Komarek,360000,2034.18,340,4.6,5650.5,Cyanophyte,PHYT,Cyanophyta,Oscillatotiaceae,Planktothrix,agardhii,Pla.aga
+16854,Buffalo Pound,0.8,187,P1132,Anabaena crassa (Lemm.) Kom-Legn. & Crongerg,202000,1544.19,146,10,7644.5,Cyanophyte,PHYT,Cyanophyta,Nostocaceae,Anabaena,crassa,Ana.cra
+16854,Buffalo Pound,0.8,187,P1133,Anabaena flos-aquae (Lyngb.) Breb. & Bornet,501000,2644.23,280,6,5277.9,Cyanophyte,PHYT,Cyanophyta,Nostocaceae,Anabaena,flos-aquae,Ana.flo
+16854,Buffalo Pound,0.8,187,P2101,Carteria spp.,1269856,1672.53,13.6,13.6,1317.1,Chlorophyte,PHYT,Chlorophyta,Chlamydomonadaceae,Carteria,spp.,Car.spp
+16854,Buffalo Pound,0.8,187,P2105,Chlamydomonas spp.,992075,58.14,7,4,58.6,Chlorophyte,PHYT,Chlorophyta,Chlamydomonadaceae,Chlamydomonas,spp.,Chl.spp
+16854,Buffalo Pound,0.8,187,P2113,Pediastrum duplex Meyen,1000,4.2,0,0,4200,Chlorophyte,PHYT,Chlorophyta,Hydrodictyaceae,Pediastrum,duplex,Ped.dup
+16854,Buffalo Pound,0.8,187,P2121,Oocystis lacustris Chodat,158732,7.98,6,4,50.3,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Oocystis,lacustris,Ooc.lac
+16854,Buffalo Pound,0.8,187,P2130,Scenedesmus quadricauda (Turp.) Brebisson,2857176,148.29,9.3,4,51.9,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,quadricauda,Sce.qua
+16854,Buffalo Pound,0.8,187,P2136,Dictyosphaerium pulchellum Wood,1746052,197.48,6,6,113.1,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Dictyosphaerium,pulchellum,Dic.pul
+16854,Buffalo Pound,0.8,187,P2141,Monoraphidium contortum (Thur.) Komarkova-Legnerova,238098,4,19,1.5,16.8,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Monoraphidium,contortum,Mon.con
+16854,Buffalo Pound,0.8,187,P2143,Monoraphidium minutum (Nag.) Komarkova-Legnerova,912709,46.46,8.1,4,50.9,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Monoraphidium,minutum,Mon.min
+16854,Buffalo Pound,0.8,187,P2146,Crucigeniella rectangularis (Nag.) Komarek,634928,15.94,6,4,25.1,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Crucigeniella,rectangularis,Cru.rec
+16854,Buffalo Pound,0.8,187,P2222,Treubaria sp.,39683,0.56,3,3,14.1,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Treubaria,sp.,Tre.sp.
+16854,Buffalo Pound,0.8,187,P2255,Selenastrum copricornutum Printz,1746052,19.21,7.3,1.7,11,Chlorophyte,PHYT,Chlorophyta,Selenastraceae,Selenastrum,copricornutum,Sel.cop
+16854,Buffalo Pound,0.8,187,P2256,Actinastrum sp. Lagerheim,198415,4.68,5,3,23.6,Chlorophyte,PHYT,NA,NA,NA,NA,NA.NA
+16854,Buffalo Pound,0.8,187,P4351,Small chrysophyceae,39683,0.19,2.1,2.1,4.8,Chrysophyte,PHYT,Chrysophyta,.,Small chrysophyceae,.,Sma..
+16854,Buffalo Pound,0.8,187,P4355,Chrysochromulina parva Lackey,1746052,114.19,5,5,65.4,Chrysophyte,PHYT,Chrysophyta,Prymnesiaceae,Chrysochromulina,parva,Chr.par
+16854,Buffalo Pound,0.8,187,P4401,Uroglena volvox Ehrenberg,555562,62.83,6,6,113.1,Chrysophyte,PHYT,Chrysophyta,Ochromonadaceae,Uroglena,volvox,Uro.vol
+16854,Buffalo Pound,0.8,187,P4418,Salpingoeca frequentissima (Zach.) Lemmermann,39683,1.36,6,3.3,34.2,Chrysophyte,PHYT,Chrysophyta,Craspedomonadaceae,Salpingoeca,frequentissima,Sal.fre
+16854,Buffalo Pound,0.8,187,P5515,Fragilaria crotonensis Kitton,4000,1.22,73,4,305.8,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,crotonensis,Fra.cro
+16854,Buffalo Pound,0.8,187,P5550,Fragilaria capucina v. rumpens (Kutzing) Lange-Bertalot,357147,61.32,41,4,171.7,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,capucina,Fra.cap
+16854,Buffalo Pound,0.8,187,P5551,Cyclotella michiganiana Skvortzow,1627003,39.86,2.5,5,24.5,Diatom,PHYT,Chrysophyta,Coscinodiscoideae,Cyclotella,michiganiana,Cyc.mic
+16854,Buffalo Pound,0.8,187,P6554,Rhodomonas minuta Skuja,515879,38.12,10,4.6,73.9,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Rhodomonas,minuta,Rho.min
+16854,Buffalo Pound,0.8,187,P6558,Cryptomonas erosa Ehrenberg,12000,20.52,25,14,1710.4,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Cryptomonas,erosa,Cry.ero
+16854,Buffalo Pound,0.8,187,P6568,Katablepharis ovalis Skuja,4365130,199.92,8.1,4,45.8,Cryptophyte,PHYT,Pyrrhophyta,Katablepharidaceae,Katablepharis,ovalis,Kat.ova
+16854,Buffalo Pound,0.8,187,P7640,Peridinium goslaviense Woloszynska,7000,234.57,40,40,33510.3,Dinoflagellate,PHYT,Pyrrhophyta,Peridiniaceae,Peridinium,goslaviense,Per.gos
+16858,Buffalo Pound,0.8,190,P1028,Merismopedia glauca (Ehrenberg) Kutzing,2500029,45,0,0,18,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Merismopedia,glauca,Mer.gla
+16858,Buffalo Pound,0.8,190,P1054,Planktolyngbya limnetica,11000,1.82,146,1.2,165.1,Cyanophyte,PHYT,Cyanophyta,Oscillatotiaceae,Planktolyngbya,limnetica,Pla.lim
+16858,Buffalo Pound,0.8,190,P1075,Microcystis aeruginosa (Kutzing) Kutzing,9000,22.05,0,0,2450,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Microcystis,aeruginosa,Mic.aer
+16858,Buffalo Pound,0.8,190,P1076,Woronichinia compacta (Lemmermann) Komarek and Hindak,6000,3,0,0,500,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Woronichinia,compacta,Wor.com
+16858,Buffalo Pound,0.8,190,P1078,Planktothrix agardhii (Gom.) Anagnostidis and Komarek,585000,3548.55,365,4.6,6065.9,Cyanophyte,PHYT,Cyanophyta,Oscillatotiaceae,Planktothrix,agardhii,Pla.aga
+16858,Buffalo Pound,0.8,190,P1132,Anabaena crassa (Lemm.) Kom-Legn. & Crongerg,135000,1272.27,173,10.2,9424.2,Cyanophyte,PHYT,Cyanophyta,Nostocaceae,Anabaena,crassa,Ana.cra
+16858,Buffalo Pound,0.8,190,P1133,Anabaena flos-aquae (Lyngb.) Breb. & Bornet,565000,3127.28,275,6.2,5535,Cyanophyte,PHYT,Cyanophyta,Nostocaceae,Anabaena,flos-aquae,Ana.flo
+16858,Buffalo Pound,0.8,190,P2101,Carteria spp.,238098,261.46,12.8,12.8,1098.1,Chlorophyte,PHYT,Chlorophyta,Chlamydomonadaceae,Carteria,spp.,Car.spp
+16858,Buffalo Pound,0.8,190,P2105,Chlamydomonas spp.,515879,25.95,6,4,50.3,Chlorophyte,PHYT,Chlorophyta,Chlamydomonadaceae,Chlamydomonas,spp.,Chl.spp
+16858,Buffalo Pound,0.8,190,P2121,Oocystis lacustris Chodat,555562,27.94,6,4,50.3,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Oocystis,lacustris,Ooc.lac
+16858,Buffalo Pound,0.8,190,P2130,Scenedesmus quadricauda (Turp.) Brebisson,1190490,59.17,8.9,4,49.7,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,quadricauda,Sce.qua
+16858,Buffalo Pound,0.8,190,P2132,Scenedesmus denticulatus Lagerhiem,753977,31.97,7.6,4,42.4,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,denticulatus,Sce.den
+16858,Buffalo Pound,0.8,190,P2136,Dictyosphaerium pulchellum Wood,555562,62.83,6,6,113.1,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Dictyosphaerium,pulchellum,Dic.pul
+16858,Buffalo Pound,0.8,190,P2141,Monoraphidium contortum (Thur.) Komarkova-Legnerova,198415,3.51,20,1.5,17.7,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Monoraphidium,contortum,Mon.con
+16858,Buffalo Pound,0.8,190,P2143,Monoraphidium minutum (Nag.) Komarkova-Legnerova,158732,1.68,3,3,10.6,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Monoraphidium,minutum,Mon.min
+16858,Buffalo Pound,0.8,190,P2255,Selenastrum copricornutum Printz,1706369,18.09,7,1.7,10.6,Chlorophyte,PHYT,Chlorophyta,Selenastraceae,Selenastrum,copricornutum,Sel.cop
+16858,Buffalo Pound,0.8,190,P2256,Actinastrum sp. Lagerheim,39683,1.03,5.5,3,25.9,Chlorophyte,PHYT,NA,NA,NA,NA,NA.NA
+16858,Buffalo Pound,0.8,190,P4355,Chrysochromulina parva Lackey,2142882,140.14,5,5,65.4,Chrysophyte,PHYT,Chrysophyta,Prymnesiaceae,Chrysochromulina,parva,Chr.par
+16858,Buffalo Pound,0.8,190,P4358,Chrysostephanosphaera globulifera Scherffel,39683,13.21,8.6,8.6,333,Chrysophyte,PHYT,Chrysophyta,Rhizochrysidaceae,Chrysostephanospaera,globulifera,Chr.glo
+16858,Buffalo Pound,0.8,190,P4401,Uroglena volvox Ehrenberg,634928,71.81,6,6,113.1,Chrysophyte,PHYT,Chrysophyta,Ochromonadaceae,Uroglena,volvox,Uro.vol
+16858,Buffalo Pound,0.8,190,P4418,Salpingoeca frequentissima (Zach.) Lemmermann,595245,24.23,6,3.6,40.7,Chrysophyte,PHYT,Chrysophyta,Craspedomonadaceae,Salpingoeca,frequentissima,Sal.fre
+16858,Buffalo Pound,0.8,190,P5509,Cyclotella ocellata Pant.,317464,39.65,4.3,8.6,124.9,Diatom,PHYT,Chrysophyta,Coscinodiscoideae,Cyclotella,ocellata,Cyc.oce
+16858,Buffalo Pound,0.8,190,P5515,Fragilaria crotonensis Kitton,19000,5.65,71,4,297.4,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,crotonensis,Fra.cro
+16858,Buffalo Pound,0.8,190,P5550,Fragilaria capucina v. rumpens (Kutzing) Lange-Bertalot,753977,123.5,39.1,4,163.8,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,capucina,Fra.cap
+16858,Buffalo Pound,0.8,190,P5551,Cyclotella michiganiana Skvortzow,952392,23.33,2.5,5,24.5,Diatom,PHYT,Chrysophyta,Coscinodiscoideae,Cyclotella,michiganiana,Cyc.mic
+16858,Buffalo Pound,0.8,190,P6554,Rhodomonas minuta Skuja,1825418,152.97,10,4.9,83.8,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Rhodomonas,minuta,Rho.min
+16858,Buffalo Pound,0.8,190,P6558,Cryptomonas erosa Ehrenberg,15000,27.61,26.9,14,1840.4,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Cryptomonas,erosa,Cry.ero
+16858,Buffalo Pound,0.8,190,P6565,Cryptomonas rostratiformis Skuja,4000,8.76,32,14,2189.3,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Cryptomonas,rostratiformis,Cry.ros
+16858,Buffalo Pound,0.8,190,P6568,Katablepharis ovalis Skuja,2142882,88.72,7.7,4,41.4,Cryptophyte,PHYT,Pyrrhophyta,Katablepharidaceae,Katablepharis,ovalis,Kat.ova
+16858,Buffalo Pound,0.8,190,P7640,Peridinium goslaviense Woloszynska,3000,100.53,40,40,33510.3,Dinoflagellate,PHYT,Pyrrhophyta,Peridiniaceae,Peridinium,goslaviense,Per.gos
+16861,Buffalo Pound,0.8,193,P1028,Merismopedia glauca (Ehrenberg) Kutzing,1185360,21.34,0,0,18,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Merismopedia,glauca,Mer.gla
+16861,Buffalo Pound,0.8,193,P1076,Woronichinia compacta (Lemmermann) Komarek and Hindak,600,1.53,0,0,2550,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Woronichinia,compacta,Wor.com
+16861,Buffalo Pound,0.8,193,P1078,Planktothrix agardhii (Gom.) Anagnostidis and Komarek,252000,1610.2,440,4.3,6389.7,Cyanophyte,PHYT,Cyanophyta,Oscillatotiaceae,Planktothrix,agardhii,Pla.aga
+16861,Buffalo Pound,0.8,193,P1132,Anabaena crassa (Lemm.) Kom-Legn. & Crongerg,45000,480.71,200,10.1,10682.5,Cyanophyte,PHYT,Cyanophyta,Nostocaceae,Anabaena,crassa,Ana.cra
+16861,Buffalo Pound,0.8,193,P1133,Anabaena flos-aquae (Lyngb.) Breb. & Bornet,85400,440.92,265,6.1,5163,Cyanophyte,PHYT,Cyanophyta,Nostocaceae,Anabaena,flos-aquae,Ana.flo
+16861,Buffalo Pound,0.8,193,P2105,Chlamydomonas spp.,114944,2.98,5.5,3,25.9,Chlorophyte,PHYT,Chlorophyta,Chlamydomonadaceae,Chlamydomonas,spp.,Chl.spp
+16861,Buffalo Pound,0.8,193,P2130,Scenedesmus quadricauda (Turp.) Brebisson,186784,8.14,7.8,4,43.6,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,quadricauda,Sce.qua
+16861,Buffalo Pound,0.8,193,P2132,Scenedesmus denticulatus Lagerhiem,14368,0.64,8,4,44.7,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,denticulatus,Sce.den
+16861,Buffalo Pound,0.8,193,P2136,Dictyosphaerium pulchellum Wood,1573296,177.94,6,6,113.1,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Dictyosphaerium,pulchellum,Dic.pul
+16861,Buffalo Pound,0.8,193,P2141,Monoraphidium contortum (Thur.) Komarkova-Legnerova,100576,1.78,20,1.5,17.7,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Monoraphidium,contortum,Mon.con
+16861,Buffalo Pound,0.8,193,P2167,Elakatothrix gelatinosa Willen,21552,0.41,12,2,18.8,Chlorophyte,PHYT,Chlorophyta,Coccomyxaceae,Elakatothrix,gelatinosa,Ela.gel
+16861,Buffalo Pound,0.8,193,P2235,Ankistrodesmus spiralis Lemmermann,43104,2.31,31,2.1,53.7,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Ankistrodesmus,spiralis,Ank.spi
+16861,Buffalo Pound,0.8,193,P2255,Selenastrum copricornutum Printz,395120,4.43,7.4,1.7,11.2,Chlorophyte,PHYT,Chlorophyta,Selenastraceae,Selenastrum,copricornutum,Sel.cop
+16861,Buffalo Pound,0.8,193,P4351,Small chrysophyceae,258624,3.31,2.9,2.9,12.8,Chrysophyte,PHYT,Chrysophyta,.,Small chrysophyceae,.,Sma..
+16861,Buffalo Pound,0.8,193,P4355,Chrysochromulina parva Lackey,941104,61.55,5,5,65.4,Chrysophyte,PHYT,Chrysophyta,Prymnesiaceae,Chrysochromulina,parva,Chr.par
+16861,Buffalo Pound,0.8,193,P4401,Uroglena volvox Ehrenberg,93392,10.56,6,6,113.1,Chrysophyte,PHYT,Chrysophyta,Ochromonadaceae,Uroglena,volvox,Uro.vol
+16861,Buffalo Pound,0.8,193,P4418,Salpingoeca frequentissima (Zach.) Lemmermann,244256,8.35,6,3.3,34.2,Chrysophyte,PHYT,Chrysophyta,Craspedomonadaceae,Salpingoeca,frequentissima,Sal.fre
+16861,Buffalo Pound,0.8,193,P5515,Fragilaria crotonensis Kitton,7200,2.14,71,4,297.4,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,crotonensis,Fra.cro
+16861,Buffalo Pound,0.8,193,P5550,Fragilaria capucina v. rumpens (Kutzing) Lange-Bertalot,114944,18.78,39,4,163.4,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,capucina,Fra.cap
+16861,Buffalo Pound,0.8,193,P5551,Cyclotella michiganiana Skvortzow,395120,9.68,2.5,5,24.5,Diatom,PHYT,Chrysophyta,Coscinodiscoideae,Cyclotella,michiganiana,Cyc.mic
+16861,Buffalo Pound,0.8,193,P6554,Rhodomonas minuta Skuja,1084784,94.7,10,5,87.3,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Rhodomonas,minuta,Rho.min
+16861,Buffalo Pound,0.8,193,P6558,Cryptomonas erosa Ehrenberg,37200,62.35,24.5,14,1676.2,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Cryptomonas,erosa,Cry.ero
+16861,Buffalo Pound,0.8,193,P6565,Cryptomonas rostratiformis Skuja,2800,6.32,33,14,2257.8,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Cryptomonas,rostratiformis,Cry.ros
+16861,Buffalo Pound,0.8,193,P6568,Katablepharis ovalis Skuja,222704,9.95,8,4,44.7,Cryptophyte,PHYT,Pyrrhophyta,Katablepharidaceae,Katablepharis,ovalis,Kat.ova
+17032,Buffalo Pound,0.8,211,P1028,Merismopedia glauca (Ehrenberg) Kutzing,634928,11.43,0,0,18,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Merismopedia,glauca,Mer.gla
+17032,Buffalo Pound,0.8,211,P1054,Planktolyngbya limnetica,60000,13.57,200,1.2,226.2,Cyanophyte,PHYT,Cyanophyta,Oscillatotiaceae,Planktolyngbya,limnetica,Pla.lim
+17032,Buffalo Pound,0.8,211,P1075,Microcystis aeruginosa (Kutzing) Kutzing,10000,21.5,0,0,2150,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Microcystis,aeruginosa,Mic.aer
+17032,Buffalo Pound,0.8,211,P1076,Woronichinia compacta (Lemmermann) Komarek and Hindak,106000,53,0,0,500,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Woronichinia,compacta,Wor.com
+17032,Buffalo Pound,0.8,211,P1076,Woronichinia compacta (Lemmermann) Komarek and Hindak,6000,16.2,0,0,2700,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Woronichinia,compacta,Wor.com
+17032,Buffalo Pound,0.8,211,P1078,Planktothrix agardhii (Gom.) Anagnostidis and Komarek,1346000,6397.4,360,4.1,4752.9,Cyanophyte,PHYT,Cyanophyta,Oscillatotiaceae,Planktothrix,agardhii,Pla.aga
+17032,Buffalo Pound,0.8,211,P1133,Anabaena flos-aquae (Lyngb.) Breb. & Bornet,45000,262.1,309,6,5824.5,Cyanophyte,PHYT,Cyanophyta,Nostocaceae,Anabaena,flos-aquae,Ana.flo
+17032,Buffalo Pound,0.8,211,P2101,Carteria spp.,119049,136.94,13,13,1150.3,Chlorophyte,PHYT,Chlorophyta,Chlamydomonadaceae,Carteria,spp.,Car.spp
+17032,Buffalo Pound,0.8,211,P2105,Chlamydomonas spp.,674611,33.93,6,4,50.3,Chlorophyte,PHYT,Chlorophyta,Chlamydomonadaceae,Chlamydomonas,spp.,Chl.spp
+17032,Buffalo Pound,0.8,211,P2113,Pediastrum duplex Meyen,1000,3.1,0,0,3100,Chlorophyte,PHYT,Chlorophyta,Hydrodictyaceae,Pediastrum,duplex,Ped.dup
+17032,Buffalo Pound,0.8,211,P2121,Oocystis lacustris Chodat,1627003,81.84,6,4,50.3,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Oocystis,lacustris,Ooc.lac
+17032,Buffalo Pound,0.8,211,P2126,Chodatella sp.,39683,2,6,4,50.3,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Chodatella,sp.,Cho.sp.
+17032,Buffalo Pound,0.8,211,P2130,Scenedesmus quadricauda (Turp.) Brebisson,1507954,69.97,8.3,4,46.4,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,quadricauda,Sce.qua
+17032,Buffalo Pound,0.8,211,P2132,Scenedesmus denticulatus Lagerhiem,1190490,55.24,8.3,4,46.4,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,denticulatus,Sce.den
+17032,Buffalo Pound,0.8,211,P2136,Dictyosphaerium pulchellum Wood,3174640,359.05,6,6,113.1,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Dictyosphaerium,pulchellum,Dic.pul
+17032,Buffalo Pound,0.8,211,P2141,Monoraphidium contortum (Thur.) Komarkova-Legnerova,1230173,22.88,21,1.5,18.6,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Monoraphidium,contortum,Mon.con
+17032,Buffalo Pound,0.8,211,P2145,Crucigenia quadrata Morr.,158732,0.75,3,3,4.7,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Crucigeniella,quadrata,Cru.qua
+17032,Buffalo Pound,0.8,211,P2154,Coelastrum microporum Naegeli,1000,2.68,0,0,2680,Chlorophyte,PHYT,Chlorophyta,Coelastraceae,Coelastrum,microporum,Coe.mic
+17032,Buffalo Pound,0.8,211,P2167,Elakatothrix gelatinosa Willen,198415,3.73,12,2,18.8,Chlorophyte,PHYT,Chlorophyta,Coccomyxaceae,Elakatothrix,gelatinosa,Ela.gel
+17032,Buffalo Pound,0.8,211,P2178,Cosmarium sp.,3000,4.19,20,20,1396.3,Chlorophyte,PHYT,Chlorophyta,Desmidiaceae,Cosmarium,sp.,Cos.sp.
+17032,Buffalo Pound,0.8,211,P2193,Staurodesmus paradoxum Meyen,4000,5.85,21,19,1462.4,Chlorophyte,PHYT,Chlorophyta,Desmidiaceae,Staurodesmus,paradoxum,Sta.par
+17032,Buffalo Pound,0.8,211,P2235,Ankistrodesmus spiralis Lemmermann,595245,28.04,30,2,47.1,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Ankistrodesmus,spiralis,Ank.spi
+17032,Buffalo Pound,0.8,211,P2255,Selenastrum copricornutum Printz,714294,7.64,7.1,1.7,10.7,Chlorophyte,PHYT,Chlorophyta,Selenastraceae,Selenastrum,copricornutum,Sel.cop
+17032,Buffalo Pound,0.8,211,P2506,Nephrocytium lunatum W. West,317464,19.94,10,4,62.8,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Nephrocytiun,lunatum,Nep.lun
+17032,Buffalo Pound,0.8,211,P4351,Small chrysophyceae,1785735,10,2.2,2.2,5.6,Chrysophyte,PHYT,Chrysophyta,.,Small chrysophyceae,.,Sma..
+17032,Buffalo Pound,0.8,211,P4352,Large chrysophyceae,79366,14.25,7,7,179.6,Chrysophyte,PHYT,Chrysophyta,.,Large chrysophyceae,.,Lar..
+17032,Buffalo Pound,0.8,211,P4355,Chrysochromulina parva Lackey,3134957,205.03,5,5,65.4,Chrysophyte,PHYT,Chrysophyta,Prymnesiaceae,Chrysochromulina,parva,Chr.par
+17032,Buffalo Pound,0.8,211,P4388,Dinobryon sertularia Ehrenberg,119049,26.93,12,6,226.2,Chrysophyte,PHYT,Chrysophyta,Dinobryoaceae,Dinobryon,sertularia,Din.ser
+17032,Buffalo Pound,0.8,211,P4401,Uroglena volvox Ehrenberg,158732,17.95,6,6,113.1,Chrysophyte,PHYT,Chrysophyta,Ochromonadaceae,Uroglena,volvox,Uro.vol
+17032,Buffalo Pound,0.8,211,P4418,Salpingoeca frequentissima (Zach.) Lemmermann,317464,12.92,6,3.6,40.7,Chrysophyte,PHYT,Chrysophyta,Craspedomonadaceae,Salpingoeca,frequentissima,Sal.fre
+17032,Buffalo Pound,0.8,211,P5515,Fragilaria crotonensis Kitton,36000,10.71,71,4,297.4,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,crotonensis,Fra.cro
+17032,Buffalo Pound,0.8,211,P5550,Fragilaria capucina v. rumpens (Kutzing) Lange-Bertalot,119049,19.45,39,4,163.4,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,capucina,Fra.cap
+17032,Buffalo Pound,0.8,211,P5551,Cyclotella michiganiana Skvortzow,1944467,47.64,2.5,5,24.5,Diatom,PHYT,Chrysophyta,Coscinodiscoideae,Cyclotella,michiganiana,Cyc.mic
+17032,Buffalo Pound,0.8,211,P6554,Rhodomonas minuta Skuja,992075,60.22,9.4,4.3,60.7,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Rhodomonas,minuta,Rho.min
+17032,Buffalo Pound,0.8,211,P6558,Cryptomonas erosa Ehrenberg,8000,13.85,25.3,14,1730.9,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Cryptomonas,erosa,Cry.ero
+17032,Buffalo Pound,0.8,211,P6568,Katablepharis ovalis Skuja,674611,30.9,8.1,4,45.8,Cryptophyte,PHYT,Pyrrhophyta,Katablepharidaceae,Katablepharis,ovalis,Kat.ova
+17032,Buffalo Pound,0.8,211,P7632,Gymnodinium sp.,3000,27.61,26,26,9202.8,Dinoflagellate,PHYT,Pyrrhophyta,Gymnodinaceae,Gymnodinium,sp.,Gym.sp.
+17032,Buffalo Pound,0.8,211,P7639,Peridinium pusillum (Penard) Lemmermann,10000,41.89,20,20,4188.8,Dinoflagellate,PHYT,Pyrrhophyta,Peridiniaceae,Peridinium,pusillum,Per.pus
+17032,Buffalo Pound,0.8,211,P7640,Peridinium goslaviense Woloszynska,23000,770.74,40,40,33510.3,Dinoflagellate,PHYT,Pyrrhophyta,Peridiniaceae,Peridinium,goslaviense,Per.gos
+17063,Buffalo Pound,0.8,197,P1014,Chroococcus limneticus Lemmermann,79366,7.3,5.6,5.6,92,Cyanophyte,PHYT,Cyanophyta,Chroococcaceae,Chroococcus,limneticus,Chr.lim
+17063,Buffalo Pound,0.8,197,P1028,Merismopedia glauca (Ehrenberg) Kutzing,1984150,35.71,0,0,18,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Merismopedia,glauca,Mer.gla
+17063,Buffalo Pound,0.8,197,P1054,Planktolyngbya limnetica,4000,0.75,165,1.2,186.6,Cyanophyte,PHYT,Cyanophyta,Oscillatotiaceae,Planktolyngbya,limnetica,Pla.lim
+17063,Buffalo Pound,0.8,197,P1075,Microcystis aeruginosa (Kutzing) Kutzing,8000,20,0,0,2500,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Microcystis,aeruginosa,Mic.aer
+17063,Buffalo Pound,0.8,197,P1075,Microcystis aeruginosa (Kutzing) Kutzing,5000,25,0,0,5000,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Microcystis,aeruginosa,Mic.aer
+17063,Buffalo Pound,0.8,197,P1076,Woronichinia compacta (Lemmermann) Komarek and Hindak,53000,26.5,0,0,500,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Woronichinia,compacta,Wor.com
+17063,Buffalo Pound,0.8,197,P1076,Woronichinia compacta (Lemmermann) Komarek and Hindak,12000,37.2,0,0,3100,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Woronichinia,compacta,Wor.com
+17063,Buffalo Pound,0.8,197,P1078,Planktothrix agardhii (Gom.) Anagnostidis and Komarek,1487000,9496.28,420,4.4,6386.2,Cyanophyte,PHYT,Cyanophyta,Oscillatotiaceae,Planktothrix,agardhii,Pla.aga
+17063,Buffalo Pound,0.8,197,P1132,Anabaena crassa (Lemm.) Kom-Legn. & Crongerg,10000,176.26,330,10.1,17626.1,Cyanophyte,PHYT,Cyanophyta,Nostocaceae,Anabaena,crassa,Ana.cra
+17063,Buffalo Pound,0.8,197,P1133,Anabaena flos-aquae (Lyngb.) Breb. & Bornet,227000,1073.69,235,6.2,4729.9,Cyanophyte,PHYT,Cyanophyta,Nostocaceae,Anabaena,flos-aquae,Ana.flo
+17063,Buffalo Pound,0.8,197,P2101,Carteria spp.,277781,342.17,13.3,13.3,1231.8,Chlorophyte,PHYT,Chlorophyta,Chlamydomonadaceae,Carteria,spp.,Car.spp
+17063,Buffalo Pound,0.8,197,P2105,Chlamydomonas spp.,555562,37.22,8,4,67,Chlorophyte,PHYT,Chlorophyta,Chlamydomonadaceae,Chlamydomonas,spp.,Chl.spp
+17063,Buffalo Pound,0.8,197,P2113,Pediastrum duplex Meyen,5000,9.8,0,0,1960,Chlorophyte,PHYT,Chlorophyta,Hydrodictyaceae,Pediastrum,duplex,Ped.dup
+17063,Buffalo Pound,0.8,197,P2121,Oocystis lacustris Chodat,753977,37.93,6,4,50.3,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Oocystis,lacustris,Ooc.lac
+17063,Buffalo Pound,0.8,197,P2130,Scenedesmus quadricauda (Turp.) Brebisson,2698444,129.53,8.6,4,48,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,quadricauda,Sce.qua
+17063,Buffalo Pound,0.8,197,P2132,Scenedesmus denticulatus Lagerhiem,714294,31.93,8,4,44.7,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,denticulatus,Sce.den
+17063,Buffalo Pound,0.8,197,P2136,Dictyosphaerium pulchellum Wood,4563545,516.14,6,6,113.1,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Dictyosphaerium,pulchellum,Dic.pul
+17063,Buffalo Pound,0.8,197,P2141,Monoraphidium contortum (Thur.) Komarkova-Legnerova,436513,7.73,20,1.5,17.7,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Monoraphidium,contortum,Mon.con
+17063,Buffalo Pound,0.8,197,P2146,Crucigeniella rectangularis (Nag.) Komarek,515879,12.95,6,4,25.1,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Crucigeniella,rectangularis,Cru.rec
+17063,Buffalo Pound,0.8,197,P2178,Cosmarium sp.,3000,4.19,20,20,1396.3,Chlorophyte,PHYT,Chlorophyta,Desmidiaceae,Cosmarium,sp.,Cos.sp.
+17063,Buffalo Pound,0.8,197,P2193,Staurodesmus paradoxum Meyen,4000,5.85,21,19,1462.4,Chlorophyte,PHYT,Chlorophyta,Desmidiaceae,Staurodesmus,paradoxum,Sta.par
+17063,Buffalo Pound,0.8,197,P2235,Ankistrodesmus spiralis Lemmermann,396830,18.69,30,2,47.1,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Ankistrodesmus,spiralis,Ank.spi
+17063,Buffalo Pound,0.8,197,P2255,Selenastrum copricornutum Printz,158732,1.63,6.8,1.7,10.3,Chlorophyte,PHYT,Chlorophyta,Selenastraceae,Selenastrum,copricornutum,Sel.cop
+17063,Buffalo Pound,0.8,197,P2256,Actinastrum sp. Lagerheim,119049,2.81,5,3,23.6,Chlorophyte,PHYT,NA,NA,NA,NA,NA.NA
+17063,Buffalo Pound,0.8,197,P4351,Small chrysophyceae,1984150,18.25,2.6,2.6,9.2,Chrysophyte,PHYT,Chrysophyta,.,Small chrysophyceae,.,Sma..
+17063,Buffalo Pound,0.8,197,P4355,Chrysochromulina parva Lackey,5277839,345.17,5,5,65.4,Chrysophyte,PHYT,Chrysophyta,Prymnesiaceae,Chrysochromulina,parva,Chr.par
+17063,Buffalo Pound,0.8,197,P4401,Uroglena volvox Ehrenberg,277781,31.42,6,6,113.1,Chrysophyte,PHYT,Chrysophyta,Ochromonadaceae,Uroglena,volvox,Uro.vol
+17063,Buffalo Pound,0.8,197,P4418,Salpingoeca frequentissima (Zach.) Lemmermann,277781,10.69,6,3.5,38.5,Chrysophyte,PHYT,Chrysophyta,Craspedomonadaceae,Salpingoeca,frequentissima,Sal.fre
+17063,Buffalo Pound,0.8,197,P5515,Fragilaria crotonensis Kitton,23000,6.84,71,4,297.4,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,crotonensis,Fra.cro
+17063,Buffalo Pound,0.8,197,P5550,Fragilaria capucina v. rumpens (Kutzing) Lange-Bertalot,277781,47.7,41,4,171.7,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,capucina,Fra.cap
+17063,Buffalo Pound,0.8,197,P5551,Cyclotella michiganiana Skvortzow,595245,14.58,2.5,5,24.5,Diatom,PHYT,Chrysophyta,Coscinodiscoideae,Cyclotella,michiganiana,Cyc.mic
+17063,Buffalo Pound,0.8,197,P6554,Rhodomonas minuta Skuja,7500087,465.01,9.6,4.3,62,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Rhodomonas,minuta,Rho.min
+17063,Buffalo Pound,0.8,197,P6558,Cryptomonas erosa Ehrenberg,87000,142.85,24,14,1642,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Cryptomonas,erosa,Cry.ero
+17063,Buffalo Pound,0.8,197,P6565,Cryptomonas rostratiformis Skuja,6000,14.37,35,14,2394.6,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Cryptomonas,rostratiformis,Cry.ros
+17063,Buffalo Pound,0.8,197,P6568,Katablepharis ovalis Skuja,1706369,70.64,7.7,4,41.4,Cryptophyte,PHYT,Pyrrhophyta,Katablepharidaceae,Katablepharis,ovalis,Kat.ova
+17063,Buffalo Pound,0.8,197,P7639,Peridinium pusillum (Penard) Lemmermann,2000,8.38,20,20,4188.8,Dinoflagellate,PHYT,Pyrrhophyta,Peridiniaceae,Peridinium,pusillum,Per.pus
+17063,Buffalo Pound,0.8,197,P7640,Peridinium goslaviense Woloszynska,8000,268.08,40,40,33510.3,Dinoflagellate,PHYT,Pyrrhophyta,Peridiniaceae,Peridinium,goslaviense,Per.gos
+17066,Buffalo Pound,0.8,199,P1028,Merismopedia glauca (Ehrenberg) Kutzing,2738127,49.29,0,0,18,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Merismopedia,glauca,Mer.gla
+17066,Buffalo Pound,0.8,199,P1054,Planktolyngbya limnetica,5000,0.87,154,1.2,174.2,Cyanophyte,PHYT,Cyanophyta,Oscillatotiaceae,Planktolyngbya,limnetica,Pla.lim
+17066,Buffalo Pound,0.8,199,P1075,Microcystis aeruginosa (Kutzing) Kutzing,12000,21,0,0,1750,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Microcystis,aeruginosa,Mic.aer
+17066,Buffalo Pound,0.8,199,P1075,Microcystis aeruginosa (Kutzing) Kutzing,3000,10.8,0,0,3600,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Microcystis,aeruginosa,Mic.aer
+17066,Buffalo Pound,0.8,199,P1076,Woronichinia compacta (Lemmermann) Komarek and Hindak,64000,32,0,0,500,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Woronichinia,compacta,Wor.com
+17066,Buffalo Pound,0.8,199,P1076,Woronichinia compacta (Lemmermann) Komarek and Hindak,2000,4.8,0,0,2400,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Woronichinia,compacta,Wor.com
+17066,Buffalo Pound,0.8,199,P1078,Planktothrix agardhii (Gom.) Anagnostidis and Komarek,1035000,4919.25,360,4.1,4752.9,Cyanophyte,PHYT,Cyanophyta,Oscillatotiaceae,Planktothrix,agardhii,Pla.aga
+17066,Buffalo Pound,0.8,199,P1132,Anabaena crassa (Lemm.) Kom-Legn. & Crongerg,5000,46.03,169,10.2,9206.3,Cyanophyte,PHYT,Cyanophyta,Nostocaceae,Anabaena,crassa,Ana.cra
+17066,Buffalo Pound,0.8,199,P1133,Anabaena flos-aquae (Lyngb.) Breb. & Bornet,106000,456.41,221,6.1,4305.8,Cyanophyte,PHYT,Cyanophyta,Nostocaceae,Anabaena,flos-aquae,Ana.flo
+17066,Buffalo Pound,0.8,199,P2101,Carteria spp.,555562,639.06,13,13,1150.3,Chlorophyte,PHYT,Chlorophyta,Chlamydomonadaceae,Carteria,spp.,Car.spp
+17066,Buffalo Pound,0.8,199,P2105,Chlamydomonas spp.,1706369,257.32,8,6,150.8,Chlorophyte,PHYT,Chlorophyta,Chlamydomonadaceae,Chlamydomonas,spp.,Chl.spp
+17066,Buffalo Pound,0.8,199,P2113,Pediastrum duplex Meyen,2000,7,0,0,3500,Chlorophyte,PHYT,Chlorophyta,Hydrodictyaceae,Pediastrum,duplex,Ped.dup
+17066,Buffalo Pound,0.8,199,P2121,Oocystis lacustris Chodat,2182565,109.78,6,4,50.3,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Oocystis,lacustris,Ooc.lac
+17066,Buffalo Pound,0.8,199,P2130,Scenedesmus quadricauda (Turp.) Brebisson,2698444,120.62,8,4,44.7,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,quadricauda,Sce.qua
+17066,Buffalo Pound,0.8,199,P2132,Scenedesmus denticulatus Lagerhiem,1031758,47.87,8.3,4,46.4,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,denticulatus,Sce.den
+17066,Buffalo Pound,0.8,199,P2136,Dictyosphaerium pulchellum Wood,6388963,722.59,6,6,113.1,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Dictyosphaerium,pulchellum,Dic.pul
+17066,Buffalo Pound,0.8,199,P2141,Monoraphidium contortum (Thur.) Komarkova-Legnerova,357147,6,19,1.5,16.8,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Monoraphidium,contortum,Mon.con
+17066,Buffalo Pound,0.8,199,P2145,Crucigenia quadrata Morr.,158732,0.75,3,3,4.7,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Crucigeniella,quadrata,Cru.qua
+17066,Buffalo Pound,0.8,199,P2154,Coelastrum microporum Naegeli,1000,2.68,0,0,2680,Chlorophyte,PHYT,Chlorophyta,Coelastraceae,Coelastrum,microporum,Coe.mic
+17066,Buffalo Pound,0.8,199,P2167,Elakatothrix gelatinosa Willen,119049,2.24,12,2,18.8,Chlorophyte,PHYT,Chlorophyta,Coccomyxaceae,Elakatothrix,gelatinosa,Ela.gel
+17066,Buffalo Pound,0.8,199,P2178,Cosmarium sp.,4000,5.59,20,20,1396.3,Chlorophyte,PHYT,Chlorophyta,Desmidiaceae,Cosmarium,sp.,Cos.sp.
+17066,Buffalo Pound,0.8,199,P2193,Staurodesmus paradoxum Meyen,1000,1.61,22,19,1605,Chlorophyte,PHYT,Chlorophyta,Desmidiaceae,Staurodesmus,paradoxum,Sta.par
+17066,Buffalo Pound,0.8,199,P2199,Spondylosium planum (Wolle) W. and G.S. West,39683,1.5,6,6,37.7,Chlorophyte,PHYT,Chlorophyta,Desmidiaceae,Spondylosium,planum,Spo.pla
+17066,Buffalo Pound,0.8,199,P2235,Ankistrodesmus spiralis Lemmermann,119049,5.24,28,2,44,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Ankistrodesmus,spiralis,Ank.spi
+17066,Buffalo Pound,0.8,199,P2255,Selenastrum copricornutum Printz,1706369,17.75,6.9,1.7,10.4,Chlorophyte,PHYT,Chlorophyta,Selenastraceae,Selenastrum,copricornutum,Sel.cop
+17066,Buffalo Pound,0.8,199,P3301,Euglena acus Ehrenberg,1000,4.92,94,10,4921.8,Euglenophyte,PHYT,Euglenophyta,Euglenaceae,Euglena,acus,Eug.acu
+17066,Buffalo Pound,0.8,199,P4351,Small chrysophyceae,1428588,11.71,2.5,2.5,8.2,Chrysophyte,PHYT,Chrysophyta,.,Small chrysophyceae,.,Sma..
+17066,Buffalo Pound,0.8,199,P4355,Chrysochromulina parva Lackey,476196,31.14,5,5,65.4,Chrysophyte,PHYT,Chrysophyta,Prymnesiaceae,Chrysochromulina,parva,Chr.par
+17066,Buffalo Pound,0.8,199,P4358,Chrysostephanosphaera globulifera Scherffel,39683,14.16,8.8,8.8,356.8,Chrysophyte,PHYT,Chrysophyta,Rhizochrysidaceae,Chrysostephanospaera,globulifera,Chr.glo
+17066,Buffalo Pound,0.8,199,P4367,"Mallomonas duerrschmidtiae Siver, Hamer and Kling",3000,1.8,17.9,8,599.8,Chrysophyte,PHYT,Chrysophyta,Synuraceae,Mallomonas,duerrschmidtiae,Mal.due
+17066,Buffalo Pound,0.8,199,P4400,Ochromonas sp.,39683,2.56,7.7,4,64.5,Chrysophyte,PHYT,Chrysophyta,Ochromonadaceae,Ochromonas,sp.,Och.sp.
+17066,Buffalo Pound,0.8,199,P4401,Uroglena volvox Ehrenberg,952392,107.72,6,6,113.1,Chrysophyte,PHYT,Chrysophyta,Ochromonadaceae,Uroglena,volvox,Uro.vol
+17066,Buffalo Pound,0.8,199,P4418,Salpingoeca frequentissima (Zach.) Lemmermann,357147,12.21,6,3.3,34.2,Chrysophyte,PHYT,Chrysophyta,Craspedomonadaceae,Salpingoeca,frequentissima,Sal.fre
+17066,Buffalo Pound,0.8,199,P5515,Fragilaria crotonensis Kitton,29000,8.99,74,4,310,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,crotonensis,Fra.cro
+17066,Buffalo Pound,0.8,199,P5550,Fragilaria capucina v. rumpens (Kutzing) Lange-Bertalot,634928,111.68,42,4,175.9,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,capucina,Fra.cap
+17066,Buffalo Pound,0.8,199,P6554,Rhodomonas minuta Skuja,3214323,204.11,9.4,4.4,63.5,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Rhodomonas,minuta,Rho.min
+17066,Buffalo Pound,0.8,199,P6558,Cryptomonas erosa Ehrenberg,54000,94.21,25.5,14,1744.6,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Cryptomonas,erosa,Cry.ero
+17066,Buffalo Pound,0.8,199,P6568,Katablepharis ovalis Skuja,1190490,54.52,8.1,4,45.8,Cryptophyte,PHYT,Pyrrhophyta,Katablepharidaceae,Katablepharis,ovalis,Kat.ova
+17066,Buffalo Pound,0.8,199,P7632,Gymnodinium sp.,3000,46.8,31,31,15598.5,Dinoflagellate,PHYT,Pyrrhophyta,Gymnodinaceae,Gymnodinium,sp.,Gym.sp.
+17066,Buffalo Pound,0.8,199,P7639,Peridinium pusillum (Penard) Lemmermann,2000,8.38,20,20,4188.8,Dinoflagellate,PHYT,Pyrrhophyta,Peridiniaceae,Peridinium,pusillum,Per.pus
+17066,Buffalo Pound,0.8,199,P7640,Peridinium goslaviense Woloszynska,6000,201.06,40,40,33510.3,Dinoflagellate,PHYT,Pyrrhophyta,Peridiniaceae,Peridinium,goslaviense,Per.gos
+17069,Buffalo Pound,0.8,206,P1014,Chroococcus limneticus Lemmermann,43104,5.12,6.1,6.1,118.8,Cyanophyte,PHYT,Cyanophyta,Chroococcaceae,Chroococcus,limneticus,Chr.lim
+17069,Buffalo Pound,0.8,206,P1028,Merismopedia glauca (Ehrenberg) Kutzing,689664,12.41,0,0,18,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Merismopedia,glauca,Mer.gla
+17069,Buffalo Pound,0.8,206,P1075,Microcystis aeruginosa (Kutzing) Kutzing,2800,7,0,0,2500,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Microcystis,aeruginosa,Mic.aer
+17069,Buffalo Pound,0.8,206,P1076,Woronichinia compacta (Lemmermann) Komarek and Hindak,65400,32.7,0,0,500,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Woronichinia,compacta,Wor.com
+17069,Buffalo Pound,0.8,206,P1076,Woronichinia compacta (Lemmermann) Komarek and Hindak,5200,15.6,0,0,3000,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Woronichinia,compacta,Wor.com
+17069,Buffalo Pound,0.8,206,P1078,Planktothrix agardhii (Gom.) Anagnostidis and Komarek,486000,2463.92,384,4.1,5069.8,Cyanophyte,PHYT,Cyanophyta,Oscillatotiaceae,Planktothrix,agardhii,Pla.aga
+17069,Buffalo Pound,0.8,206,P1132,Anabaena crassa (Lemm.) Kom-Legn. & Crongerg,800,7.33,175,10,9163,Cyanophyte,PHYT,Cyanophyta,Nostocaceae,Anabaena,crassa,Ana.cra
+17069,Buffalo Pound,0.8,206,P1133,Anabaena flos-aquae (Lyngb.) Breb. & Bornet,6200,25.37,210,6.1,4091.5,Cyanophyte,PHYT,Cyanophyta,Nostocaceae,Anabaena,flos-aquae,Ana.flo
+17069,Buffalo Pound,0.8,206,P2105,Chlamydomonas spp.,43104,2.17,6,4,50.3,Chlorophyte,PHYT,Chlorophyta,Chlamydomonadaceae,Chlamydomonas,spp.,Chl.spp
+17069,Buffalo Pound,0.8,206,P2121,Oocystis lacustris Chodat,380752,19.15,6,4,50.3,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Oocystis,lacustris,Ooc.lac
+17069,Buffalo Pound,0.8,206,P2130,Scenedesmus quadricauda (Turp.) Brebisson,510064,23.67,8.3,4,46.4,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,quadricauda,Sce.qua
+17069,Buffalo Pound,0.8,206,P2132,Scenedesmus denticulatus Lagerhiem,114944,5.84,9.1,4,50.8,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,denticulatus,Sce.den
+17069,Buffalo Pound,0.8,206,P2136,Dictyosphaerium pulchellum Wood,3046016,344.5,6,6,113.1,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Dictyosphaerium,pulchellum,Dic.pul
+17069,Buffalo Pound,0.8,206,P2141,Monoraphidium contortum (Thur.) Komarkova-Legnerova,150864,2.81,21,1.5,18.6,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Monoraphidium,contortum,Mon.con
+17069,Buffalo Pound,0.8,206,P2143,Monoraphidium minutum (Nag.) Komarkova-Legnerova,35920,2.17,9.6,4,60.3,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Monoraphidium,minutum,Mon.min
+17069,Buffalo Pound,0.8,206,P2145,Crucigenia quadrata Morr.,28736,0.14,3,3,4.7,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Crucigeniella,quadrata,Cru.qua
+17069,Buffalo Pound,0.8,206,P2178,Cosmarium sp.,3200,4.47,20,20,1396.3,Chlorophyte,PHYT,Chlorophyta,Desmidiaceae,Cosmarium,sp.,Cos.sp.
+17069,Buffalo Pound,0.8,206,P2193,Staurodesmus paradoxum Meyen,600,0.88,21,19,1462.4,Chlorophyte,PHYT,Chlorophyta,Desmidiaceae,Staurodesmus,paradoxum,Sta.par
+17069,Buffalo Pound,0.8,206,P2235,Ankistrodesmus spiralis Lemmermann,129312,6.09,30,2,47.1,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Ankistrodesmus,spiralis,Ank.spi
+17069,Buffalo Pound,0.8,206,P2255,Selenastrum copricornutum Printz,258624,2.74,7,1.7,10.6,Chlorophyte,PHYT,Chlorophyta,Selenastraceae,Selenastrum,copricornutum,Sel.cop
+17069,Buffalo Pound,0.8,206,P4351,Small chrysophyceae,43104,0.44,2.7,2.7,10.3,Chrysophyte,PHYT,Chrysophyta,.,Small chrysophyceae,.,Sma..
+17069,Buffalo Pound,0.8,206,P4355,Chrysochromulina parva Lackey,114944,7.52,5,5,65.4,Chrysophyte,PHYT,Chrysophyta,Prymnesiaceae,Chrysochromulina,parva,Chr.par
+17069,Buffalo Pound,0.8,206,P4401,Uroglena volvox Ehrenberg,28736,3.25,6,6,113.1,Chrysophyte,PHYT,Chrysophyta,Ochromonadaceae,Uroglena,volvox,Uro.vol
+17069,Buffalo Pound,0.8,206,P4418,Salpingoeca frequentissima (Zach.) Lemmermann,79024,3.04,6,3.5,38.5,Chrysophyte,PHYT,Chrysophyta,Craspedomonadaceae,Salpingoeca,frequentissima,Sal.fre
+17069,Buffalo Pound,0.8,206,P5515,Fragilaria crotonensis Kitton,12600,3.64,69,4,289,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,crotonensis,Fra.cro
+17069,Buffalo Pound,0.8,206,P5550,Fragilaria capucina v. rumpens (Kutzing) Lange-Bertalot,215520,37,41,4,171.7,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,capucina,Fra.cap
+17069,Buffalo Pound,0.8,206,P5551,Cyclotella michiganiana Skvortzow,107760,2.64,2.5,5,24.5,Diatom,PHYT,Chrysophyta,Coscinodiscoideae,Cyclotella,michiganiana,Cyc.mic
+17069,Buffalo Pound,0.8,206,P6554,Rhodomonas minuta Skuja,689664,41.86,9.4,4.3,60.7,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Rhodomonas,minuta,Rho.min
+17069,Buffalo Pound,0.8,206,P6558,Cryptomonas erosa Ehrenberg,3200,5.36,24.5,14,1676.2,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Cryptomonas,erosa,Cry.ero
+17069,Buffalo Pound,0.8,206,P6565,Cryptomonas rostratiformis Skuja,1200,2.79,34,14,2326.2,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Cryptomonas,rostratiformis,Cry.ros
+17069,Buffalo Pound,0.8,206,P6568,Katablepharis ovalis Skuja,35920,1.45,7.6,4,40.3,Cryptophyte,PHYT,Pyrrhophyta,Katablepharidaceae,Katablepharis,ovalis,Kat.ova
+17069,Buffalo Pound,0.8,206,P7632,Gymnodinium sp.,1800,13.03,24,24,7238.2,Dinoflagellate,PHYT,Pyrrhophyta,Gymnodinaceae,Gymnodinium,sp.,Gym.sp.
+17069,Buffalo Pound,0.8,206,P7639,Peridinium pusillum (Penard) Lemmermann,4800,20.11,20,20,4188.8,Dinoflagellate,PHYT,Pyrrhophyta,Peridiniaceae,Peridinium,pusillum,Per.pus
+17069,Buffalo Pound,0.8,206,P7640,Peridinium goslaviense Woloszynska,6200,207.76,40,40,33510.3,Dinoflagellate,PHYT,Pyrrhophyta,Peridiniaceae,Peridinium,goslaviense,Per.gos
+17072,Buffalo Pound,0.8,205,P1028,Merismopedia glauca (Ehrenberg) Kutzing,3015908,54.29,0,0,18,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Merismopedia,glauca,Mer.gla
+17072,Buffalo Pound,0.8,205,P1054,Planktolyngbya limnetica,2000,0.33,146,1.2,165.1,Cyanophyte,PHYT,Cyanophyta,Oscillatotiaceae,Planktolyngbya,limnetica,Pla.lim
+17072,Buffalo Pound,0.8,205,P1075,Microcystis aeruginosa (Kutzing) Kutzing,4000,10.1,0,0,2525,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Microcystis,aeruginosa,Mic.aer
+17072,Buffalo Pound,0.8,205,P1076,Woronichinia compacta (Lemmermann) Komarek and Hindak,81000,40.5,0,0,500,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Woronichinia,compacta,Wor.com
+17072,Buffalo Pound,0.8,205,P1076,Woronichinia compacta (Lemmermann) Komarek and Hindak,16000,42.8,0,0,2675,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Woronichinia,compacta,Wor.com
+17072,Buffalo Pound,0.8,205,P1078,Planktothrix agardhii (Gom.) Anagnostidis and Komarek,1417000,6173.59,330,4.1,4356.8,Cyanophyte,PHYT,Cyanophyta,Oscillatotiaceae,Planktothrix,agardhii,Pla.aga
+17072,Buffalo Pound,0.8,205,P1133,Anabaena flos-aquae (Lyngb.) Breb. & Bornet,8000,28.99,186,6.1,3623.9,Cyanophyte,PHYT,Cyanophyta,Nostocaceae,Anabaena,flos-aquae,Ana.flo
+17072,Buffalo Pound,0.8,205,P2105,Chlamydomonas spp.,674611,45.2,8,4,67,Chlorophyte,PHYT,Chlorophyta,Chlamydomonadaceae,Chlamydomonas,spp.,Chl.spp
+17072,Buffalo Pound,0.8,205,P2113,Pediastrum duplex Meyen,8000,14,0,0,1750,Chlorophyte,PHYT,Chlorophyta,Hydrodictyaceae,Pediastrum,duplex,Ped.dup
+17072,Buffalo Pound,0.8,205,P2121,Oocystis lacustris Chodat,1904784,95.81,6,4,50.3,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Oocystis,lacustris,Ooc.lac
+17072,Buffalo Pound,0.8,205,P2130,Scenedesmus quadricauda (Turp.) Brebisson,1428588,64.57,8.1,4,45.2,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,quadricauda,Sce.qua
+17072,Buffalo Pound,0.8,205,P2132,Scenedesmus denticulatus Lagerhiem,1666686,78.17,8.4,4,46.9,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,denticulatus,Sce.den
+17072,Buffalo Pound,0.8,205,P2136,Dictyosphaerium pulchellum Wood,8373113,947,6,6,113.1,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Dictyosphaerium,pulchellum,Dic.pul
+17072,Buffalo Pound,0.8,205,P2141,Monoraphidium contortum (Thur.) Komarkova-Legnerova,714294,12,19,1.5,16.8,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Monoraphidium,contortum,Mon.con
+17072,Buffalo Pound,0.8,205,P2167,Elakatothrix gelatinosa Willen,238098,4.86,13,2,20.4,Chlorophyte,PHYT,Chlorophyta,Coccomyxaceae,Elakatothrix,gelatinosa,Ela.gel
+17072,Buffalo Pound,0.8,205,P2178,Cosmarium sp.,1000,1.4,20,20,1396.3,Chlorophyte,PHYT,Chlorophyta,Desmidiaceae,Cosmarium,sp.,Cos.sp.
+17072,Buffalo Pound,0.8,205,P2193,Staurodesmus paradoxum Meyen,3000,5.26,23,19,1754.2,Chlorophyte,PHYT,Chlorophyta,Desmidiaceae,Staurodesmus,paradoxum,Sta.par
+17072,Buffalo Pound,0.8,205,P2235,Ankistrodesmus spiralis Lemmermann,634928,27.94,28,2,44,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Ankistrodesmus,spiralis,Ank.spi
+17072,Buffalo Pound,0.8,205,P2255,Selenastrum copricornutum Printz,793660,8.73,7.3,1.7,11,Chlorophyte,PHYT,Chlorophyta,Selenastraceae,Selenastrum,copricornutum,Sel.cop
+17072,Buffalo Pound,0.8,205,P3301,Euglena acus Ehrenberg,2000,17.49,116,12,8746.2,Euglenophyte,PHYT,Euglenophyta,Euglenaceae,Euglena,acus,Eug.acu
+17072,Buffalo Pound,0.8,205,P4355,Chrysochromulina parva Lackey,634928,41.52,5,5,65.4,Chrysophyte,PHYT,Chrysophyta,Prymnesiaceae,Chrysochromulina,parva,Chr.par
+17072,Buffalo Pound,0.8,205,P5515,Fragilaria crotonensis Kitton,17000,5.06,71,4,297.4,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,crotonensis,Fra.cro
+17072,Buffalo Pound,0.8,205,P5550,Fragilaria capucina v. rumpens (Kutzing) Lange-Bertalot,396830,64.84,39,4,163.4,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,capucina,Fra.cap
+17072,Buffalo Pound,0.8,205,P5551,Cyclotella michiganiana Skvortzow,1071441,26.25,2.5,5,24.5,Diatom,PHYT,Chrysophyta,Coscinodiscoideae,Cyclotella,michiganiana,Cyc.mic
+17072,Buffalo Pound,0.8,205,P6554,Rhodomonas minuta Skuja,3174640,175.24,9.4,4.1,55.2,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Rhodomonas,minuta,Rho.min
+17072,Buffalo Pound,0.8,205,P6558,Cryptomonas erosa Ehrenberg,247000,405.57,24,14,1642,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Cryptomonas,erosa,Cry.ero
+17072,Buffalo Pound,0.8,205,P6565,Cryptomonas rostratiformis Skuja,8000,19.16,35,14,2394.6,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Cryptomonas,rostratiformis,Cry.ros
+17072,Buffalo Pound,0.8,205,P6568,Katablepharis ovalis Skuja,515879,20.79,7.6,4,40.3,Cryptophyte,PHYT,Pyrrhophyta,Katablepharidaceae,Katablepharis,ovalis,Kat.ova
+17072,Buffalo Pound,0.8,205,P7632,Gymnodinium sp.,16000,147.24,26,26,9202.8,Dinoflagellate,PHYT,Pyrrhophyta,Gymnodinaceae,Gymnodinium,sp.,Gym.sp.
+17072,Buffalo Pound,0.8,205,P7639,Peridinium pusillum (Penard) Lemmermann,9000,37.7,20,20,4188.8,Dinoflagellate,PHYT,Pyrrhophyta,Peridiniaceae,Peridinium,pusillum,Per.pus
+17072,Buffalo Pound,0.8,205,P7640,Peridinium goslaviense Woloszynska,11000,368.61,40,40,33510.3,Dinoflagellate,PHYT,Pyrrhophyta,Peridiniaceae,Peridinium,goslaviense,Per.gos
+17075,Buffalo Pound,0.8,212,P1014,Chroococcus limneticus Lemmermann,1111124,132,6.1,6.1,118.8,Cyanophyte,PHYT,Cyanophyta,Chroococcaceae,Chroococcus,limneticus,Chr.lim
+17075,Buffalo Pound,0.8,212,P1028,Merismopedia glauca (Ehrenberg) Kutzing,158732,2.86,0,0,18,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Merismopedia,glauca,Mer.gla
+17075,Buffalo Pound,0.8,212,P1054,Planktolyngbya limnetica,54000,12.83,210,1.2,237.5,Cyanophyte,PHYT,Cyanophyta,Oscillatotiaceae,Planktolyngbya,limnetica,Pla.lim
+17075,Buffalo Pound,0.8,212,P1075,Microcystis aeruginosa (Kutzing) Kutzing,2000,4.2,0,0,2100,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Microcystis,aeruginosa,Mic.aer
+17075,Buffalo Pound,0.8,212,P1076,Woronichinia compacta (Lemmermann) Komarek and Hindak,26000,13,0,0,500,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Woronichinia,compacta,Wor.com
+17075,Buffalo Pound,0.8,212,P1076,Woronichinia compacta (Lemmermann) Komarek and Hindak,10000,25,0,0,2500,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Woronichinia,compacta,Wor.com
+17075,Buffalo Pound,0.8,212,P1078,Planktothrix agardhii (Gom.) Anagnostidis and Komarek,720000,4289.33,430,4.2,5957.4,Cyanophyte,PHYT,Cyanophyta,Oscillatotiaceae,Planktothrix,agardhii,Pla.aga
+17075,Buffalo Pound,0.8,212,P1133,Anabaena flos-aquae (Lyngb.) Breb. & Bornet,202000,1158.71,285,6.2,5736.2,Cyanophyte,PHYT,Cyanophyta,Nostocaceae,Anabaena,flos-aquae,Ana.flo
+17075,Buffalo Pound,0.8,212,P2105,Chlamydomonas spp.,277781,13.97,6,4,50.3,Chlorophyte,PHYT,Chlorophyta,Chlamydomonadaceae,Chlamydomonas,spp.,Chl.spp
+17075,Buffalo Pound,0.8,212,P2113,Pediastrum duplex Meyen,1000,3.1,0,0,3100,Chlorophyte,PHYT,Chlorophyta,Hydrodictyaceae,Pediastrum,duplex,Ped.dup
+17075,Buffalo Pound,0.8,212,P2121,Oocystis lacustris Chodat,1468271,73.85,6,4,50.3,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Oocystis,lacustris,Ooc.lac
+17075,Buffalo Pound,0.8,212,P2130,Scenedesmus quadricauda (Turp.) Brebisson,1230173,55.6,8.1,4,45.2,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,quadricauda,Sce.qua
+17075,Buffalo Pound,0.8,212,P2132,Scenedesmus denticulatus Lagerhiem,158732,7,7.9,4,44.1,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,denticulatus,Sce.den
+17075,Buffalo Pound,0.8,212,P2136,Dictyosphaerium pulchellum Wood,1587320,179.53,6,6,113.1,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Dictyosphaerium,pulchellum,Dic.pul
+17075,Buffalo Pound,0.8,212,P2141,Monoraphidium contortum (Thur.) Komarkova-Legnerova,1190490,20,19,1.5,16.8,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Monoraphidium,contortum,Mon.con
+17075,Buffalo Pound,0.8,212,P2178,Cosmarium sp.,1000,1.4,20,20,1396.3,Chlorophyte,PHYT,Chlorophyta,Desmidiaceae,Cosmarium,sp.,Cos.sp.
+17075,Buffalo Pound,0.8,212,P2235,Ankistrodesmus spiralis Lemmermann,793660,37.38,30,2,47.1,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Ankistrodesmus,spiralis,Ank.spi
+17075,Buffalo Pound,0.8,212,P2255,Selenastrum copricornutum Printz,3174640,33.97,7.1,1.7,10.7,Chlorophyte,PHYT,Chlorophyta,Selenastraceae,Selenastrum,copricornutum,Sel.cop
+17075,Buffalo Pound,0.8,212,P3301,Euglena acus Ehrenberg,1000,11.9,116,14,11904.5,Euglenophyte,PHYT,Euglenophyta,Euglenaceae,Euglena,acus,Eug.acu
+17075,Buffalo Pound,0.8,212,P4351,Small chrysophyceae,1627003,16.76,2.7,2.7,10.3,Chrysophyte,PHYT,Chrysophyta,.,Small chrysophyceae,.,Sma..
+17075,Buffalo Pound,0.8,212,P4355,Chrysochromulina parva Lackey,2539712,166.1,5,5,65.4,Chrysophyte,PHYT,Chrysophyta,Prymnesiaceae,Chrysochromulina,parva,Chr.par
+17075,Buffalo Pound,0.8,212,P4357,Chrysococcus sp.,515879,33.74,5,5,65.4,Chrysophyte,PHYT,Chrysophyta,Chrysocapsaceae,Chrysococcus,sp.,Chr.sp.
+17075,Buffalo Pound,0.8,212,P4363,Spiniferomonas serrata,198415,23.57,6.1,6.1,118.8,Chrysophyte,PHYT,Chrysophyta,Synuraceae,Spiniferomonas,serratus,Spi.ser
+17075,Buffalo Pound,0.8,212,P4388,Dinobryon sertularia Ehrenberg,39683,8.98,12,6,226.2,Chrysophyte,PHYT,Chrysophyta,Dinobryoaceae,Dinobryon,sertularia,Din.ser
+17075,Buffalo Pound,0.8,212,P4401,Uroglena volvox Ehrenberg,515879,58.35,6,6,113.1,Chrysophyte,PHYT,Chrysophyta,Ochromonadaceae,Uroglena,volvox,Uro.vol
+17075,Buffalo Pound,0.8,212,P4418,Salpingoeca frequentissima (Zach.) Lemmermann,873026,29.86,6,3.3,34.2,Chrysophyte,PHYT,Chrysophyta,Craspedomonadaceae,Salpingoeca,frequentissima,Sal.fre
+17075,Buffalo Pound,0.8,212,P5515,Fragilaria crotonensis Kitton,18000,5.66,75,4,314.2,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,crotonensis,Fra.cro
+17075,Buffalo Pound,0.8,212,P5550,Fragilaria capucina v. rumpens (Kutzing) Lange-Bertalot,119049,19.45,39,4,163.4,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,capucina,Fra.cap
+17075,Buffalo Pound,0.8,212,P5551,Cyclotella michiganiana Skvortzow,317464,7.78,2.5,5,24.5,Diatom,PHYT,Chrysophyta,Coscinodiscoideae,Cyclotella,michiganiana,Cyc.mic
+17075,Buffalo Pound,0.8,212,P6554,Rhodomonas minuta Skuja,238098,14.21,9.7,4.2,59.7,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Rhodomonas,minuta,Rho.min
+17075,Buffalo Pound,0.8,212,P6558,Cryptomonas erosa Ehrenberg,4000,7.12,26,14,1778.8,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Cryptomonas,erosa,Cry.ero
+17075,Buffalo Pound,0.8,212,P6568,Katablepharis ovalis Skuja,595245,33.63,9,4,56.5,Cryptophyte,PHYT,Pyrrhophyta,Katablepharidaceae,Katablepharis,ovalis,Kat.ova
+17075,Buffalo Pound,0.8,212,P7632,Gymnodinium sp.,1000,15.6,31,31,15598.5,Dinoflagellate,PHYT,Pyrrhophyta,Gymnodinaceae,Gymnodinium,sp.,Gym.sp.
+17075,Buffalo Pound,0.8,212,P7639,Peridinium pusillum (Penard) Lemmermann,2000,8.38,20,20,4188.8,Dinoflagellate,PHYT,Pyrrhophyta,Peridiniaceae,Peridinium,pusillum,Per.pus
+17075,Buffalo Pound,0.8,212,P7640,Peridinium goslaviense Woloszynska,14000,469.14,40,40,33510.3,Dinoflagellate,PHYT,Pyrrhophyta,Peridiniaceae,Peridinium,goslaviense,Per.gos
+17134,Buffalo Pound,0.8,220,P1028,Merismopedia glauca (Ehrenberg) Kutzing,1111124,20,0,0,18,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Merismopedia,glauca,Mer.gla
+17134,Buffalo Pound,0.8,220,P1054,Planktolyngbya limnetica,3000,0.49,145,1.2,164,Cyanophyte,PHYT,Cyanophyta,Oscillatotiaceae,Planktolyngbya,limnetica,Pla.lim
+17134,Buffalo Pound,0.8,220,P1075,Microcystis aeruginosa (Kutzing) Kutzing,4000,10,0,0,2500,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Microcystis,aeruginosa,Mic.aer
+17134,Buffalo Pound,0.8,220,P1076,Woronichinia compacta (Lemmermann) Komarek and Hindak,40000,20,0,0,500,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Woronichinia,compacta,Wor.com
+17134,Buffalo Pound,0.8,220,P1076,Woronichinia compacta (Lemmermann) Komarek and Hindak,9000,30.6,0,0,3400,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Woronichinia,compacta,Wor.com
+17134,Buffalo Pound,0.8,220,P1078,Planktothrix agardhii (Gom.) Anagnostidis and Komarek,922000,4406.98,345,4.2,4779.8,Cyanophyte,PHYT,Cyanophyta,Oscillatotiaceae,Planktothrix,agardhii,Pla.aga
+17134,Buffalo Pound,0.8,220,P1132,Anabaena crassa (Lemm.) Kom-Legn. & Crongerg,26000,303.3,210,10.3,11665.2,Cyanophyte,PHYT,Cyanophyta,Nostocaceae,Anabaena,crassa,Ana.cra
+17134,Buffalo Pound,0.8,220,P1133,Anabaena flos-aquae (Lyngb.) Breb. & Bornet,597000,3659.97,295,6.3,6130.6,Cyanophyte,PHYT,Cyanophyta,Nostocaceae,Anabaena,flos-aquae,Ana.flo
+17134,Buffalo Pound,0.8,220,P2101,Carteria spp.,158732,243.03,14.3,14.3,1531.1,Chlorophyte,PHYT,Chlorophyta,Chlamydomonadaceae,Carteria,spp.,Car.spp
+17134,Buffalo Pound,0.8,220,P2105,Chlamydomonas spp.,119049,5.99,6,4,50.3,Chlorophyte,PHYT,Chlorophyta,Chlamydomonadaceae,Chlamydomonas,spp.,Chl.spp
+17134,Buffalo Pound,0.8,220,P2113,Pediastrum duplex Meyen,1000,1.96,0,0,1960,Chlorophyte,PHYT,Chlorophyta,Hydrodictyaceae,Pediastrum,duplex,Ped.dup
+17134,Buffalo Pound,0.8,220,P2121,Oocystis lacustris Chodat,1785735,89.82,6,4,50.3,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Oocystis,lacustris,Ooc.lac
+17134,Buffalo Pound,0.8,220,P2130,Scenedesmus quadricauda (Turp.) Brebisson,2777810,117.78,7.6,4,42.4,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,quadricauda,Sce.qua
+17134,Buffalo Pound,0.8,220,P2132,Scenedesmus denticulatus Lagerhiem,714294,31.14,7.8,4,43.6,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,denticulatus,Sce.den
+17134,Buffalo Pound,0.8,220,P2136,Dictyosphaerium pulchellum Wood,3214323,363.54,6,6,113.1,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Dictyosphaerium,pulchellum,Dic.pul
+17134,Buffalo Pound,0.8,220,P2141,Monoraphidium contortum (Thur.) Komarkova-Legnerova,753977,13.35,20,1.5,17.7,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Monoraphidium,contortum,Mon.con
+17134,Buffalo Pound,0.8,220,P2145,Crucigenia quadrata Morr.,317464,0.44,2,2,1.4,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Crucigeniella,quadrata,Cru.qua
+17134,Buffalo Pound,0.8,220,P2146,Crucigeniella rectangularis (Nag.) Komarek,1269856,31.87,6,4,25.1,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Crucigeniella,rectangularis,Cru.rec
+17134,Buffalo Pound,0.8,220,P2167,Elakatothrix gelatinosa Willen,39683,0.75,12,2,18.8,Chlorophyte,PHYT,Chlorophyta,Coccomyxaceae,Elakatothrix,gelatinosa,Ela.gel
+17134,Buffalo Pound,0.8,220,P2193,Staurodesmus paradoxum Meyen,2000,2.92,21,19,1462.4,Chlorophyte,PHYT,Chlorophyta,Desmidiaceae,Staurodesmus,paradoxum,Sta.par
+17134,Buffalo Pound,0.8,220,P2199,Spondylosium planum (Wolle) W. and G.S. West,39683,1.5,6,6,37.7,Chlorophyte,PHYT,Chlorophyta,Desmidiaceae,Spondylosium,planum,Spo.pla
+17134,Buffalo Pound,0.8,220,P2235,Ankistrodesmus spiralis Lemmermann,396830,17.46,28,2,44,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Ankistrodesmus,spiralis,Ank.spi
+17134,Buffalo Pound,0.8,220,P2255,Selenastrum copricornutum Printz,1904784,20.76,7.2,1.7,10.9,Chlorophyte,PHYT,Chlorophyta,Selenastraceae,Selenastrum,copricornutum,Sel.cop
+17134,Buffalo Pound,0.8,220,P2256,Actinastrum sp. Lagerheim,39683,0.97,5.2,3,24.5,Chlorophyte,PHYT,NA,NA,NA,NA,NA.NA
+17134,Buffalo Pound,0.8,220,P4351,Small chrysophyceae,1111124,6.22,2.2,2.2,5.6,Chrysophyte,PHYT,Chrysophyta,.,Small chrysophyceae,.,Sma..
+17134,Buffalo Pound,0.8,220,P4355,Chrysochromulina parva Lackey,2460346,160.91,5,5,65.4,Chrysophyte,PHYT,Chrysophyta,Prymnesiaceae,Chrysochromulina,parva,Chr.par
+17134,Buffalo Pound,0.8,220,P4358,Chrysostephanosphaera globulifera Scherffel,39683,12.31,8.4,8.4,310.3,Chrysophyte,PHYT,Chrysophyta,Rhizochrysidaceae,Chrysostephanospaera,globulifera,Chr.glo
+17134,Buffalo Pound,0.8,220,P4388,Dinobryon sertularia Ehrenberg,39683,8.98,12,6,226.2,Chrysophyte,PHYT,Chrysophyta,Dinobryoaceae,Dinobryon,sertularia,Din.ser
+17134,Buffalo Pound,0.8,220,P4401,Uroglena volvox Ehrenberg,238098,26.93,6,6,113.1,Chrysophyte,PHYT,Chrysophyta,Ochromonadaceae,Uroglena,volvox,Uro.vol
+17134,Buffalo Pound,0.8,220,P4418,Salpingoeca frequentissima (Zach.) Lemmermann,39683,1.36,6,3.3,34.2,Chrysophyte,PHYT,Chrysophyta,Craspedomonadaceae,Salpingoeca,frequentissima,Sal.fre
+17134,Buffalo Pound,0.8,220,P5515,Fragilaria crotonensis Kitton,39000,11.11,68,4,284.8,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,crotonensis,Fra.cro
+17134,Buffalo Pound,0.8,220,P5550,Fragilaria capucina v. rumpens (Kutzing) Lange-Bertalot,753977,124.41,39.4,4,165,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,capucina,Fra.cap
+17134,Buffalo Pound,0.8,220,P5551,Cyclotella michiganiana Skvortzow,1865101,45.69,2.5,5,24.5,Diatom,PHYT,Chrysophyta,Coscinodiscoideae,Cyclotella,michiganiana,Cyc.mic
+17134,Buffalo Pound,0.8,220,P6554,Rhodomonas minuta Skuja,1190490,72.98,9.5,4.3,61.3,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Rhodomonas,minuta,Rho.min
+17134,Buffalo Pound,0.8,220,P6558,Cryptomonas erosa Ehrenberg,89000,152.84,25.1,14,1717.3,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Cryptomonas,erosa,Cry.ero
+17134,Buffalo Pound,0.8,220,P6568,Katablepharis ovalis Skuja,595245,27.26,8.1,4,45.8,Cryptophyte,PHYT,Pyrrhophyta,Katablepharidaceae,Katablepharis,ovalis,Kat.ova
+17134,Buffalo Pound,0.8,220,P7639,Peridinium pusillum (Penard) Lemmermann,2000,7.53,19.3,19.3,3764.2,Dinoflagellate,PHYT,Pyrrhophyta,Peridiniaceae,Peridinium,pusillum,Per.pus
+17134,Buffalo Pound,0.8,220,P7640,Peridinium goslaviense Woloszynska,7000,234.57,40,40,33510.3,Dinoflagellate,PHYT,Pyrrhophyta,Peridiniaceae,Peridinium,goslaviense,Per.gos
+17135,Buffalo Pound,0.8,221,P1014,Chroococcus limneticus Lemmermann,1825418,126.87,5.1,5.1,69.5,Cyanophyte,PHYT,Cyanophyta,Chroococcaceae,Chroococcus,limneticus,Chr.lim
+17135,Buffalo Pound,0.8,221,P1028,Merismopedia glauca (Ehrenberg) Kutzing,2142882,38.57,0,0,18,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Merismopedia,glauca,Mer.gla
+17135,Buffalo Pound,0.8,221,P1075,Microcystis aeruginosa (Kutzing) Kutzing,2000,4.4,0,0,2200,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Microcystis,aeruginosa,Mic.aer
+17135,Buffalo Pound,0.8,221,P1075,Microcystis aeruginosa (Kutzing) Kutzing,3000,15,0,0,5000,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Microcystis,aeruginosa,Mic.aer
+17135,Buffalo Pound,0.8,221,P1076,Woronichinia compacta (Lemmermann) Komarek and Hindak,117000,58.5,0,0,500,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Woronichinia,compacta,Wor.com
+17135,Buffalo Pound,0.8,221,P1076,Woronichinia compacta (Lemmermann) Komarek and Hindak,2000,4.2,0,0,2100,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Woronichinia,compacta,Wor.com
+17135,Buffalo Pound,0.8,221,P1078,Planktothrix agardhii (Gom.) Anagnostidis and Komarek,809000,3530.56,315,4.2,4364.1,Cyanophyte,PHYT,Cyanophyta,Oscillatotiaceae,Planktothrix,agardhii,Pla.aga
+17135,Buffalo Pound,0.8,221,P1133,Anabaena flos-aquae (Lyngb.) Breb. & Bornet,199000,1406.09,340,6.3,7065.8,Cyanophyte,PHYT,Cyanophyta,Nostocaceae,Anabaena,flos-aquae,Ana.flo
+17135,Buffalo Pound,0.8,221,P2101,Carteria spp.,119049,107.72,12,12,904.8,Chlorophyte,PHYT,Chlorophyta,Chlamydomonadaceae,Carteria,spp.,Car.spp
+17135,Buffalo Pound,0.8,221,P2105,Chlamydomonas spp.,753977,113.7,8,6,150.8,Chlorophyte,PHYT,Chlorophyta,Chlamydomonadaceae,Chlamydomonas,spp.,Chl.spp
+17135,Buffalo Pound,0.8,221,P2113,Pediastrum duplex Meyen,3000,7.2,0,0,2400,Chlorophyte,PHYT,Chlorophyta,Hydrodictyaceae,Pediastrum,duplex,Ped.dup
+17135,Buffalo Pound,0.8,221,P2121,Oocystis lacustris Chodat,3333372,167.67,6,4,50.3,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Oocystis,lacustris,Ooc.lac
+17135,Buffalo Pound,0.8,221,P2127,Tetraedron minimum (Brunow) Hansgrig,39683,6.92,10,10,174.5,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Tetraedron,minimum,Tet.min
+17135,Buffalo Pound,0.8,221,P2130,Scenedesmus quadricauda (Turp.) Brebisson,1269856,58.16,8.2,4,45.8,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,quadricauda,Sce.qua
+17135,Buffalo Pound,0.8,221,P2132,Scenedesmus denticulatus Lagerhiem,634928,26.92,7.6,4,42.4,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,denticulatus,Sce.den
+17135,Buffalo Pound,0.8,221,P2136,Dictyosphaerium pulchellum Wood,4404813,498.18,6,6,113.1,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Dictyosphaerium,pulchellum,Dic.pul
+17135,Buffalo Pound,0.8,221,P2141,Monoraphidium contortum (Thur.) Komarkova-Legnerova,2420663,38.49,18,1.5,15.9,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Monoraphidium,contortum,Mon.con
+17135,Buffalo Pound,0.8,221,P2143,Monoraphidium minutum (Nag.) Komarkova-Legnerova,515879,29.15,9,4,56.5,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Monoraphidium,minutum,Mon.min
+17135,Buffalo Pound,0.8,221,P2145,Crucigenia quadrata Morr.,158732,0.22,2,2,1.4,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Crucigeniella,quadrata,Cru.qua
+17135,Buffalo Pound,0.8,221,P2178,Cosmarium sp.,1000,1.4,20,20,1396.3,Chlorophyte,PHYT,Chlorophyta,Desmidiaceae,Cosmarium,sp.,Cos.sp.
+17135,Buffalo Pound,0.8,221,P2255,Selenastrum copricornutum Printz,3611153,40.44,7.4,1.7,11.2,Chlorophyte,PHYT,Chlorophyta,Selenastraceae,Selenastrum,copricornutum,Sel.cop
+17135,Buffalo Pound,0.8,221,P4351,Small chrysophyceae,1349222,13.9,2.7,2.7,10.3,Chrysophyte,PHYT,Chrysophyta,.,Small chrysophyceae,.,Sma..
+17135,Buffalo Pound,0.8,221,P4352,Large chrysophyceae,357147,64.14,7,7,179.6,Chrysophyte,PHYT,Chrysophyta,.,Large chrysophyceae,.,Lar..
+17135,Buffalo Pound,0.8,221,P4355,Chrysochromulina parva Lackey,3293689,215.41,5,5,65.4,Chrysophyte,PHYT,Chrysophyta,Prymnesiaceae,Chrysochromulina,parva,Chr.par
+17135,Buffalo Pound,0.8,221,P4358,Chrysostephanosphaera globulifera Scherffel,39683,14.16,8.8,8.8,356.8,Chrysophyte,PHYT,Chrysophyta,Rhizochrysidaceae,Chrysostephanospaera,globulifera,Chr.glo
+17135,Buffalo Pound,0.8,221,P4388,Dinobryon sertularia Ehrenberg,39683,8.98,12,6,226.2,Chrysophyte,PHYT,Chrysophyta,Dinobryoaceae,Dinobryon,sertularia,Din.ser
+17135,Buffalo Pound,0.8,221,P4400,Ochromonas sp.,39683,2.69,8.1,4,67.9,Chrysophyte,PHYT,Chrysophyta,Ochromonadaceae,Ochromonas,sp.,Och.sp.
+17135,Buffalo Pound,0.8,221,P4401,Uroglena volvox Ehrenberg,714294,80.79,6,6,113.1,Chrysophyte,PHYT,Chrysophyta,Ochromonadaceae,Uroglena,volvox,Uro.vol
+17135,Buffalo Pound,0.8,221,P4418,Salpingoeca frequentissima (Zach.) Lemmermann,277781,9.5,6,3.3,34.2,Chrysophyte,PHYT,Chrysophyta,Craspedomonadaceae,Salpingoeca,frequentissima,Sal.fre
+17135,Buffalo Pound,0.8,221,P5515,Fragilaria crotonensis Kitton,172000,51.15,71,4,297.4,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,crotonensis,Fra.cro
+17135,Buffalo Pound,0.8,221,P5550,Fragilaria capucina v. rumpens (Kutzing) Lange-Bertalot,238098,38.91,39,4,163.4,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,capucina,Fra.cap
+17135,Buffalo Pound,0.8,221,P5551,Cyclotella michiganiana Skvortzow,952392,23.33,2.5,5,24.5,Diatom,PHYT,Chrysophyta,Coscinodiscoideae,Cyclotella,michiganiana,Cyc.mic
+17135,Buffalo Pound,0.8,221,P6554,Rhodomonas minuta Skuja,1627003,104.94,10,4.3,64.5,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Rhodomonas,minuta,Rho.min
+17135,Buffalo Pound,0.8,221,P6558,Cryptomonas erosa Ehrenberg,71000,126.29,26,14,1778.8,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Cryptomonas,erosa,Cry.ero
+17135,Buffalo Pound,0.8,221,P6568,Katablepharis ovalis Skuja,833343,37.25,8,4,44.7,Cryptophyte,PHYT,Pyrrhophyta,Katablepharidaceae,Katablepharis,ovalis,Kat.ova
+17135,Buffalo Pound,0.8,221,P7632,Gymnodinium sp.,1000,9.2,26,26,9202.8,Dinoflagellate,PHYT,Pyrrhophyta,Gymnodinaceae,Gymnodinium,sp.,Gym.sp.
+17135,Buffalo Pound,0.8,221,P7639,Peridinium pusillum (Penard) Lemmermann,5000,19.12,19.4,19.4,3823,Dinoflagellate,PHYT,Pyrrhophyta,Peridiniaceae,Peridinium,pusillum,Per.pus
+17135,Buffalo Pound,0.8,221,P7640,Peridinium goslaviense Woloszynska,33000,1105.84,40,40,33510.3,Dinoflagellate,PHYT,Pyrrhophyta,Peridiniaceae,Peridinium,goslaviense,Per.gos
+17138,Buffalo Pound,0.8,226,P1014,Chroococcus limneticus Lemmermann,1190490,82.74,5.1,5.1,69.5,Cyanophyte,PHYT,Cyanophyta,Chroococcaceae,Chroococcus,limneticus,Chr.lim
+17138,Buffalo Pound,0.8,226,P1028,Merismopedia glauca (Ehrenberg) Kutzing,3412738,61.43,0,0,18,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Merismopedia,glauca,Mer.gla
+17138,Buffalo Pound,0.8,226,P1054,Planktolyngbya limnetica,3000,0.56,165,1.2,186.6,Cyanophyte,PHYT,Cyanophyta,Oscillatotiaceae,Planktolyngbya,limnetica,Pla.lim
+17138,Buffalo Pound,0.8,226,P1075,Microcystis aeruginosa (Kutzing) Kutzing,4000,12,0,0,3000,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Microcystis,aeruginosa,Mic.aer
+17138,Buffalo Pound,0.8,226,P1076,Woronichinia compacta (Lemmermann) Komarek and Hindak,93000,46.5,0,0,500,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Woronichinia,compacta,Wor.com
+17138,Buffalo Pound,0.8,226,P1076,Woronichinia compacta (Lemmermann) Komarek and Hindak,1000,2.7,0,0,2700,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Woronichinia,compacta,Wor.com
+17138,Buffalo Pound,0.8,226,P1078,Planktothrix agardhii (Gom.) Anagnostidis and Komarek,247000,1163.49,340,4.2,4710.5,Cyanophyte,PHYT,Cyanophyta,Oscillatotiaceae,Planktothrix,agardhii,Pla.aga
+17138,Buffalo Pound,0.8,226,P2101,Carteria spp.,357147,513.15,14,14,1436.8,Chlorophyte,PHYT,Chlorophyta,Chlamydomonadaceae,Carteria,spp.,Car.spp
+17138,Buffalo Pound,0.8,226,P2105,Chlamydomonas spp.,595245,54.52,7,5,91.6,Chlorophyte,PHYT,Chlorophyta,Chlamydomonadaceae,Chlamydomonas,spp.,Chl.spp
+17138,Buffalo Pound,0.8,226,P2107,Chlorogonium maximum Skuja,39683,8.69,31,3,219.1,Chlorophyte,PHYT,Chlorophyta,Chlamydomonadaceae,Chlorogonium,maximum,Chl.max
+17138,Buffalo Pound,0.8,226,P2113,Pediastrum duplex Meyen,1000,3.6,0,0,3600,Chlorophyte,PHYT,Chlorophyta,Hydrodictyaceae,Pediastrum,duplex,Ped.dup
+17138,Buffalo Pound,0.8,226,P2121,Oocystis lacustris Chodat,2976225,149.7,6,4,50.3,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Oocystis,lacustris,Ooc.lac
+17138,Buffalo Pound,0.8,226,P2130,Scenedesmus quadricauda (Turp.) Brebisson,952392,43.05,8.1,4,45.2,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,quadricauda,Sce.qua
+17138,Buffalo Pound,0.8,226,P2132,Scenedesmus denticulatus Lagerhiem,1507954,66.5,7.9,4,44.1,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,denticulatus,Sce.den
+17138,Buffalo Pound,0.8,226,P2136,Dictyosphaerium pulchellum Wood,2301614,260.31,6,6,113.1,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Dictyosphaerium,pulchellum,Dic.pul
+17138,Buffalo Pound,0.8,226,P2141,Monoraphidium contortum (Thur.) Komarkova-Legnerova,1706369,28.67,19,1.5,16.8,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Monoraphidium,contortum,Mon.con
+17138,Buffalo Pound,0.8,226,P2143,Monoraphidium minutum (Nag.) Komarkova-Legnerova,119049,6.21,8.3,4,52.2,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Monoraphidium,minutum,Mon.min
+17138,Buffalo Pound,0.8,226,P2146,Crucigeniella rectangularis (Nag.) Komarek,158732,3.98,6,4,25.1,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Crucigeniella,rectangularis,Cru.rec
+17138,Buffalo Pound,0.8,226,P2167,Elakatothrix gelatinosa Willen,198415,3.12,10,2,15.7,Chlorophyte,PHYT,Chlorophyta,Coccomyxaceae,Elakatothrix,gelatinosa,Ela.gel
+17138,Buffalo Pound,0.8,226,P2222,Treubaria sp.,39683,0.56,3,3,14.1,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Treubaria,sp.,Tre.sp.
+17138,Buffalo Pound,0.8,226,P2255,Selenastrum copricornutum Printz,6706427,73.1,7.2,1.7,10.9,Chlorophyte,PHYT,Chlorophyta,Selenastraceae,Selenastrum,copricornutum,Sel.cop
+17138,Buffalo Pound,0.8,226,P2506,Nephrocytium lunatum W. West,476196,41.67,11,4.5,87.5,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Nephrocytiun,lunatum,Nep.lun
+17138,Buffalo Pound,0.8,226,P3304,Phacus sp.,1000,9.42,45,20,9424.8,Euglenophyte,PHYT,Euglenophyta,Euglenaceae,Phacus,sp.,Pha.sp.
+17138,Buffalo Pound,0.8,226,P4351,Small chrysophyceae,2301614,18.87,2.5,2.5,8.2,Chrysophyte,PHYT,Chrysophyta,.,Small chrysophyceae,.,Sma..
+17138,Buffalo Pound,0.8,226,P4352,Large chrysophyceae,39683,7.13,7,7,179.6,Chrysophyte,PHYT,Chrysophyta,.,Large chrysophyceae,.,Lar..
+17138,Buffalo Pound,0.8,226,P4355,Chrysochromulina parva Lackey,2777810,181.67,5,5,65.4,Chrysophyte,PHYT,Chrysophyta,Prymnesiaceae,Chrysochromulina,parva,Chr.par
+17138,Buffalo Pound,0.8,226,P4401,Uroglena volvox Ehrenberg,1031758,116.69,6,6,113.1,Chrysophyte,PHYT,Chrysophyta,Ochromonadaceae,Uroglena,volvox,Uro.vol
+17138,Buffalo Pound,0.8,226,P4418,Salpingoeca frequentissima (Zach.) Lemmermann,198415,6.79,6,3.3,34.2,Chrysophyte,PHYT,Chrysophyta,Craspedomonadaceae,Salpingoeca,frequentissima,Sal.fre
+17138,Buffalo Pound,0.8,226,P5515,Fragilaria crotonensis Kitton,301000,89.52,71,4,297.4,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,crotonensis,Fra.cro
+17138,Buffalo Pound,0.8,226,P5550,Fragilaria capucina v. rumpens (Kutzing) Lange-Bertalot,1031758,177.15,41,4,171.7,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,capucina,Fra.cap
+17138,Buffalo Pound,0.8,226,P5551,Cyclotella michiganiana Skvortzow,1349222,33.06,2.5,5,24.5,Diatom,PHYT,Chrysophyta,Coscinodiscoideae,Cyclotella,michiganiana,Cyc.mic
+17138,Buffalo Pound,0.8,226,P6554,Rhodomonas minuta Skuja,1865101,121.05,9.6,4.4,64.9,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Rhodomonas,minuta,Rho.min
+17138,Buffalo Pound,0.8,226,P6558,Cryptomonas erosa Ehrenberg,50000,87.23,25.5,14,1744.6,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Cryptomonas,erosa,Cry.ero
+17138,Buffalo Pound,0.8,226,P6565,Cryptomonas rostratiformis Skuja,3000,7.39,36,14,2463,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Cryptomonas,rostratiformis,Cry.ros
+17138,Buffalo Pound,0.8,226,P6568,Katablepharis ovalis Skuja,198415,8.87,8,4,44.7,Cryptophyte,PHYT,Pyrrhophyta,Katablepharidaceae,Katablepharis,ovalis,Kat.ova
+17138,Buffalo Pound,0.8,226,P7639,Peridinium pusillum (Penard) Lemmermann,6000,23.66,19.6,19.6,3942.5,Dinoflagellate,PHYT,Pyrrhophyta,Peridiniaceae,Peridinium,pusillum,Per.pus
+17138,Buffalo Pound,0.8,226,P7640,Peridinium goslaviense Woloszynska,11000,368.61,40,40,33510.3,Dinoflagellate,PHYT,Pyrrhophyta,Peridiniaceae,Peridinium,goslaviense,Per.gos
+17141,Buffalo Pound,0.8,229,P1012,Aphanothece sp.,39683,5.95,0,0,150,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Aphanothece,sp.,Aph.sp.
+17141,Buffalo Pound,0.8,229,P1014,Chroococcus limneticus Lemmermann,1587320,80.95,4.6,4.6,51,Cyanophyte,PHYT,Cyanophyta,Chroococcaceae,Chroococcus,limneticus,Chr.lim
+17141,Buffalo Pound,0.8,229,P1028,Merismopedia glauca (Ehrenberg) Kutzing,6150865,110.72,0,0,18,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Merismopedia,glauca,Mer.gla
+17141,Buffalo Pound,0.8,229,P1054,Planktolyngbya limnetica,45000,8.15,160,1.2,181,Cyanophyte,PHYT,Cyanophyta,Oscillatotiaceae,Planktolyngbya,limnetica,Pla.lim
+17141,Buffalo Pound,0.8,229,P1075,Microcystis aeruginosa (Kutzing) Kutzing,9000,22.95,0,0,2550,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Microcystis,aeruginosa,Mic.aer
+17141,Buffalo Pound,0.8,229,P1076,Woronichinia compacta (Lemmermann) Komarek and Hindak,362000,181,0,0,500,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Woronichinia,compacta,Wor.com
+17141,Buffalo Pound,0.8,229,P1076,Woronichinia compacta (Lemmermann) Komarek and Hindak,1000,3.1,0,0,3100,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Woronichinia,compacta,Wor.com
+17141,Buffalo Pound,0.8,229,P1078,Planktothrix agardhii (Gom.) Anagnostidis and Komarek,441000,1863.14,320,4.1,4224.8,Cyanophyte,PHYT,Cyanophyta,Oscillatotiaceae,Planktothrix,agardhii,Pla.aga
+17141,Buffalo Pound,0.8,229,P1133,Anabaena flos-aquae (Lyngb.) Breb. & Bornet,10000,44.48,221,6.2,4448.1,Cyanophyte,PHYT,Cyanophyta,Nostocaceae,Anabaena,flos-aquae,Ana.flo
+17141,Buffalo Pound,0.8,229,P2101,Carteria spp.,357147,439.93,13.3,13.3,1231.8,Chlorophyte,PHYT,Chlorophyta,Chlamydomonadaceae,Carteria,spp.,Car.spp
+17141,Buffalo Pound,0.8,229,P2105,Chlamydomonas spp.,515879,77.79,8,6,150.8,Chlorophyte,PHYT,Chlorophyta,Chlamydomonadaceae,Chlamydomonas,spp.,Chl.spp
+17141,Buffalo Pound,0.8,229,P2113,Pediastrum duplex Meyen,3000,5.25,0,0,1750,Chlorophyte,PHYT,Chlorophyta,Hydrodictyaceae,Pediastrum,duplex,Ped.dup
+17141,Buffalo Pound,0.8,229,P2121,Oocystis lacustris Chodat,4761960,239.53,6,4,50.3,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Oocystis,lacustris,Ooc.lac
+17141,Buffalo Pound,0.8,229,P2130,Scenedesmus quadricauda (Turp.) Brebisson,1904784,86.1,8.1,4,45.2,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,quadricauda,Sce.qua
+17141,Buffalo Pound,0.8,229,P2132,Scenedesmus denticulatus Lagerhiem,1150807,50.18,7.8,4,43.6,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,denticulatus,Sce.den
+17141,Buffalo Pound,0.8,229,P2136,Dictyosphaerium pulchellum Wood,4365130,493.7,6,6,113.1,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Dictyosphaerium,pulchellum,Dic.pul
+17141,Buffalo Pound,0.8,229,P2141,Monoraphidium contortum (Thur.) Komarkova-Legnerova,1309539,20.82,18,1.5,15.9,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Monoraphidium,contortum,Mon.con
+17141,Buffalo Pound,0.8,229,P2146,Crucigeniella rectangularis (Nag.) Komarek,1428588,35.86,6,4,25.1,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Crucigeniella,rectangularis,Cru.rec
+17141,Buffalo Pound,0.8,229,P2191,Staurodesmus cuspidatus (Brebisson and Ralfs) Teiling,1000,1.12,20,16,1117,Chlorophyte,PHYT,Chlorophyta,Desmidiaceae,Staurodesmus,cuspidatus,Sta.cus
+17141,Buffalo Pound,0.8,229,P2255,Selenastrum copricornutum Printz,6269914,68.97,7.3,1.7,11,Chlorophyte,PHYT,Chlorophyta,Selenastraceae,Selenastrum,copricornutum,Sel.cop
+17141,Buffalo Pound,0.8,229,P2506,Nephrocytium lunatum W. West,158732,10.97,11,4,69.1,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Nephrocytiun,lunatum,Nep.lun
+17141,Buffalo Pound,0.8,229,P2512,Scenedesmus acuminatus Chodat,158732,15.24,11,5,96,Chlorophyte,PHYT,NA,NA,NA,NA,NA.NA
+17141,Buffalo Pound,0.8,229,P3301,Euglena acus Ehrenberg,1000,12.6,94,16,12599.9,Euglenophyte,PHYT,Euglenophyta,Euglenaceae,Euglena,acus,Eug.acu
+17141,Buffalo Pound,0.8,229,P4351,Small chrysophyceae,1111124,14.22,2.9,2.9,12.8,Chrysophyte,PHYT,Chrysophyta,.,Small chrysophyceae,.,Sma..
+17141,Buffalo Pound,0.8,229,P4355,Chrysochromulina parva Lackey,1865101,121.98,5,5,65.4,Chrysophyte,PHYT,Chrysophyta,Prymnesiaceae,Chrysochromulina,parva,Chr.par
+17141,Buffalo Pound,0.8,229,P4388,Dinobryon sertularia Ehrenberg,39683,8.98,12,6,226.2,Chrysophyte,PHYT,Chrysophyta,Dinobryoaceae,Dinobryon,sertularia,Din.ser
+17141,Buffalo Pound,0.8,229,P4400,Ochromonas sp.,39683,2.66,8,4,67,Chrysophyte,PHYT,Chrysophyta,Ochromonadaceae,Ochromonas,sp.,Och.sp.
+17141,Buffalo Pound,0.8,229,P4401,Uroglena volvox Ehrenberg,833343,94.25,6,6,113.1,Chrysophyte,PHYT,Chrysophyta,Ochromonadaceae,Uroglena,volvox,Uro.vol
+17141,Buffalo Pound,0.8,229,P4418,Salpingoeca frequentissima (Zach.) Lemmermann,555562,19,6,3.3,34.2,Chrysophyte,PHYT,Chrysophyta,Craspedomonadaceae,Salpingoeca,frequentissima,Sal.fre
+17141,Buffalo Pound,0.8,229,P5515,Fragilaria crotonensis Kitton,182000,54.89,72,4,301.6,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,crotonensis,Fra.cro
+17141,Buffalo Pound,0.8,229,P5551,Cyclotella michiganiana Skvortzow,515879,12.64,2.5,5,24.5,Diatom,PHYT,Chrysophyta,Coscinodiscoideae,Cyclotella,michiganiana,Cyc.mic
+17141,Buffalo Pound,0.8,229,P6554,Rhodomonas minuta Skuja,1785735,115.89,9.6,4.4,64.9,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Rhodomonas,minuta,Rho.min
+17141,Buffalo Pound,0.8,229,P6558,Cryptomonas erosa Ehrenberg,30000,51.31,25,14,1710.4,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Cryptomonas,erosa,Cry.ero
+17141,Buffalo Pound,0.8,229,P6568,Katablepharis ovalis Skuja,1627003,72.73,8,4,44.7,Cryptophyte,PHYT,Pyrrhophyta,Katablepharidaceae,Katablepharis,ovalis,Kat.ova
+17141,Buffalo Pound,0.8,229,P7639,Peridinium pusillum (Penard) Lemmermann,1000,4.19,20,20,4188.8,Dinoflagellate,PHYT,Pyrrhophyta,Peridiniaceae,Peridinium,pusillum,Per.pus
+17141,Buffalo Pound,0.8,229,P7640,Peridinium goslaviense Woloszynska,9000,301.59,40,40,33510.3,Dinoflagellate,PHYT,Pyrrhophyta,Peridiniaceae,Peridinium,goslaviense,Per.gos
+17144,Buffalo Pound,0.8,233,P1014,Chroococcus limneticus Lemmermann,714294,49.64,5.1,5.1,69.5,Cyanophyte,PHYT,Cyanophyta,Chroococcaceae,Chroococcus,limneticus,Chr.lim
+17144,Buffalo Pound,0.8,233,P1028,Merismopedia glauca (Ehrenberg) Kutzing,3531787,63.57,0,0,18,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Merismopedia,glauca,Mer.gla
+17144,Buffalo Pound,0.8,233,P1054,Planktolyngbya limnetica,11000,2.05,165,1.2,186.6,Cyanophyte,PHYT,Cyanophyta,Oscillatotiaceae,Planktolyngbya,limnetica,Pla.lim
+17144,Buffalo Pound,0.8,233,P1075,Microcystis aeruginosa (Kutzing) Kutzing,3000,6,0,0,2000,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Microcystis,aeruginosa,Mic.aer
+17144,Buffalo Pound,0.8,233,P1076,Woronichinia compacta (Lemmermann) Komarek and Hindak,158000,79,0,0,500,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Woronichinia,compacta,Wor.com
+17144,Buffalo Pound,0.8,233,P1076,Woronichinia compacta (Lemmermann) Komarek and Hindak,2000,3.5,0,0,1750,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Woronichinia,compacta,Wor.com
+17144,Buffalo Pound,0.8,233,P1078,Planktothrix agardhii (Gom.) Anagnostidis and Komarek,427000,1774.74,300,4.2,4156.3,Cyanophyte,PHYT,Cyanophyta,Oscillatotiaceae,Planktothrix,agardhii,Pla.aga
+17144,Buffalo Pound,0.8,233,P1133,Anabaena flos-aquae (Lyngb.) Breb. & Bornet,24000,102.87,220,6.1,4286.3,Cyanophyte,PHYT,Cyanophyta,Nostocaceae,Anabaena,flos-aquae,Ana.flo
+17144,Buffalo Pound,0.8,233,P2101,Carteria spp.,317464,373.69,13.1,13.1,1177.1,Chlorophyte,PHYT,Chlorophyta,Chlamydomonadaceae,Carteria,spp.,Car.spp
+17144,Buffalo Pound,0.8,233,P2105,Chlamydomonas spp.,79366,11.97,8,6,150.8,Chlorophyte,PHYT,Chlorophyta,Chlamydomonadaceae,Chlamydomonas,spp.,Chl.spp
+17144,Buffalo Pound,0.8,233,P2113,Pediastrum duplex Meyen,2000,6.4,0,0,3200,Chlorophyte,PHYT,Chlorophyta,Hydrodictyaceae,Pediastrum,duplex,Ped.dup
+17144,Buffalo Pound,0.8,233,P2121,Oocystis lacustris Chodat,1031758,51.9,6,4,50.3,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Oocystis,lacustris,Ooc.lac
+17144,Buffalo Pound,0.8,233,P2130,Scenedesmus quadricauda (Turp.) Brebisson,634928,27.3,7.7,4,43,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,quadricauda,Sce.qua
+17144,Buffalo Pound,0.8,233,P2132,Scenedesmus denticulatus Lagerhiem,912709,40.8,8,4,44.7,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,denticulatus,Sce.den
+17144,Buffalo Pound,0.8,233,P2136,Dictyosphaerium pulchellum Wood,2380980,269.29,6,6,113.1,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Dictyosphaerium,pulchellum,Dic.pul
+17144,Buffalo Pound,0.8,233,P2141,Monoraphidium contortum (Thur.) Komarkova-Legnerova,198415,3.51,20,1.5,17.7,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Monoraphidium,contortum,Mon.con
+17144,Buffalo Pound,0.8,233,P2143,Monoraphidium minutum (Nag.) Komarkova-Legnerova,198415,10.1,8.1,4,50.9,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Monoraphidium,minutum,Mon.min
+17144,Buffalo Pound,0.8,233,P2146,Crucigeniella rectangularis (Nag.) Komarek,396830,9.96,6,4,25.1,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Crucigeniella,rectangularis,Cru.rec
+17144,Buffalo Pound,0.8,233,P2193,Staurodesmus paradoxum Meyen,1000,1.69,22,20,1689.5,Chlorophyte,PHYT,Chlorophyta,Desmidiaceae,Staurodesmus,paradoxum,Sta.par
+17144,Buffalo Pound,0.8,233,P2255,Selenastrum copricornutum Printz,2777810,28.89,6.9,1.7,10.4,Chlorophyte,PHYT,Chlorophyta,Selenastraceae,Selenastrum,copricornutum,Sel.cop
+17144,Buffalo Pound,0.8,233,P4351,Small chrysophyceae,952392,7.81,2.5,2.5,8.2,Chrysophyte,PHYT,Chrysophyta,.,Small chrysophyceae,.,Sma..
+17144,Buffalo Pound,0.8,233,P4355,Chrysochromulina parva Lackey,3214323,210.22,5,5,65.4,Chrysophyte,PHYT,Chrysophyta,Prymnesiaceae,Chrysochromulina,parva,Chr.par
+17144,Buffalo Pound,0.8,233,P4367,"Mallomonas duerrschmidtiae Siver, Hamer and Kling",3000,1.74,17.3,8,579.7,Chrysophyte,PHYT,Chrysophyta,Synuraceae,Mallomonas,duerrschmidtiae,Mal.due
+17144,Buffalo Pound,0.8,233,P4401,Uroglena volvox Ehrenberg,1031758,116.69,6,6,113.1,Chrysophyte,PHYT,Chrysophyta,Ochromonadaceae,Uroglena,volvox,Uro.vol
+17144,Buffalo Pound,0.8,233,P4418,Salpingoeca frequentissima (Zach.) Lemmermann,119049,4.07,6,3.3,34.2,Chrysophyte,PHYT,Chrysophyta,Craspedomonadaceae,Salpingoeca,frequentissima,Sal.fre
+17144,Buffalo Pound,0.8,233,P5515,Fragilaria crotonensis Kitton,108000,33.48,74,4,310,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,crotonensis,Fra.cro
+17144,Buffalo Pound,0.8,233,P5550,Fragilaria capucina v. rumpens (Kutzing) Lange-Bertalot,119049,18.95,38,4,159.2,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,capucina,Fra.cap
+17144,Buffalo Pound,0.8,233,P5551,Cyclotella michiganiana Skvortzow,833343,20.42,2.5,5,24.5,Diatom,PHYT,Chrysophyta,Coscinodiscoideae,Cyclotella,michiganiana,Cyc.mic
+17144,Buffalo Pound,0.8,233,P6554,Rhodomonas minuta Skuja,3412738,197.6,9.4,4.2,57.9,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Rhodomonas,minuta,Rho.min
+17144,Buffalo Pound,0.8,233,P6558,Cryptomonas erosa Ehrenberg,68000,119.1,25.6,14,1751.5,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Cryptomonas,erosa,Cry.ero
+17144,Buffalo Pound,0.8,233,P6568,Katablepharis ovalis Skuja,515879,23.63,8.1,4,45.8,Cryptophyte,PHYT,Pyrrhophyta,Katablepharidaceae,Katablepharis,ovalis,Kat.ova
+17144,Buffalo Pound,0.8,233,P7632,Gymnodinium sp.,1000,7.24,24,24,7238.2,Dinoflagellate,PHYT,Pyrrhophyta,Gymnodinaceae,Gymnodinium,sp.,Gym.sp.
+17144,Buffalo Pound,0.8,233,P7639,Peridinium pusillum (Penard) Lemmermann,1000,4.19,20,20,4188.8,Dinoflagellate,PHYT,Pyrrhophyta,Peridiniaceae,Peridinium,pusillum,Per.pus
+17144,Buffalo Pound,0.8,233,P7640,Peridinium goslaviense Woloszynska,8000,268.08,40,40,33510.3,Dinoflagellate,PHYT,Pyrrhophyta,Peridiniaceae,Peridinium,goslaviense,Per.gos
+17147,Buffalo Pound,0.8,235,P1012,Aphanothece sp.,277781,41.67,0,0,150,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Aphanothece,sp.,Aph.sp.
+17147,Buffalo Pound,0.8,235,P1028,Merismopedia glauca (Ehrenberg) Kutzing,1984150,35.71,0,0,18,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Merismopedia,glauca,Mer.gla
+17147,Buffalo Pound,0.8,235,P1054,Planktolyngbya limnetica,18000,3.14,154,1.2,174.2,Cyanophyte,PHYT,Cyanophyta,Oscillatotiaceae,Planktolyngbya,limnetica,Pla.lim
+17147,Buffalo Pound,0.8,235,P1075,Microcystis aeruginosa (Kutzing) Kutzing,6000,16.5,0,0,2750,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Microcystis,aeruginosa,Mic.aer
+17147,Buffalo Pound,0.8,235,P1076,Woronichinia compacta (Lemmermann) Komarek and Hindak,125000,62.5,0,0,500,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Woronichinia,compacta,Wor.com
+17147,Buffalo Pound,0.8,235,P1078,Planktothrix agardhii (Gom.) Anagnostidis and Komarek,472000,1961.77,300,4.2,4156.3,Cyanophyte,PHYT,Cyanophyta,Oscillatotiaceae,Planktothrix,agardhii,Pla.aga
+17147,Buffalo Pound,0.8,235,P1133,Anabaena flos-aquae (Lyngb.) Breb. & Bornet,3000,13.79,236,6.1,4598,Cyanophyte,PHYT,Cyanophyta,Nostocaceae,Anabaena,flos-aquae,Ana.flo
+17147,Buffalo Pound,0.8,235,P2101,Carteria spp.,396830,773.74,15.5,15.5,1949.8,Chlorophyte,PHYT,Chlorophyta,Chlamydomonadaceae,Carteria,spp.,Car.spp
+17147,Buffalo Pound,0.8,235,P2105,Chlamydomonas spp.,39683,5.46,7.3,6,137.6,Chlorophyte,PHYT,Chlorophyta,Chlamydomonadaceae,Chlamydomonas,spp.,Chl.spp
+17147,Buffalo Pound,0.8,235,P2121,Oocystis lacustris Chodat,436513,21.96,6,4,50.3,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Oocystis,lacustris,Ooc.lac
+17147,Buffalo Pound,0.8,235,P2130,Scenedesmus quadricauda (Turp.) Brebisson,1428588,64.57,8.1,4,45.2,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,quadricauda,Sce.qua
+17147,Buffalo Pound,0.8,235,P2132,Scenedesmus denticulatus Lagerhiem,634928,30.48,8.6,4,48,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,denticulatus,Sce.den
+17147,Buffalo Pound,0.8,235,P2136,Dictyosphaerium pulchellum Wood,3214323,363.54,6,6,113.1,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Dictyosphaerium,pulchellum,Dic.pul
+17147,Buffalo Pound,0.8,235,P2141,Monoraphidium contortum (Thur.) Komarkova-Legnerova,515879,9.13,20,1.5,17.7,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Monoraphidium,contortum,Mon.con
+17147,Buffalo Pound,0.8,235,P2146,Crucigeniella rectangularis (Nag.) Komarek,396830,9.96,6,4,25.1,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Crucigeniella,rectangularis,Cru.rec
+17147,Buffalo Pound,0.8,235,P2174,Closterium sp.,1000,0.47,75,4,471.2,Chlorophyte,PHYT,Chlorophyta,Closteriaceae,Closterium,sp.,Clo.sp.
+17147,Buffalo Pound,0.8,235,P2235,Ankistrodesmus spiralis Lemmermann,277781,12.22,28,2,44,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Ankistrodesmus,spiralis,Ank.spi
+17147,Buffalo Pound,0.8,235,P2255,Selenastrum copricornutum Printz,2341297,24.82,7,1.7,10.6,Chlorophyte,PHYT,Chlorophyta,Selenastraceae,Selenastrum,copricornutum,Sel.cop
+17147,Buffalo Pound,0.8,235,P3304,Phacus sp.,1000,10.16,44,21,10159.9,Euglenophyte,PHYT,Euglenophyta,Euglenaceae,Phacus,sp.,Pha.sp.
+17147,Buffalo Pound,0.8,235,P4351,Small chrysophyceae,1428588,14.71,2.7,2.7,10.3,Chrysophyte,PHYT,Chrysophyta,.,Small chrysophyceae,.,Sma..
+17147,Buffalo Pound,0.8,235,P4355,Chrysochromulina parva Lackey,1428588,93.43,5,5,65.4,Chrysophyte,PHYT,Chrysophyta,Prymnesiaceae,Chrysochromulina,parva,Chr.par
+17147,Buffalo Pound,0.8,235,P4358,Chrysostephanosphaera globulifera Scherffel,39683,13.21,8.6,8.6,333,Chrysophyte,PHYT,Chrysophyta,Rhizochrysidaceae,Chrysostephanospaera,globulifera,Chr.glo
+17147,Buffalo Pound,0.8,235,P4400,Ochromonas sp.,39683,2.56,7.7,4,64.5,Chrysophyte,PHYT,Chrysophyta,Ochromonadaceae,Ochromonas,sp.,Och.sp.
+17147,Buffalo Pound,0.8,235,P4401,Uroglena volvox Ehrenberg,833343,94.25,6,6,113.1,Chrysophyte,PHYT,Chrysophyta,Ochromonadaceae,Uroglena,volvox,Uro.vol
+17147,Buffalo Pound,0.8,235,P5515,Fragilaria crotonensis Kitton,133000,40.11,72,4,301.6,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,crotonensis,Fra.cro
+17147,Buffalo Pound,0.8,235,P5550,Fragilaria capucina v. rumpens (Kutzing) Lange-Bertalot,396830,64.84,39,4,163.4,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,capucina,Fra.cap
+17147,Buffalo Pound,0.8,235,P5551,Cyclotella michiganiana Skvortzow,1111124,27.22,2.5,5,24.5,Diatom,PHYT,Chrysophyta,Coscinodiscoideae,Cyclotella,michiganiana,Cyc.mic
+17147,Buffalo Pound,0.8,235,P6554,Rhodomonas minuta Skuja,476196,28.14,9.6,4.2,59.1,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Rhodomonas,minuta,Rho.min
+17147,Buffalo Pound,0.8,235,P6558,Cryptomonas erosa Ehrenberg,9000,14.53,23.6,14,1614.6,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Cryptomonas,erosa,Cry.ero
+17147,Buffalo Pound,0.8,235,P6568,Katablepharis ovalis Skuja,198415,9.09,8.1,4,45.8,Cryptophyte,PHYT,Pyrrhophyta,Katablepharidaceae,Katablepharis,ovalis,Kat.ova
+17147,Buffalo Pound,0.8,235,P7639,Peridinium pusillum (Penard) Lemmermann,2000,8.25,19.9,19.9,4126.3,Dinoflagellate,PHYT,Pyrrhophyta,Peridiniaceae,Peridinium,pusillum,Per.pus
+17147,Buffalo Pound,0.8,235,P7640,Peridinium goslaviense Woloszynska,17000,569.68,40,40,33510.3,Dinoflagellate,PHYT,Pyrrhophyta,Peridiniaceae,Peridinium,goslaviense,Per.gos
+17150,Buffalo Pound,0.8,240,P1028,Merismopedia glauca (Ehrenberg) Kutzing,6666744,120,0,0,18,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Merismopedia,glauca,Mer.gla
+17150,Buffalo Pound,0.8,240,P1054,Planktolyngbya limnetica,13000,2.28,155,1.2,175.3,Cyanophyte,PHYT,Cyanophyta,Oscillatotiaceae,Planktolyngbya,limnetica,Pla.lim
+17150,Buffalo Pound,0.8,240,P1075,Microcystis aeruginosa (Kutzing) Kutzing,2000,5.2,0,0,2600,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Microcystis,aeruginosa,Mic.aer
+17150,Buffalo Pound,0.8,240,P1076,Woronichinia compacta (Lemmermann) Komarek and Hindak,219000,109.5,0,0,500,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Woronichinia,compacta,Wor.com
+17150,Buffalo Pound,0.8,240,P1076,Woronichinia compacta (Lemmermann) Komarek and Hindak,1000,1.75,0,0,1750,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Woronichinia,compacta,Wor.com
+17150,Buffalo Pound,0.8,240,P1078,Planktothrix agardhii (Gom.) Anagnostidis and Komarek,1070000,5040.24,340,4.2,4710.5,Cyanophyte,PHYT,Cyanophyta,Oscillatotiaceae,Planktothrix,agardhii,Pla.aga
+17150,Buffalo Pound,0.8,240,P2101,Carteria spp.,238098,364.55,14.3,14.3,1531.1,Chlorophyte,PHYT,Chlorophyta,Chlamydomonadaceae,Carteria,spp.,Car.spp
+17150,Buffalo Pound,0.8,240,P2105,Chlamydomonas spp.,39683,2,6,4,50.3,Chlorophyte,PHYT,Chlorophyta,Chlamydomonadaceae,Chlamydomonas,spp.,Chl.spp
+17150,Buffalo Pound,0.8,240,P2121,Oocystis lacustris Chodat,1547637,77.85,6,4,50.3,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Oocystis,lacustris,Ooc.lac
+17150,Buffalo Pound,0.8,240,P2127,Tetraedron minimum (Brunow) Hansgrig,79366,13.85,10,10,174.5,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Tetraedron,minimum,Tet.min
+17150,Buffalo Pound,0.8,240,P2130,Scenedesmus quadricauda (Turp.) Brebisson,793660,35,7.9,4,44.1,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,quadricauda,Sce.qua
+17150,Buffalo Pound,0.8,240,P2132,Scenedesmus denticulatus Lagerhiem,634928,28,7.9,4,44.1,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,denticulatus,Sce.den
+17150,Buffalo Pound,0.8,240,P2136,Dictyosphaerium pulchellum Wood,2380980,269.29,6,6,113.1,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Dictyosphaerium,pulchellum,Dic.pul
+17150,Buffalo Pound,0.8,240,P2141,Monoraphidium contortum (Thur.) Komarkova-Legnerova,238098,4.21,20,1.5,17.7,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Monoraphidium,contortum,Mon.con
+17150,Buffalo Pound,0.8,240,P2146,Crucigeniella rectangularis (Nag.) Komarek,158732,3.98,6,4,25.1,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Crucigeniella,rectangularis,Cru.rec
+17150,Buffalo Pound,0.8,240,P2235,Ankistrodesmus spiralis Lemmermann,238098,10.48,28,2,44,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Ankistrodesmus,spiralis,Ank.spi
+17150,Buffalo Pound,0.8,240,P2255,Selenastrum copricornutum Printz,4246081,46.71,7.3,1.7,11,Chlorophyte,PHYT,Chlorophyta,Selenastraceae,Selenastrum,copricornutum,Sel.cop
+17150,Buffalo Pound,0.8,240,P4351,Small chrysophyceae,1428588,11.71,2.5,2.5,8.2,Chrysophyte,PHYT,Chrysophyta,.,Small chrysophyceae,.,Sma..
+17150,Buffalo Pound,0.8,240,P4355,Chrysochromulina parva Lackey,1587320,103.81,5,5,65.4,Chrysophyte,PHYT,Chrysophyta,Prymnesiaceae,Chrysochromulina,parva,Chr.par
+17150,Buffalo Pound,0.8,240,P4400,Ochromonas sp.,79366,5.06,7.6,4,63.7,Chrysophyte,PHYT,Chrysophyta,Ochromonadaceae,Ochromonas,sp.,Och.sp.
+17150,Buffalo Pound,0.8,240,P4401,Uroglena volvox Ehrenberg,515879,58.35,6,6,113.1,Chrysophyte,PHYT,Chrysophyta,Ochromonadaceae,Uroglena,volvox,Uro.vol
+17150,Buffalo Pound,0.8,240,P4418,Salpingoeca frequentissima (Zach.) Lemmermann,198415,5.99,6,3.1,30.2,Chrysophyte,PHYT,Chrysophyta,Craspedomonadaceae,Salpingoeca,frequentissima,Sal.fre
+17150,Buffalo Pound,0.8,240,P5515,Fragilaria crotonensis Kitton,160000,48.93,73,4,305.8,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,crotonensis,Fra.cro
+17150,Buffalo Pound,0.8,240,P5550,Fragilaria capucina v. rumpens (Kutzing) Lange-Bertalot,119049,18.95,38,4,159.2,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,capucina,Fra.cap
+17150,Buffalo Pound,0.8,240,P5551,Cyclotella michiganiana Skvortzow,1111124,27.22,2.5,5,24.5,Diatom,PHYT,Chrysophyta,Coscinodiscoideae,Cyclotella,michiganiana,Cyc.mic
+17150,Buffalo Pound,0.8,240,P6554,Rhodomonas minuta Skuja,833343,56.58,9.6,4.5,67.9,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Rhodomonas,minuta,Rho.min
+17150,Buffalo Pound,0.8,240,P6558,Cryptomonas erosa Ehrenberg,20000,33.66,24.6,14,1683.1,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Cryptomonas,erosa,Cry.ero
+17150,Buffalo Pound,0.8,240,P6565,Cryptomonas rostratiformis Skuja,1000,2.12,31,14,2120.9,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Cryptomonas,rostratiformis,Cry.ros
+17150,Buffalo Pound,0.8,240,P6568,Katablepharis ovalis Skuja,714294,31.93,8,4,44.7,Cryptophyte,PHYT,Pyrrhophyta,Katablepharidaceae,Katablepharis,ovalis,Kat.ova
+17150,Buffalo Pound,0.8,240,P7639,Peridinium pusillum (Penard) Lemmermann,1000,3.59,19,19,3591.4,Dinoflagellate,PHYT,Pyrrhophyta,Peridiniaceae,Peridinium,pusillum,Per.pus
+17150,Buffalo Pound,0.8,240,P7640,Peridinium goslaviense Woloszynska,3000,100.53,40,40,33510.3,Dinoflagellate,PHYT,Pyrrhophyta,Peridiniaceae,Peridinium,goslaviense,Per.gos
+17156,Buffalo Pound,0.8,248,P1014,Chroococcus limneticus Lemmermann,476196,21.24,4.4,4.4,44.6,Cyanophyte,PHYT,Cyanophyta,Chroococcaceae,Chroococcus,limneticus,Chr.lim
+17156,Buffalo Pound,0.8,248,P1028,Merismopedia glauca (Ehrenberg) Kutzing,4563545,82.14,0,0,18,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Merismopedia,glauca,Mer.gla
+17156,Buffalo Pound,0.8,248,P1054,Planktolyngbya limnetica,2000,0.33,145,1.2,164,Cyanophyte,PHYT,Cyanophyta,Oscillatotiaceae,Planktolyngbya,limnetica,Pla.lim
+17156,Buffalo Pound,0.8,248,P1076,Woronichinia compacta (Lemmermann) Komarek and Hindak,297000,148.5,0,0,500,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Woronichinia,compacta,Wor.com
+17156,Buffalo Pound,0.8,248,P1078,Planktothrix agardhii (Gom.) Anagnostidis and Komarek,1771000,10427.83,425,4.2,5888.1,Cyanophyte,PHYT,Cyanophyta,Oscillatotiaceae,Planktothrix,agardhii,Pla.aga
+17156,Buffalo Pound,0.8,248,P1133,Anabaena flos-aquae (Lyngb.) Breb. & Bornet,10000,64.42,310,6.3,6442.3,Cyanophyte,PHYT,Cyanophyta,Nostocaceae,Anabaena,flos-aquae,Ana.flo
+17156,Buffalo Pound,0.8,248,P2101,Carteria spp.,317464,373.69,13.1,13.1,1177.1,Chlorophyte,PHYT,Chlorophyta,Chlamydomonadaceae,Carteria,spp.,Car.spp
+17156,Buffalo Pound,0.8,248,P2105,Chlamydomonas spp.,1111124,167.56,8,6,150.8,Chlorophyte,PHYT,Chlorophyta,Chlamydomonadaceae,Chlamydomonas,spp.,Chl.spp
+17156,Buffalo Pound,0.8,248,P2113,Pediastrum duplex Meyen,3000,4.58,0,0,1525,Chlorophyte,PHYT,Chlorophyta,Hydrodictyaceae,Pediastrum,duplex,Ped.dup
+17156,Buffalo Pound,0.8,248,P2121,Oocystis lacustris Chodat,2460346,123.76,6,4,50.3,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Oocystis,lacustris,Ooc.lac
+17156,Buffalo Pound,0.8,248,P2130,Scenedesmus quadricauda (Turp.) Brebisson,277781,11.64,7.5,4,41.9,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,quadricauda,Sce.qua
+17156,Buffalo Pound,0.8,248,P2132,Scenedesmus denticulatus Lagerhiem,753977,33.7,8,4,44.7,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,denticulatus,Sce.den
+17156,Buffalo Pound,0.8,248,P2136,Dictyosphaerium pulchellum Wood,5238156,592.44,6,6,113.1,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Dictyosphaerium,pulchellum,Dic.pul
+17156,Buffalo Pound,0.8,248,P2141,Monoraphidium contortum (Thur.) Komarkova-Legnerova,317464,5.33,19,1.5,16.8,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Monoraphidium,contortum,Mon.con
+17156,Buffalo Pound,0.8,248,P2146,Crucigeniella rectangularis (Nag.) Komarek,317464,7.97,6,4,25.1,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Crucigeniella,rectangularis,Cru.rec
+17156,Buffalo Pound,0.8,248,P2154,Coelastrum microporum Naegeli,1000,2.68,0,0,2680,Chlorophyte,PHYT,Chlorophyta,Coelastraceae,Coelastrum,microporum,Coe.mic
+17156,Buffalo Pound,0.8,248,P2171,Closterium kuetzingii Brebisson,1000,1.6,113,6,1597.5,Chlorophyte,PHYT,Chlorophyta,Closteriaceae,Closterium,kuetzingii,Clo.kue
+17156,Buffalo Pound,0.8,248,P2174,Closterium sp.,3000,1.43,76,4,477.5,Chlorophyte,PHYT,Chlorophyta,Closteriaceae,Closterium,sp.,Clo.sp.
+17156,Buffalo Pound,0.8,248,P2206,Botryococcus braunii Kutzing,2000,2.3,13,13,1150.3,Chlorophyte,PHYT,Chlorophyta,Botryococcaceae,Botryococcus,braunii,Bot.bra
+17156,Buffalo Pound,0.8,248,P2235,Ankistrodesmus spiralis Lemmermann,238098,11.21,30,2,47.1,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Ankistrodesmus,spiralis,Ank.spi
+17156,Buffalo Pound,0.8,248,P2255,Selenastrum copricornutum Printz,1428588,15.14,7,1.7,10.6,Chlorophyte,PHYT,Chlorophyta,Selenastraceae,Selenastrum,copricornutum,Sel.cop
+17156,Buffalo Pound,0.8,248,P2256,Actinastrum sp. Lagerheim,39683,0.94,5,3,23.6,Chlorophyte,PHYT,NA,NA,NA,NA,NA.NA
+17156,Buffalo Pound,0.8,248,P4351,Small chrysophyceae,2539712,26.16,2.7,2.7,10.3,Chrysophyte,PHYT,Chrysophyta,.,Small chrysophyceae,.,Sma..
+17156,Buffalo Pound,0.8,248,P4355,Chrysochromulina parva Lackey,992075,64.88,5,5,65.4,Chrysophyte,PHYT,Chrysophyta,Prymnesiaceae,Chrysochromulina,parva,Chr.par
+17156,Buffalo Pound,0.8,248,P4358,Chrysostephanosphaera globulifera Scherffel,39683,14.16,8.8,8.8,356.8,Chrysophyte,PHYT,Chrysophyta,Rhizochrysidaceae,Chrysostephanospaera,globulifera,Chr.glo
+17156,Buffalo Pound,0.8,248,P4401,Uroglena volvox Ehrenberg,1309539,148.11,6,6,113.1,Chrysophyte,PHYT,Chrysophyta,Ochromonadaceae,Uroglena,volvox,Uro.vol
+17156,Buffalo Pound,0.8,248,P5515,Fragilaria crotonensis Kitton,66000,20.74,75,4,314.2,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,crotonensis,Fra.cro
+17156,Buffalo Pound,0.8,248,P5551,Cyclotella michiganiana Skvortzow,595245,14.58,2.5,5,24.5,Diatom,PHYT,Chrysophyta,Coscinodiscoideae,Cyclotella,michiganiana,Cyc.mic
+17156,Buffalo Pound,0.8,248,P6554,Rhodomonas minuta Skuja,793660,51.51,9.6,4.4,64.9,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Rhodomonas,minuta,Rho.min
+17156,Buffalo Pound,0.8,248,P6558,Cryptomonas erosa Ehrenberg,3000,5.34,26,14,1778.8,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Cryptomonas,erosa,Cry.ero
+17156,Buffalo Pound,0.8,248,P6568,Katablepharis ovalis Skuja,39683,1.73,7.9,4,43.6,Cryptophyte,PHYT,Pyrrhophyta,Katablepharidaceae,Katablepharis,ovalis,Kat.ova
+17156,Buffalo Pound,0.8,248,P7639,Peridinium pusillum (Penard) Lemmermann,1000,3.65,19.1,19.1,3648.4,Dinoflagellate,PHYT,Pyrrhophyta,Peridiniaceae,Peridinium,pusillum,Per.pus
+17156,Buffalo Pound,0.8,248,P7640,Peridinium goslaviense Woloszynska,7000,234.57,40,40,33510.3,Dinoflagellate,PHYT,Pyrrhophyta,Peridiniaceae,Peridinium,goslaviense,Per.gos
+17165,Buffalo Pound,0.8,260,P1028,Merismopedia glauca (Ehrenberg) Kutzing,4642911,83.57,0,0,18,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Merismopedia,glauca,Mer.gla
+17165,Buffalo Pound,0.8,260,P1054,Planktolyngbya limnetica,38000,5.84,136,1.2,153.8,Cyanophyte,PHYT,Cyanophyta,Oscillatotiaceae,Planktolyngbya,limnetica,Pla.lim
+17165,Buffalo Pound,0.8,260,P1076,Woronichinia compacta (Lemmermann) Komarek and Hindak,431000,215.5,0,0,500,Cyanophyte,PHYT,Cyanophyta,Microcystaceae,Woronichinia,compacta,Wor.com
+17165,Buffalo Pound,0.8,260,P1078,Planktothrix agardhii (Gom.) Anagnostidis and Komarek,810000,4039.96,360,4.2,4987.6,Cyanophyte,PHYT,Cyanophyta,Oscillatotiaceae,Planktothrix,agardhii,Pla.aga
+17165,Buffalo Pound,0.8,260,P1133,Anabaena flos-aquae (Lyngb.) Breb. & Bornet,1000,4.16,200,6.3,4156.3,Cyanophyte,PHYT,Cyanophyta,Nostocaceae,Anabaena,flos-aquae,Ana.flo
+17165,Buffalo Pound,0.8,260,P2101,Carteria spp.,476196,760.15,14.5,14.5,1596.3,Chlorophyte,PHYT,Chlorophyta,Chlamydomonadaceae,Carteria,spp.,Car.spp
+17165,Buffalo Pound,0.8,260,P2105,Chlamydomonas spp.,39683,5.98,8,6,150.8,Chlorophyte,PHYT,Chlorophyta,Chlamydomonadaceae,Chlamydomonas,spp.,Chl.spp
+17165,Buffalo Pound,0.8,260,P2113,Pediastrum duplex Meyen,2000,3.93,0,0,1965,Chlorophyte,PHYT,Chlorophyta,Hydrodictyaceae,Pediastrum,duplex,Ped.dup
+17165,Buffalo Pound,0.8,260,P2121,Oocystis lacustris Chodat,3412738,171.66,6,4,50.3,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Oocystis,lacustris,Ooc.lac
+17165,Buffalo Pound,0.8,260,P2127,Tetraedron minimum (Brunow) Hansgrig,39683,6.92,10,10,174.5,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Tetraedron,minimum,Tet.min
+17165,Buffalo Pound,0.8,260,P2130,Scenedesmus quadricauda (Turp.) Brebisson,1111124,52.11,8.4,4,46.9,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,quadricauda,Sce.qua
+17165,Buffalo Pound,0.8,260,P2132,Scenedesmus denticulatus Lagerhiem,833343,40,8.6,4,48,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Scenedesmus,denticulatus,Sce.den
+17165,Buffalo Pound,0.8,260,P2136,Dictyosphaerium pulchellum Wood,1944467,219.92,6,6,113.1,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Dictyosphaerium,pulchellum,Dic.pul
+17165,Buffalo Pound,0.8,260,P2141,Monoraphidium contortum (Thur.) Komarkova-Legnerova,1190490,22.14,21,1.5,18.6,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Monoraphidium,contortum,Mon.con
+17165,Buffalo Pound,0.8,260,P2146,Crucigeniella rectangularis (Nag.) Komarek,1031758,25.9,6,4,25.1,Chlorophyte,PHYT,Chlorophyta,Scenedesmaceae,Crucigeniella,rectangularis,Cru.rec
+17165,Buffalo Pound,0.8,260,P2167,Elakatothrix gelatinosa Willen,39683,0.69,11,2,17.3,Chlorophyte,PHYT,Chlorophyta,Coccomyxaceae,Elakatothrix,gelatinosa,Ela.gel
+17165,Buffalo Pound,0.8,260,P2171,Closterium kuetzingii Brebisson,1000,1.43,101,6,1427.9,Chlorophyte,PHYT,Chlorophyta,Closteriaceae,Closterium,kuetzingii,Clo.kue
+17165,Buffalo Pound,0.8,260,P2235,Ankistrodesmus spiralis Lemmermann,436513,20.56,30,2,47.1,Chlorophyte,PHYT,Chlorophyta,Oocystaceae,Ankistrodesmus,spiralis,Ank.spi
+17165,Buffalo Pound,0.8,260,P2255,Selenastrum copricornutum Printz,2896859,30.71,7,1.7,10.6,Chlorophyte,PHYT,Chlorophyta,Selenastraceae,Selenastrum,copricornutum,Sel.cop
+17165,Buffalo Pound,0.8,260,P2256,Actinastrum sp. Lagerheim,39683,0.97,5.2,3,24.5,Chlorophyte,PHYT,NA,NA,NA,NA,NA.NA
+17165,Buffalo Pound,0.8,260,P3301,Euglena acus Ehrenberg,2000,10.58,101,10,5288.3,Euglenophyte,PHYT,Euglenophyta,Euglenaceae,Euglena,acus,Eug.acu
+17165,Buffalo Pound,0.8,260,P4351,Small chrysophyceae,2142882,19.71,2.6,2.6,9.2,Chrysophyte,PHYT,Chrysophyta,.,Small chrysophyceae,.,Sma..
+17165,Buffalo Pound,0.8,260,P4355,Chrysochromulina parva Lackey,2857176,186.86,5,5,65.4,Chrysophyte,PHYT,Chrysophyta,Prymnesiaceae,Chrysochromulina,parva,Chr.par
+17165,Buffalo Pound,0.8,260,P4388,Dinobryon sertularia Ehrenberg,436513,98.74,12,6,226.2,Chrysophyte,PHYT,Chrysophyta,Dinobryoaceae,Dinobryon,sertularia,Din.ser
+17165,Buffalo Pound,0.8,260,P4401,Uroglena volvox Ehrenberg,833343,94.25,6,6,113.1,Chrysophyte,PHYT,Chrysophyta,Ochromonadaceae,Uroglena,volvox,Uro.vol
+17165,Buffalo Pound,0.8,260,P4418,Salpingoeca frequentissima (Zach.) Lemmermann,198415,6.79,6,3.3,34.2,Chrysophyte,PHYT,Chrysophyta,Craspedomonadaceae,Salpingoeca,frequentissima,Sal.fre
+17165,Buffalo Pound,0.8,260,P5515,Fragilaria crotonensis Kitton,91000,26.68,70,4,293.2,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,crotonensis,Fra.cro
+17165,Buffalo Pound,0.8,260,P5550,Fragilaria capucina v. rumpens (Kutzing) Lange-Bertalot,119049,19.95,40,4,167.6,Diatom,PHYT,Chrysophyta,Fragilarioideae,Fragilaria,capucina,Fra.cap
+17165,Buffalo Pound,0.8,260,P5551,Cyclotella michiganiana Skvortzow,555562,13.61,2.5,5,24.5,Diatom,PHYT,Chrysophyta,Coscinodiscoideae,Cyclotella,michiganiana,Cyc.mic
+17165,Buffalo Pound,0.8,260,P6554,Rhodomonas minuta Skuja,2539712,157.46,9.6,4.3,62,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Rhodomonas,minuta,Rho.min
+17165,Buffalo Pound,0.8,260,P6558,Cryptomonas erosa Ehrenberg,7000,11.64,24.3,14,1662.5,Cryptophyte,PHYT,Pyrrhophyta,Cryptomonadaceae,Cryptomonas,erosa,Cry.ero
+17165,Buffalo Pound,0.8,260,P6568,Katablepharis ovalis Skuja,277781,12.42,8,4,44.7,Cryptophyte,PHYT,Pyrrhophyta,Katablepharidaceae,Katablepharis,ovalis,Kat.ova
+17165,Buffalo Pound,0.8,260,P7632,Gymnodinium sp.,1000,9.2,26,26,9202.8,Dinoflagellate,PHYT,Pyrrhophyta,Gymnodinaceae,Gymnodinium,sp.,Gym.sp.
+17165,Buffalo Pound,0.8,260,P7640,Peridinium goslaviense Woloszynska,5000,167.55,40,40,33510.3,Dinoflagellate,PHYT,Pyrrhophyta,Peridiniaceae,Peridinium,goslaviense,Per.gos
