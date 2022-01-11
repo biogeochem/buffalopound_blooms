@@ -1,4 +1,4 @@
-# Project Title
+# Early and late cyanobacterial bloomers in a shallow, eutrophic lake
 
 ## Abstract
 
