@@ -1,5 +1,6 @@
-#Fig 5 - toxin figure
+#Figure 5 - NMDS of cyanos w/ toxin vectors
 
+## libraries
 library(tidyverse)
 library(lubridate)
 library(here)
@@ -7,107 +8,283 @@ library(vegan)
 library(ggrepel)
 library(patchwork)
 
-##Toxins 2019 #### 
-## < LODs replaced with 0's
+## 2018 ####
+phytos_2018 <- read_csv(here("data/processed_data/", "BP_PhytoTax_2018_KP.csv"))
 
-toxs_zeros <- read_csv(here("data/processed_data/", "Toxs2019_zerosLODs.csv"))
+cyanos_18 <- phytos_2018 %>% filter(Group == "Cyanophyte")
 
-toxs_zeros <-toxs_zeros %>% filter(Depth_m == 0.8) %>%
-               mutate(DOY = yday(Date))
+cyano_matrix_18 <- cyanos_18 %>%
+  select(DOY,
+         name_code,
+         Cell_Density_L,
+         Biomass_mg_m3) %>%
+  group_by(DOY, name_code) %>%
+  dplyr::summarize_at(vars(Cell_Density_L, Biomass_mg_m3), list(total = sum)) %>%
+  droplevels()
 
-toxs_zeros_2 <-toxs_zeros %>% select(DOY, everything(), -Date, -Depth_m, -MC_total) %>% 
-              arrange(DOY)
+cyano_matrix_18_biomass <- cyano_matrix_18 %>%
+  select(DOY, name_code, Biomass_mg_m3_total) %>%
+  pivot_wider(names_from = name_code, values_from =  Biomass_mg_m3_total, values_fill = 0)
 
-toxs_long <- toxs_zeros_2 %>% pivot_longer(cols = c(3:14), 
-                                         names_to = "Cyanotoxin", 
-                                         values_to = "Conc")
+##drop DOY 172 b/c no toxin sample that day
+cyano_matrix_18_biomass <-cyano_matrix_18_biomass[-c(5),] 
 
-tox_names <-as_labeller(c('ANA_a'= "ANA-a", 'AP_A' = "AP-A", 'AP_B'= "AP-B",
-                          'dmMC_LR'= "dmMC-LR", 'MC_HiIR' = "MC-HiIR", 'MC_LA' = "MC-LA",
-                          'MC_LF' = "MC-LF", 'MC_LR'= "MC-LR", 'MC_LW'= "MC-LW",
-                          'MC_LY' = "MC-LY", 'MC_RR' = "MC-RR", 'MC_YR' = "MC-YR"))
+##rename the Anabaena spp. to Dolichospermum 
+cyano_matrix_18_biomass <- cyano_matrix_18_biomass %>% rename(Dol.flo = Ana.flo,
+                                                              Dol.cra = Ana.cra,
+                                                              Dol.sol = Ana.sol)
 
-all_tox <- ggplot(toxs_long, aes(DOY, Conc, colour = Sample_Type)) +
-  geom_line(size = 1) + geom_point(position = "jitter", alpha = 0.8) + 
-  scale_colour_manual(values = c("black", "#878787")) + 
-  facet_wrap(~Cyanotoxin, scales = "free_y", labeller = tox_names) +
-  xlab("Day of Year 2019") + ylab("Concentration ng/L") + 
-  scale_x_continuous(breaks = c(150, 175, 200, 225, 250, 275))+
-  theme_classic() +
-  theme(legend.position = "none",
-        axis.text.x = element_text(angle = 45, face = "bold"),
-        axis.text.y = element_text(face = "bold", size = 11),
-        axis.title = element_text(face = "bold", size = 11),
-        strip.text = element_text(face = "bold", size = 11),
-        strip.background = element_blank())
+#drop DOY column for ordination
+as.data.frame(cyano_matrix_18_biomass)
+cyano_biomass_ord18 <- cyano_matrix_18_biomass[, -(1)]
 
-tot_MC <- ggplot(toxs_zeros, aes(x=DOY, y = MC_total, colour = Sample_Type)) +
-  geom_line(size = 1) + geom_point(position = "jitter", alpha = 0.8) + 
-  xlab("Day of Year 2019") + ylab("") + 
-  scale_colour_manual(values = c("black", "#878787")) +
-  scale_x_continuous(breaks = c(150, 175, 200, 225, 250, 275))+
-  theme_classic() +
-  ggtitle("Total MC")+
-  theme(legend.position = "none",
-        plot.title = element_text(vjust = -8, size = 11, face = "bold"),
-        axis.text.x = element_text(angle = 45, face = "bold", size = 11),
-        axis.text.y = element_text(face = "bold", size = 11),
-        axis.title = element_text(face = "bold", size = 11))
-  
+#NMDS
+set.seed(123)
+cyano_nmds18 = metaMDS(cyano_biomass_ord18, distance = "bray", autotransform = F) 
+cyano_nmds18
 
-tox_patch <- all_tox + tot_MC + plot_layout(widths = c(3,1)) + 
-             plot_annotation(title = '2019')
+#checks
+goodness(cyano_nmds18)
+stressplot(cyano_nmds18)
+ordiplot(cyano_nmds18)
 
-## Toxins 2018 ####
+##extract data scores 
+cyano_datascores_18 = as.data.frame(scores(cyano_nmds18)) 
+#add DOY column 
+cyano_datascores_18$DOY = cyano_matrix_18_biomass$DOY
+#check
+head(cyano_datascores_18)
 
-toxs_018 <- read_csv(here("data/processed_data/", "Toxs2018_zerosLODs.csv"))
+##extract species scores
+cyano_speciesscores_18 <- as.data.frame(scores(cyano_nmds18, "species"))  
+cyano_speciesscores_18$species <- rownames(cyano_speciesscores_18)  
+head(cyano_speciesscores_18) 
 
-toxs_018 <-toxs_018 %>% filter(Depth_m == 0.8) %>%
-  mutate(DOY = yday(Date))
+##plot
+cyano_nmdsplot_18 <- ggplot() + 
+  ## geom_point(data=cyano_speciesscores_18, aes(x=NMDS1, y=NMDS2), size = 2.5, colour = "seagreen", shape = 8, stroke =1) +
+  geom_text_repel(data=cyano_speciesscores_18,aes(x=NMDS1,y=NMDS2,label=species), size=4.5, colour = "seagreen4", fontface = "bold", alpha = 0.55, point.size = NA) +  # add the species labels
+  geom_point(data=cyano_datascores_18,aes(x=NMDS1,y=NMDS2),size=2, alpha = 0.7) + # add the point markers
+  geom_text_repel(data=cyano_datascores_18,aes(x=NMDS1,y=NMDS2,label=DOY),size=3.5, alpha = 0.7, box.padding = 0.3, fontface = "bold") +  # add the DOY labels ##coord_equal() +
+  theme_bw() +
+  theme(axis.title.x = element_text(size = 12, face = "bold"),
+        axis.text.x = element_text(size = 12, face = "bold"),
+        axis.title.y = element_text(size = 12, face = "bold"),
+        axis.text.y = element_text(size = 12, face = "bold"),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank())
 
-toxs_018_2 <-toxs_018 %>% select(DOY, everything(), -Date, -Depth_m, -MC_total, -ANA_a,
-                                 -MC_HtyR, -dmMC_RR, -MC_LW, -CYN, -MC_HiIR,
-                                 -MC_LY) %>% arrange(DOY)
+cyano_nmdsplot_18_2 <- ggplot() + 
+  ## geom_point(data=cyano_speciesscores_18, aes(x=NMDS1, y=NMDS2), size = 2.5, colour = "seagreen", shape = 8, stroke =1) +
+  geom_text_repel(data=cyano_speciesscores_18,aes(x=NMDS1,y=NMDS2,label=species), size=4.5, colour = "seagreen4", fontface = "bold", alpha = 0.55, point.size = NA) +  # add the species labels
+  geom_point(data=cyano_datascores_18,aes(x=NMDS1,y=NMDS2),size=2, alpha = 0.7) + # add the point markers
+  ## geom_text_repel(data=cyano_datascores_18,aes(x=NMDS1,y=NMDS2,label=DOY),size=3.5, alpha = 0.6, box.padding = 0.3, fontface = "bold") +  # add the DOY labels ##coord_equal() +
+  theme_bw() +
+  theme(axis.title.x = element_text(size = 12, face = "bold"),
+        axis.text.x = element_text(size = 12, face = "bold"),
+        axis.title.y = element_text(size = 12, face = "bold"),
+        axis.text.y = element_text(size = 12, face = "bold"),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank())
 
-toxs_018_long <- toxs_018_2 %>% pivot_longer(cols = c(3:9), 
-                                           names_to = "Cyanotoxin", 
-                                           values_to = "Conc")
+##2018 Toxins ####
+##> LOD is 0, >LOD<LOQs replaced with LOD
 
-tox_names18 <-as_labeller(c('AP_A' = "AP-A", 'AP_B'= "AP-B",
-                          'dmMC_LR'= "dmMC-LR",'MC_LR'= "MC-LR",
-                          'MC_RR' = "MC-RR", 'MC_YR' = "MC-YR",
-                          'HANA_a' = "HANA-a"))
+toxs_2018 <- read_csv(here("data/processed_data/", "Toxs2018_zerosLOQs.csv"))
 
-all_tox_18 <- ggplot(toxs_018_long, aes(DOY, Conc, colour = Sample_Type)) +
-  geom_line(size = 1) + geom_point(position = "jitter", alpha = 0.8) + 
-  scale_colour_manual(values = c("black", "#878787")) + 
-  facet_wrap(~Cyanotoxin, scales = "free_y", labeller = tox_names18) +
-  xlab("Day of Year 2018") + ylab("Concentration ng/L") + 
-  scale_x_continuous(breaks = c(150, 175, 200, 225, 250, 275))+
-  theme_classic() +
-  theme(legend.position = "none",
-        axis.text.x = element_text(angle = 45, face = "bold"),
-        axis.text.y = element_text(face = "bold", size = 11),
-        axis.title = element_text(face = "bold", size = 11),
-        strip.text = element_text(face = "bold", size = 11),
-        strip.background = element_blank())
+intra_tox18 <- toxs_2018 %>% filter(Depth_m == 0.8)
 
-tot_MC_18 <- ggplot(toxs_018, aes(x=DOY, y = MC_total, colour = Sample_Type)) +
-  geom_line(size = 1) + geom_point(position = "jitter", alpha = 0.8) + 
-  scale_colour_manual(values = c("black", "#878787")) + 
-  xlab("Day of Year 2018") + ylab("") + 
-  scale_x_continuous(breaks = c(150, 175, 200, 225, 250, 275))+
-  theme_classic() +
-  ggtitle("Total MC")+
-  theme(legend.position = "none",
-        plot.title = element_text(vjust = -8, size = 11, face = "bold"),
-        axis.text.x = element_text(angle = 45, face = "bold", size = 11),
-        axis.text.y = element_text(face = "bold", size = 11),
-        axis.title = element_text(face = "bold", size = 11))
+#create matrix for ordination 
+intra_tox18_matrix <- intra_tox18 %>% mutate(DOY = yday(Date)) %>% 
+  select(DOY, everything(), -Date, -Sample_Type, -Depth_m) 
 
-tox_patch18 <- all_tox_18 + tot_MC_18 + plot_layout(widths = c(3,1)) +
-  plot_annotation(title = '2018')
+as.data.frame(intra_tox18_matrix)
+intra_tox18_ord <- intra_tox18_matrix[, -(1)]
 
-##multi-panel figure
-tox_patch18/tox_patch + plot_annotation(tag_levels = 'a', tag_suffix = ')') & 
-  theme(plot.tag = element_text(face = "bold")) 
+##sqrt transformation of toxins
+sqrt_tox18<-apply(intra_tox18_ord, c(1,2), function(x) sqrt(x))
+sqrt_tox18
+
+sqrt_tox18 <- as.data.frame(sqrt_tox18)
+
+sqrt_tox18_vecs <- envfit(cyano_nmds18, sqrt_tox18, permu = 999, na.rm = TRUE)
+sqrt_tox18_vecs
+
+sqrt_toxscores_18 <- as.data.frame(scores(sqrt_tox18_vecs, display = "vectors")) #extract scores from envfit
+sqrt_toxscores_18 <- cbind(sqrt_toxscores_18, toxs = rownames(sqrt_toxscores_18)) #add names
+sqrt_toxscores_18 <- cbind(sqrt_toxscores_18, pval = sqrt_tox18_vecs$vectors$pvals) # add pvalues 
+sig_sqrt_toxscores_18 <- subset(sqrt_toxscores_18, pval<=0.051) #subset variables significant at 0.05
+
+head(sqrt_toxscores_18)
+
+##add vectors to plot
+vec_plot18 <- cyano_nmdsplot_18_2 + 
+  geom_segment(data = sig_sqrt_toxscores_18, aes(x = 0, xend=NMDS1, y=0, yend=NMDS2), arrow = arrow(length = unit(0.25, "cm")), colour = "black", lwd=0.8) + #sig toxins
+  geom_text_repel(data = sig_sqrt_toxscores_18, aes(x=NMDS1, y=NMDS2, label = toxs), size = 3, bg.colour = "white", bg.r = 0.15, colour = "black", fontface = "bold", direction = "both", segment.size = NA, segment.angle = 180) #add labels for toxins
+
+## 2019 ####
+phytos_2019 <- read_csv(here("data/processed_data/", "BP_PhytoTax_2019_KP.csv"))
+
+cyanos_19 <- phytos_2019 %>% filter(Group == "Cyanophyte")
+
+cyano_matrix <- cyanos_19 %>%
+  select(DOY,
+         name_code,
+         Cell_Density_L,
+         Biomass_mg_m3) %>%
+  group_by(DOY, name_code) %>%
+  dplyr::summarize_at(vars(Cell_Density_L, Biomass_mg_m3), list(total = sum)) %>%
+  droplevels()
+
+cyano_matrix_biomass <- cyano_matrix %>%
+  select(DOY, name_code, Biomass_mg_m3_total) %>%
+  pivot_wider(names_from = name_code, values_from =  Biomass_mg_m3_total, values_fill = 0)
+
+##rename Anabaena to Dolichospermum
+cyano_matrix_biomass <- cyano_matrix_biomass %>% rename(Dol.flo = Ana.flo,
+                                                        Dol.cra = Ana.cra)
+
+#drop DOY column for ordination
+as.data.frame(cyano_matrix_biomass)
+cyano_biomass_ord <- cyano_matrix_biomass[, -(1)]
+
+#NMDS
+set.seed(123)
+cyano_nmds = metaMDS(cyano_biomass_ord, distance = "bray", autotransform = F) 
+cyano_nmds
+
+#checks
+goodness(cyano_nmds)
+stressplot(cyano_nmds)
+ordiplot(cyano_nmds)
+
+##extract data scores 
+cyano_data_scores = as.data.frame(scores(cyano_nmds)) 
+#add DOY to data frame 
+cyano_data_scores$DOY = cyano_matrix_biomass$DOY
+#check 
+head(cyano_data_scores)
+
+##extract species scores
+cyano_species_scores <- as.data.frame(scores(cyano_nmds, "species"))  
+cyano_species_scores$species <- rownames(cyano_species_scores)  
+head(cyano_species_scores) 
+
+cyano_nmds_plot_19 <- ggplot() + 
+  geom_text_repel(data=cyano_species_scores,aes(x=NMDS1,y=NMDS2,label=species), size=4.5, colour = "seagreen4", fontface = "bold", alpha = 0.55, point.size = NA) +  # add the species labels
+  geom_point(data=cyano_data_scores,aes(x=NMDS1,y=NMDS2),size=2, alpha = 0.7) + # add the point markers
+  geom_text_repel(data=cyano_data_scores,aes(x=NMDS1,y=NMDS2,label=DOY),size=3.5, alpha = 0.7, box.padding = 0.3, fontface = "bold") +  # add the DOY labels +
+  ##coord_equal() +
+  theme_bw() +
+  theme(axis.title.x = element_text(size = 12, face = "bold"),
+        axis.text.x = element_text(size = 12, face = "bold"),
+        axis.title.y = element_text(size = 12, face = "bold"),
+        axis.text.y = element_text(size = 12, face = "bold"),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank())
+
+cyano_nmds_plot_19_2 <- ggplot() + 
+  geom_text_repel(data=cyano_species_scores,aes(x=NMDS1,y=NMDS2,label=species), size=4.5, colour = "seagreen4", fontface = "bold", alpha = 0.55, point.size = NA) +  # add the species labels
+  geom_point(data=cyano_data_scores,aes(x=NMDS1,y=NMDS2),size=2, alpha = 0.7) + # add the point markers
+  ##geom_text_repel(data=cyano_data_scores,aes(x=NMDS1,y=NMDS2,label=DOY),size=3.5, alpha = 0.6, box.padding = 0.3, fontface = "bold") +  # add the DOY labels +
+  ##coord_equal() +
+  theme_bw() +
+  theme(axis.title.x = element_text(size = 12, face = "bold"),
+        axis.text.x = element_text(size = 12, face = "bold"),
+        axis.title.y = element_text(size = 12, face = "bold"),
+        axis.text.y = element_text(size = 12, face = "bold"),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank())
+
+
+## 2019 Toxins ####
+##LODs replaced with zeros, >LOD<LOQs replaced with LOQ
+
+toxs_2019 <- read_csv(here("data/processed_data/", "Toxs2019_zerosLOQs.csv"))
+
+intra_tox <- toxs_2019 %>% filter(Depth_m == 0.8)
+intra_tox_matrix <- intra_tox %>% mutate(DOY = yday(Date)) %>% 
+  select(DOY, everything(), -Date, -Sample_Type, -Depth_m) 
+
+as.data.frame(intra_tox_matrix)
+intra_tox_ord <- intra_tox_matrix[, -(1)]
+
+##sqrt transformation of toxins
+sqrt_tox<-apply(intra_tox_ord, c(1,2), function(x) sqrt(x))
+sqrt_tox
+
+sqrt_tox <- as.data.frame(sqrt_tox)
+
+sqrt_tox_vecs <- envfit(cyano_nmds, sqrt_tox, permu = 999, na.rm = TRUE)
+sqrt_tox_vecs
+
+sqrttox_scores <- as.data.frame(scores(sqrt_tox_vecs, display = "vectors")) #extract scores from envfit
+sqrttox_scores <- cbind(sqrttox_scores, toxs = rownames(sqrttox_scores)) #add tox names
+sqrttox_scores <- cbind(sqrttox_scores, pval = sqrt_tox_vecs$vectors$pvals) # add pvalues
+sig_sqrttox_scores <- subset(sqrttox_scores, pval<=0.051) #subset toxins significant at 0.05
+
+head(sqrttox_scores)
+
+vec_plot19 <- cyano_nmds_plot_19_2 + 
+  geom_segment(data = sig_sqrttox_scores, aes(x = 0, xend=NMDS1, y=0, yend=NMDS2), 
+               arrow = arrow(length = unit(0.25, "cm")), colour = "black", lwd=0.8) + #sig toxins
+  geom_text_repel(data = sig_sqrttox_scores, aes(x=NMDS1, y=NMDS2, label = toxs), 
+                  size = 3, bg.colour = "white", bg.r = 0.15, colour = "black", fontface = "bold", direction = "both", segment.size = NA, segment.angle = 180) #add labels for toxins
+
+## FIGURE 5 -patchwork of the ordinations ####
+
+layout <- "AABB
+           CCDD"
+
+cyano_nmdsplot_18 +  cyano_nmds_plot_19 + vec_plot18 + vec_plot19 + 
+  plot_layout(design = layout) +
+  plot_annotation(tag_levels = 'a', tag_suffix = ')') & 
+  theme(plot.tag = element_text(face = "bold", size = 12))
+
+## Spearman correlations ####
+##Corr matrix of cyanos with most prevalent toxins ####
+library(Hmisc)
+
+## run code for Flatten matrix function (see below)
+
+#2018
+#reduce toxins
+red_tox18_matrix <- intra_tox18_matrix %>% select(DOY, MC_total, AP_A, AP_B)
+#join two 2018 matrices
+cyano_tox18 <- left_join(cyano_matrix_18_biomass, red_tox18_matrix, by = "DOY")
+cyano_tox18 <- cyano_tox18[, -(1)]
+
+cor_tox18 <- rcorr(as.matrix(cyano_tox18), type = "spearman")
+cor_tox18
+
+cor_tox18_print <- flattenCorrMatrix(cor_tox18$r, cor_tox18$P)
+cor_tox18_print
+
+#2019
+red_tox19_matrix <- intra_tox_matrix %>% select(DOY, MC_total, AP_A, AP_B)
+#join two 2019 matrices
+cyano_tox <- left_join(cyano_matrix_biomass, red_tox19_matrix, by = "DOY")
+cyano_tox <- cyano_tox[, -(1)]
+
+cor_tox <- rcorr(as.matrix(cyano_tox), type = "spearman")
+cor_tox
+
+cor_tox_print <- flattenCorrMatrix(cor_tox$r, cor_tox$P)
+
+
+##code from web for function to make correlation matrix easier to read
+
+# flattenCorrMatrix code from: http://www.sthda.com/english/wiki/correlation-matrix-formatting-and-visualization
+
+# cormat : matrix of the correlation coefficients
+# pmat : matrix of the correlation p-values
+flattenCorrMatrix <- function(cormat, pmat) {
+  ut <- upper.tri(cormat)
+  data.frame(
+    row = rownames(cormat)[row(cormat)[ut]],
+    column = rownames(cormat)[col(cormat)[ut]],
+    cor  =(cormat)[ut],
+    p = pmat[ut]
+  )
+}
+

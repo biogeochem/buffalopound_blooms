@@ -1,4 +1,4 @@
-#Fig S1 - Temperature from YSI 
+#Fig S4 - Temperature from YSI 
 
 #libraries
 library(tidyverse)

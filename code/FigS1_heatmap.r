@@ -1,4 +1,4 @@
-#Fig S2 - Heatmap of cyano species
+#Fig S1 - Heatmap of cyano species
 
 #libraries
 library(tidyverse)
@@ -9,7 +9,7 @@ library(scales)
 
 #2018 cyano data ####
 
-phyt2018_tax <- read_csv(here("data/clean_data/", "BP_PhytoTax_2018_KP.csv"))
+phyt2018_tax <- read_csv(here("data/processed_data/", "BP_PhytoTax_2018_KP.csv"))
 
 cyanos_18 <- phyt2018_tax %>% filter(Group %in% "Cyanophyte")
 
@@ -33,7 +33,7 @@ cyanos_18 <- cyanos_18 %>% pivot_longer(cols = c(2:11), names_to = "Name", value
 
 #2019 cyano data ####
 
-phyt2019_tax <- read_csv(here("data/clean_data/", "BP_PhytoTax_2019_KP.csv"))
+phyt2019_tax <- read_csv(here("data/processed_data/", "BP_PhytoTax_2019_KP.csv"))
 
 cyanos_19 <- phyt2019_tax %>% filter(Group %in% "Cyanophyte")
 
