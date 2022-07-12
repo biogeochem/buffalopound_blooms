@@ -9,7 +9,7 @@ Cyanobacterial blooms present challenges for water treatment, especially in regi
 - Kristin Painter, University of Saskatchewan, kristin.painter@usask.ca, ORCID 0000-0003-3264-0961
 - Jason Venkiteswaran, Wilfrid Laurier University, jvenkiteswaran@wlu.ca, ORCID 0000-0002-6574-7071
 - Dana Simon, Université de Montréal, df.simon@umontreal.ca,
-- Sung Vo Doy, Université de Montréal, sung.voduy@yahoo.fr
+- Sung Vo Duy, Université de Montréal, sung.voduy@yahoo.fr
 - Sébastien Sauvé, Université de Montréal, sebastien.sauve@umontreal.ca
 - Helen Baulch, University of Saskatchewan, helen.baulch@usask.ca, ORCID 0000-0001-9018-4998
 
